@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://your-app.up.railway.app',
+  apiUrl: 'https://fisch-production-b8be.up.railway.app',
 };
