@@ -8,12 +8,15 @@ import {
 } from '@angular/core';
 import { ChecklistCheckboxComponent } from '../checklist-checkbox/checklist-checkbox.component';
 import { ConfirmDialogComponent } from '../confirm-dialog/confirm-dialog.component';
+import { FishDetailComponent } from '../fish-detail/fish-detail.component';
 import { ItemThumbnailComponent } from '../item-thumbnail/item-thumbnail.component';
+import { FishDetailData } from '../../models/catalog.models';
 
 export interface ChecklistRow {
   id: string;
   name: string;
-  detail: string;
+  detail?: string;
+  fishDetail?: FishDetailData;
   wiki_url: string;
   image_url?: string | null;
   color?: string | null;
@@ -24,7 +27,12 @@ export interface ChecklistRow {
 @Component({
   selector: 'app-category-section',
   standalone: true,
-  imports: [ChecklistCheckboxComponent, ItemThumbnailComponent, ConfirmDialogComponent],
+  imports: [
+    ChecklistCheckboxComponent,
+    FishDetailComponent,
+    ItemThumbnailComponent,
+    ConfirmDialogComponent,
+  ],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <section class="category-section card">
@@ -96,7 +104,13 @@ export interface ChecklistRow {
                       Wiki
                     </a>
                   </td>
-                  <td class="muted detail">{{ row.detail }}</td>
+                  <td class="detail">
+                    @if (row.fishDetail) {
+                      <app-fish-detail [detail]="row.fishDetail" />
+                    } @else {
+                      <span class="muted">{{ row.detail }}</span>
+                    }
+                  </td>
                 </tr>
               }
             </tbody>

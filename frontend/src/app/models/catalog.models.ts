@@ -9,6 +9,13 @@ export interface RodItem {
   color?: string | null;
 }
 
+export interface FishDetailData {
+  weather: string | null;
+  time: string | null;
+  season: string | null;
+  bait: string | null;
+}
+
 export interface FishItem {
   id: string;
   name: string;

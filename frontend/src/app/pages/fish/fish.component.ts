@@ -117,7 +117,12 @@ export class FishComponent {
       rows.push({
         id: fish.id,
         name: fish.name,
-        detail: this.formatFishDetail(fish),
+        fishDetail: {
+          weather: fish.weather,
+          time: fish.time,
+          season: fish.season,
+          bait: fish.bait,
+        },
         wiki_url: fish.wiki_url,
         image_url: fish.image_url,
         rarity: fish.rarity,
@@ -140,13 +145,4 @@ export class FishComponent {
     this.progress.checkFish(ids);
   }
 
-  private formatFishDetail(fish: FishCategory['fish'][number]): string {
-    const parts = [
-      fish.weather && `Weather: ${fish.weather}`,
-      fish.time && `Time: ${fish.time}`,
-      fish.season && `Season: ${fish.season}`,
-      fish.bait && `Bait: ${fish.bait}`,
-    ].filter(Boolean);
-    return parts.join(' · ') || '—';
-  }
 }

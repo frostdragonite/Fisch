@@ -1,0 +1,47 @@
+.fish-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  line-height: 1.35;
+}
+
+.fish-detail__conditions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 0.4rem;
+}
+
+.condition-sep {
+  color: var(--text-muted);
+  opacity: 0.55;
+  user-select: none;
+}
+
+.condition-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.condition-chip__icon {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.condition-chip__label {
+  font-weight: 500;
+}
+
+.condition-chip--none {
+  color: var(--text-muted);
+}
+
+.fish-detail__bait {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
