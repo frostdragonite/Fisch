@@ -1,3 +1,8 @@
+# ------------------- IMPORTANT -------------------
+# Vibe Code Btw, แค่ใช้งานเล่นๆ เฉยๆ
+# -------------------------------------------------
+
+
 # Fisch Masterline Rod Checklist
 
 เว็บ checklist สำหรับติดตามความคืบหน้า **Rod Journal** และ **Bestiary** เพื่อปลดล็อก **Masterline Rod** ในเกม Fisch
