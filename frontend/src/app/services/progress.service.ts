@@ -125,7 +125,7 @@ export class ProgressService {
     if (this.saveTimer) {
       clearTimeout(this.saveTimer);
     }
-    this.saveTimer = setTimeout(() => this.flushSave(), 500);
+    this.saveTimer = setTimeout(() => this.flushSave(), 5000);
   }
 
   async flushSave(progressId?: string): Promise<void> {

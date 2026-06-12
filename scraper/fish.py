@@ -31,6 +31,84 @@ SECTION_RE = re.compile(
     re.IGNORECASE,
 )
 
+# Wiki section titles → display names used in the app.
+LOCATION_DISPLAY_NAMES = {
+    "Depths": "The Depths",
+}
+
+SOURCES_RE = re.compile(r"Sources\s+(.+?)\s+Preferences", re.IGNORECASE | re.DOTALL)
+
+SOURCE_METADATA_MARKERS = (
+    " Resilience",
+    " Tier",
+    " GPS",
+    " Progress",
+    " Behavior",
+    " Passive",
+)
+
+
+def _strip_source_metadata(part: str) -> str:
+    part = part.strip()
+    for marker in SOURCE_METADATA_MARKERS:
+        idx = part.find(marker)
+        if idx != -1:
+            part = part[:idx].strip()
+    return part
+
+
+def _normalize_source_method(method: str) -> str:
+    for prefix in ("Lobster Cage", "Fishing Net"):
+        if method.startswith(prefix):
+            return prefix
+    return method
+
+
+def _is_valid_source_method(method: str) -> bool:
+    if not method:
+        return False
+    return not re.fullmatch(r"-?\d+(?:\.\d+)?", method)
+
+
+def _parse_fish_source_methods(html: str) -> list[str]:
+    """Extract catch-method names from the Sources field on a fish wiki page."""
+    soup = BeautifulSoup(html, "lxml")
+    text = soup.get_text(" ", strip=True)
+    match = SOURCES_RE.search(text)
+    if not match:
+        return []
+
+    methods: list[str] = []
+    for part in match.group(1).split(","):
+        method = _normalize_source_method(_strip_source_metadata(part))
+        if not _is_valid_source_method(method):
+            continue
+        if method not in methods:
+            methods.append(method)
+    return methods
+
+
+def _display_source(methods: list[str]) -> str | None:
+    """Return non-Fishing-Rod sources for display, or None if rod-only."""
+    non_rod = [method for method in methods if method != "Fishing Rod"]
+    if not non_rod:
+        return None
+    return ", ".join(non_rod)
+
+
+def _load_fish_sources(fish_names: list[str]) -> dict[str, str | None]:
+    """Fetch each fish wiki page and map name -> display source (if not rod-only)."""
+    sources: dict[str, str | None] = {}
+    total = len(fish_names)
+
+    for index, name in enumerate(fish_names, start=1):
+        if index % 50 == 0 or index == total:
+            print(f"  Sources: {index}/{total}", flush=True)
+        html = fetch_parse_html(name)
+        sources[name] = _display_source(_parse_fish_source_methods(html))
+
+    return sources
+
 
 def _load_excluded_fish() -> set[str]:
     excluded: set[str] = set()
@@ -109,7 +187,8 @@ def _parse_fish_tables(html: str, bait_catalog: dict[str, str]) -> list[dict]:
             text = clean_text(element.get_text())
             match = SECTION_RE.search(text)
             if match:
-                current_location = match.group(1).strip()
+                raw = match.group(1).strip()
+                current_location = LOCATION_DISPLAY_NAMES.get(raw, raw)
             continue
 
         if not current_location:
@@ -170,25 +249,32 @@ def scrape_fish() -> dict:
             continue
         required_candidates.append(fish)
 
-    thumbnails = fetch_page_thumbnails([f["name"] for f in required_candidates])
+    fish_names = [f["name"] for f in required_candidates]
+    thumbnails = fetch_page_thumbnails(fish_names)
+    print("Fetching fish catch sources from wiki pages...", flush=True)
+    source_by_name = _load_fish_sources(fish_names)
 
     required: list[dict] = []
     for fish in required_candidates:
-        required.append(
-            {
-                "id": slugify(fish["name"]),
-                "name": fish["name"],
-                "bestiary_location": fish["bestiary_location"],
-                "weather": fish["weather"] or None,
-                "time": fish["time"] or None,
-                "season": fish["season"] or None,
-                "bait": fish["bait"] or None,
-                "wiki_url": fish["wiki_url"],
-                "image_url": thumbnails.get(fish["name"]),
-                **({"rarity": fish["rarity"]} if fish.get("rarity") else {}),
-                **({"bait_items": fish["bait_items"]} if fish.get("bait_items") else {}),
-            }
-        )
+        entry: dict = {
+            "id": slugify(fish["name"]),
+            "name": fish["name"],
+            "bestiary_location": fish["bestiary_location"],
+            "weather": fish["weather"] or None,
+            "time": fish["time"] or None,
+            "season": fish["season"] or None,
+            "bait": fish["bait"] or None,
+            "wiki_url": fish["wiki_url"],
+            "image_url": thumbnails.get(fish["name"]),
+        }
+        if fish.get("rarity"):
+            entry["rarity"] = fish["rarity"]
+        if fish.get("bait_items"):
+            entry["bait_items"] = fish["bait_items"]
+        source = source_by_name.get(fish["name"])
+        if source:
+            entry["source"] = source
+        required.append(entry)
 
     by_location: dict[str, list[dict]] = defaultdict(list)
     for fish in required:

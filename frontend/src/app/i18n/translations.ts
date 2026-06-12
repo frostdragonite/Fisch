@@ -49,6 +49,7 @@ export const TRANSLATIONS = {
     'confirm.cancel': 'ยกเลิก',
 
     'fishDetail.bait': 'Bait:',
+    'fishDetail.source': 'Source:',
     'common.openWiki': 'เปิด Wiki: {name}',
 
     'error.progressLoad':
@@ -115,6 +116,7 @@ export const TRANSLATIONS = {
     'confirm.cancel': 'Cancel',
 
     'fishDetail.bait': 'Bait:',
+    'fishDetail.source': 'Source:',
     'common.openWiki': 'Open wiki: {name}',
 
     'error.progressLoad':

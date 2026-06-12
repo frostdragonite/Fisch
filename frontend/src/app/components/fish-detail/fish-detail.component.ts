@@ -70,10 +70,16 @@ interface ConditionChip {
           }
         }
       </div>
+      @if (detail().source) {
+        <div class="fish-detail__meta">
+          <span class="fish-detail__meta-label">{{ locale.t('fishDetail.source') }}</span>
+          <span class="fish-detail__meta-value">{{ detail().source }}</span>
+        </div>
+      }
       @if (baitItems().length) {
-        <div class="fish-detail__bait">
-          <span class="fish-detail__bait-label">{{ locale.t('fishDetail.bait') }}</span>
-          <span class="fish-detail__bait-list">
+        <div class="fish-detail__meta">
+          <span class="fish-detail__meta-label">{{ locale.t('fishDetail.bait') }}</span>
+          <span class="fish-detail__meta-list">
             @for (bait of baitItems(); track bait.name; let last = $last) {
               <a
                 [class]="baitLinkClass(bait)"
@@ -85,7 +91,7 @@ interface ConditionChip {
                 {{ bait.name }}
               </a>
               @if (!last) {
-                <span class="fish-detail__bait-sep">, </span>
+                <span class="fish-detail__meta-sep">, </span>
               }
             }
           </span>

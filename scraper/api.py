@@ -1,14 +1,18 @@
 """MediaWiki API client for fischipedia.org."""
 
+import json
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
-import json
 from typing import Any
 
 BASE_URL = "https://fischipedia.org/w/api.php"
 USER_AGENT = "FischMasterlineChecklist/1.0 (personal project)"
 RATE_LIMIT_SEC = 1.0
+REQUEST_TIMEOUT_SEC = 90
+MAX_RETRIES = 4
+RETRY_BACKOFF_SEC = 5.0
 _last_request = 0.0
 
 
@@ -21,12 +25,23 @@ def _rate_limit() -> None:
 
 
 def _request(params: dict[str, Any]) -> dict[str, Any]:
-    _rate_limit()
     params.setdefault("format", "json")
     url = BASE_URL + "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+
+    last_error: Exception | None = None
+    for attempt in range(MAX_RETRIES):
+        _rate_limit()
+        try:
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT_SEC) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except (TimeoutError, urllib.error.URLError, OSError) as exc:
+            last_error = exc
+            if attempt < MAX_RETRIES - 1:
+                time.sleep(RETRY_BACKOFF_SEC * (attempt + 1))
+                continue
+            raise
+    raise last_error  # pragma: no cover
 
 
 def fetch_parse_html(page_title: str) -> str:

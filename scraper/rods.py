@@ -22,7 +22,6 @@ EXCLUDED_BY_NAME = frozenset(
 )
 
 JOURNAL_CATEGORY_ORDER = [
-    "Limited",
     "Regionless",
     "Abyssal Zenith",
     "Ancient Archives",
@@ -77,6 +76,7 @@ JOURNAL_CATEGORY_ORDER = [
     "Northern Summit",
     "The Shady Bazaar",
     "Removed",
+    "Limited",
     "Other",
 ]
 

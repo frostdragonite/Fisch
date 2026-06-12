@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-12T12:23:20.645788+00:00",
+  "scraped_at": "2026-06-12T14:19:29.312025+00:00",
   "wiki_version_note": "1554 total fish scraped",
   "categories": [
     {
@@ -291,7 +291,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Anglers_Lantern",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/62/Anglers_Lantern.png/64px-Anglers_Lantern.png",
-          "rarity": "exotic"
+          "rarity": "exotic",
+          "source": "Anglerfish Puzzle"
         },
         {
           "id": "crowned-anglerfish",
@@ -856,7 +857,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Amethyst",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/2/2e/Amethyst.png/64px-Amethyst.png",
-          "rarity": "gemstone"
+          "rarity": "gemstone",
+          "source": "Meteors, Personal Aquarium"
         },
         {
           "id": "lapis-lazuli",
@@ -868,7 +870,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Lapis_Lazuli",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9f/Lapis_Lazuli.png/64px-Lapis_Lazuli.png",
-          "rarity": "gemstone"
+          "rarity": "gemstone",
+          "source": "Meteors, Personal Aquarium"
         },
         {
           "id": "moonstone",
@@ -880,7 +883,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Moonstone",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b6/Moonstone.png/64px-Moonstone.png",
-          "rarity": "gemstone"
+          "rarity": "gemstone",
+          "source": "Meteors, Personal Aquarium, Daily Shop"
         },
         {
           "id": "opal",
@@ -892,7 +896,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Opal",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/3/3c/Opal.png/64px-Opal.png",
-          "rarity": "gemstone"
+          "rarity": "gemstone",
+          "source": "Meteors, Personal Aquarium"
         },
         {
           "id": "ruby",
@@ -904,7 +909,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Ruby",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a9/Ruby.png/64px-Ruby.png",
-          "rarity": "gemstone"
+          "rarity": "gemstone",
+          "source": "Meteors, Personal Aquarium"
         }
       ]
     },
@@ -2883,7 +2889,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Green_Sea_Urchin",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6e/Green_Sea_Urchin.png/64px-Green_Sea_Urchin.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Crab Cage"
         },
         {
           "id": "fourhorn-sculpin",
@@ -2952,7 +2959,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Snow_Crab",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/61/Snow_Crab.png/64px-Snow_Crab.png",
-          "rarity": "uncommon"
+          "rarity": "uncommon",
+          "source": "Crab Cage"
         },
         {
           "id": "eelpout",
@@ -3040,7 +3048,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/King_Crab",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b1/King_Crab.png/64px-King_Crab.png",
-          "rarity": "legendary"
+          "rarity": "legendary",
+          "source": "Crab Cage"
         },
         {
           "id": "glacial-squid",
@@ -3126,7 +3135,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Coral Geode"
         },
         {
           "id": "brine-shrimp",
@@ -3138,7 +3148,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Brine_Shrimp",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/78/Brine_Shrimp.png/64px-Brine_Shrimp.png",
-          "rarity": "uncommon"
+          "rarity": "uncommon",
+          "source": "Coral Geode"
         },
         {
           "id": "globe-jellyfish",
@@ -3150,7 +3161,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Globe_Jellyfish",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/3/34/Globe_Jellyfish.png/64px-Globe_Jellyfish.png",
-          "rarity": "unusual"
+          "rarity": "unusual",
+          "source": "Coral Geode"
         },
         {
           "id": "dweller-catfish",
@@ -3546,7 +3558,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Gale_Grub",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "flamekissed-hawkfish",
@@ -3565,7 +3578,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Bagel",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "cobalt-angelfish",
@@ -3584,7 +3598,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "mandarinfish",
@@ -3603,7 +3618,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Insect",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "trevally",
@@ -3622,7 +3638,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "warty-frogfish",
@@ -3641,7 +3658,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Flakes",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "hidden-pipefish",
@@ -3660,7 +3678,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "mirage-toadfish",
@@ -3679,7 +3698,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "scalloped-hammerhead",
@@ -3910,7 +3930,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "roughhead-grenadier",
@@ -3929,7 +3950,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "atlantic-halosaur",
@@ -3948,7 +3970,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "blackfin-icefish",
@@ -3967,7 +3990,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "shortnose-chimaera",
@@ -3986,7 +4010,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "bigeye-houndshark",
@@ -4024,7 +4049,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "opah",
@@ -4043,7 +4069,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "blackfin-barracuda",
@@ -4062,7 +4089,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "black-scabbardfish",
@@ -4124,7 +4152,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "lizardfish",
@@ -4143,7 +4172,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "emperor-angelfish",
@@ -4162,7 +4192,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Coral",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "regal-angelfish",
@@ -4181,7 +4212,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Deep_Coral",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "scorpionfish",
@@ -4200,7 +4232,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "bigeye-trevally",
@@ -4219,7 +4252,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "atlantic-goliath-grouper",
@@ -4238,7 +4272,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shark_Head",
               "rarity": "mythical"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "sand-tiger-shark",
@@ -4257,7 +4292,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "wobbegong-shark",
@@ -4276,7 +4312,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "reef-titan",
@@ -4312,7 +4349,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "red-crabsquid",
@@ -4324,7 +4362,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Red_Crabsquid",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/07/Red_Crabsquid.png/64px-Red_Crabsquid.png",
-          "rarity": "uncommon"
+          "rarity": "uncommon",
+          "source": "Crab Cage"
         },
         {
           "id": "sea-raven",
@@ -4457,7 +4496,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Weird_Algae",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         }
       ]
     },
@@ -4481,7 +4521,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "oil-sardine",
@@ -4500,7 +4541,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Flakes",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "roundnose-grenadier",
@@ -4519,7 +4561,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "greater-weever",
@@ -4538,7 +4581,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "silver-roughy",
@@ -4557,7 +4601,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "spotted-drum",
@@ -4576,7 +4621,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "warty-oreo",
@@ -4595,7 +4641,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "armorhead",
@@ -4607,7 +4654,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Armorhead",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a0/Armorhead.png/64px-Armorhead.png",
-          "rarity": "unusual"
+          "rarity": "unusual",
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "blackspot-tuskfish",
@@ -4619,7 +4667,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Blackspot_Tuskfish",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/f/ff/Blackspot_Tuskfish.png/64px-Blackspot_Tuskfish.png",
-          "rarity": "unusual"
+          "rarity": "unusual",
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "tompot-blenny",
@@ -4638,7 +4687,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "black-snoek",
@@ -4657,7 +4707,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear"
         },
         {
           "id": "blackmouth-catshark",
@@ -4669,7 +4720,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Blackmouth_Catshark",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c2/Blackmouth_Catshark.png/64px-Blackmouth_Catshark.png",
-          "rarity": "mythical"
+          "rarity": "mythical",
+          "source": "Spear"
         },
         {
           "id": "goldwraith",
@@ -4900,7 +4952,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Mutated_Crystal_Shrimp",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/5/5e/Mutated_Crystal_Shrimp.png/64px-Mutated_Crystal_Shrimp.png",
-          "rarity": "rare"
+          "rarity": "rare",
+          "source": "Crab Cage"
         },
         {
           "id": "opalescent-catfish",
@@ -4969,7 +5022,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Crystal_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/d/da/Crystal_Lobster.png/64px-Crystal_Lobster.png",
-          "rarity": "legendary"
+          "rarity": "legendary",
+          "source": "Crab Cage"
         },
         {
           "id": "stringed-grouper",
@@ -5019,7 +5073,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Musical_Crab",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/9/94/Musical_Crab.png/64px-Musical_Crab.png",
-          "rarity": "mythical"
+          "rarity": "mythical",
+          "source": "Crab Cage"
         }
       ]
     },
@@ -5666,308 +5721,6 @@
       ]
     },
     {
-      "name": "Depths",
-      "fish": [
-        {
-          "id": "deep-sea-dragonfish",
-          "name": "Deep-sea Dragonfish",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "None",
-          "bait": "Deep Coral",
-          "wiki_url": "https://fischipedia.org/wiki/Deep-sea_Dragonfish",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6c/Deep-sea_Dragonfish.png/64px-Deep-sea_Dragonfish.png",
-          "rarity": "common",
-          "bait_items": [
-            {
-              "name": "Deep Coral",
-              "wiki_url": "https://fischipedia.org/wiki/Deep_Coral",
-              "rarity": "legendary"
-            }
-          ]
-        },
-        {
-          "id": "deep-sea-hatchetfish",
-          "name": "Deep-sea Hatchetfish",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "None",
-          "bait": "Seaweed",
-          "wiki_url": "https://fischipedia.org/wiki/Deep-sea_Hatchetfish",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c2/Deep-sea_Hatchetfish.png/64px-Deep-sea_Hatchetfish.png",
-          "rarity": "common",
-          "bait_items": [
-            {
-              "name": "Seaweed",
-              "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
-              "rarity": "unusual"
-            }
-          ]
-        },
-        {
-          "id": "depth-octopus",
-          "name": "Depth Octopus",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Day",
-          "season": "None",
-          "bait": "Coral",
-          "wiki_url": "https://fischipedia.org/wiki/Depth_Octopus",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b2/Depth_Octopus.png/64px-Depth_Octopus.png",
-          "rarity": "unusual",
-          "bait_items": [
-            {
-              "name": "Coral",
-              "wiki_url": "https://fischipedia.org/wiki/Coral",
-              "rarity": "unusual"
-            }
-          ]
-        },
-        {
-          "id": "frilled-shark",
-          "name": "Frilled Shark",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "None",
-          "bait": "Fish Head",
-          "wiki_url": "https://fischipedia.org/wiki/Frilled_Shark",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/af/Frilled_Shark.png/64px-Frilled_Shark.png",
-          "rarity": "unusual",
-          "bait_items": [
-            {
-              "name": "Fish Head",
-              "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
-              "rarity": "legendary"
-            }
-          ]
-        },
-        {
-          "id": "luminescent-minnow",
-          "name": "Luminescent Minnow",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "Spring",
-          "bait": "Seaweed",
-          "wiki_url": "https://fischipedia.org/wiki/Luminescent_Minnow",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/Luminescent_Minnow.png/64px-Luminescent_Minnow.png",
-          "rarity": "unusual",
-          "bait_items": [
-            {
-              "name": "Seaweed",
-              "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
-              "rarity": "unusual"
-            }
-          ]
-        },
-        {
-          "id": "three-eyed-fish",
-          "name": "Three-eyed Fish",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "None",
-          "bait": "Seaweed",
-          "wiki_url": "https://fischipedia.org/wiki/Three-eyed_Fish",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/2e/Three-eyed_Fish.png/64px-Three-eyed_Fish.png",
-          "rarity": "unusual",
-          "bait_items": [
-            {
-              "name": "Seaweed",
-              "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
-              "rarity": "unusual"
-            }
-          ]
-        },
-        {
-          "id": "black-dragon-fish",
-          "name": "Black Dragon Fish",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "None",
-          "bait": "Deep Coral",
-          "wiki_url": "https://fischipedia.org/wiki/Black_Dragon_Fish",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Black_Dragon_Fish.png/64px-Black_Dragon_Fish.png",
-          "rarity": "rare",
-          "bait_items": [
-            {
-              "name": "Deep Coral",
-              "wiki_url": "https://fischipedia.org/wiki/Deep_Coral",
-              "rarity": "legendary"
-            }
-          ]
-        },
-        {
-          "id": "goblin-shark",
-          "name": "Goblin Shark",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "Spring, Summer",
-          "bait": "Fish Head",
-          "wiki_url": "https://fischipedia.org/wiki/Goblin_Shark",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/13/Goblin_Shark.png/64px-Goblin_Shark.png",
-          "rarity": "rare",
-          "bait_items": [
-            {
-              "name": "Fish Head",
-              "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
-              "rarity": "legendary"
-            }
-          ]
-        },
-        {
-          "id": "spider-crab",
-          "name": "Spider Crab",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Day",
-          "season": "Summer",
-          "bait": "Deep Coral",
-          "wiki_url": "https://fischipedia.org/wiki/Spider_Crab",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c7/Spider_Crab.png/64px-Spider_Crab.png",
-          "rarity": "rare",
-          "bait_items": [
-            {
-              "name": "Deep Coral",
-              "wiki_url": "https://fischipedia.org/wiki/Deep_Coral",
-              "rarity": "legendary"
-            }
-          ]
-        },
-        {
-          "id": "ancient-eel",
-          "name": "Ancient Eel",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "Spring, Summer",
-          "bait": "Coal",
-          "wiki_url": "https://fischipedia.org/wiki/Ancient_Eel",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/39/Ancient_Eel.png/64px-Ancient_Eel.png",
-          "rarity": "legendary",
-          "bait_items": [
-            {
-              "name": "Coal",
-              "wiki_url": "https://fischipedia.org/wiki/Coal",
-              "rarity": "rare"
-            }
-          ]
-        },
-        {
-          "id": "nautilus",
-          "name": "Nautilus",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "Spring, Summer",
-          "bait": "None",
-          "wiki_url": "https://fischipedia.org/wiki/Nautilus",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/79/Nautilus.png/64px-Nautilus.png",
-          "rarity": "legendary"
-        },
-        {
-          "id": "small-spine-chimera",
-          "name": "Small Spine Chimera",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Day",
-          "season": "Spring, Summer",
-          "bait": "Seaweed",
-          "wiki_url": "https://fischipedia.org/wiki/Small_Spine_Chimera",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/8b/Small_Spine_Chimera.png/64px-Small_Spine_Chimera.png",
-          "rarity": "legendary",
-          "bait_items": [
-            {
-              "name": "Seaweed",
-              "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
-              "rarity": "unusual"
-            }
-          ]
-        },
-        {
-          "id": "barreleye-fish",
-          "name": "Barreleye Fish",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "Summer",
-          "bait": "Deep Coral",
-          "wiki_url": "https://fischipedia.org/wiki/Barreleye_Fish",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f4/Barreleye_Fish.png/64px-Barreleye_Fish.png",
-          "rarity": "mythical",
-          "bait_items": [
-            {
-              "name": "Deep Coral",
-              "wiki_url": "https://fischipedia.org/wiki/Deep_Coral",
-              "rarity": "legendary"
-            }
-          ]
-        },
-        {
-          "id": "mutated-shark",
-          "name": "Mutated Shark",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "Winter",
-          "bait": "Fish Head",
-          "wiki_url": "https://fischipedia.org/wiki/Mutated_Shark",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/3c/Mutated_Shark.png/64px-Mutated_Shark.png",
-          "rarity": "mythical",
-          "bait_items": [
-            {
-              "name": "Fish Head",
-              "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
-              "rarity": "legendary"
-            }
-          ]
-        },
-        {
-          "id": "sea-snake",
-          "name": "Sea Snake",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "Winter",
-          "bait": "Fish Head",
-          "wiki_url": "https://fischipedia.org/wiki/Sea_Snake",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1a/Sea_Snake.png/64px-Sea_Snake.png",
-          "rarity": "mythical",
-          "bait_items": [
-            {
-              "name": "Fish Head",
-              "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
-              "rarity": "legendary"
-            }
-          ]
-        },
-        {
-          "id": "ancient-depth-serpent",
-          "name": "Ancient Depth Serpent",
-          "bestiary_location": "Depths",
-          "weather": "None",
-          "time": "Night",
-          "season": "None",
-          "bait": "Truffle Worm",
-          "wiki_url": "https://fischipedia.org/wiki/Ancient_Depth_Serpent",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a1/Ancient_Depth_Serpent.png/64px-Ancient_Depth_Serpent.png",
-          "rarity": "exotic",
-          "bait_items": [
-            {
-              "name": "Truffle Worm",
-              "wiki_url": "https://fischipedia.org/wiki/Truffle_Worm",
-              "rarity": "legendary"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Desolate Deep",
       "fish": [
         {
@@ -5992,7 +5745,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Horseshoe_Crab",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c4/Horseshoe_Crab.png/64px-Horseshoe_Crab.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Crab Cage"
         },
         {
           "id": "slate-tuna",
@@ -6011,7 +5765,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Super_Flakes",
               "rarity": "rare"
             }
-          ]
+          ],
+          "source": "Coral Geode"
         },
         {
           "id": "phantom-ray",
@@ -6030,7 +5785,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Weird_Algae",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Coral Geode"
         },
         {
           "id": "cockatoo-squid",
@@ -6049,7 +5805,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Coral Geode"
         },
         {
           "id": "coral-geode",
@@ -6080,7 +5837,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Rockstar_Hermit_Crab",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c0/Rockstar_Hermit_Crab.png/64px-Rockstar_Hermit_Crab.png",
-          "rarity": "unusual"
+          "rarity": "unusual",
+          "source": "Crab Cage"
         },
         {
           "id": "banditfish",
@@ -6099,7 +5857,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Insect",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Coral Geode"
         },
         {
           "id": "barbed-shark",
@@ -6168,7 +5927,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Sea_Mine",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/f/ff/Sea_Mine.png/64px-Sea_Mine.png",
-          "rarity": "mythical"
+          "rarity": "mythical",
+          "source": "Crab Cage"
         }
       ]
     },
@@ -7674,7 +7434,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Bagel",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Fish Barrel"
         },
         {
           "id": "bluefish",
@@ -7779,7 +7540,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Oversized_Leaf",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/3/35/Oversized_Leaf.png/64px-Oversized_Leaf.png",
-          "rarity": "trash"
+          "rarity": "trash",
+          "source": "Crab Cage"
         },
         {
           "id": "bloom-sprout",
@@ -7798,7 +7560,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "dewdrop-dab",
@@ -7817,7 +7580,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Cricket",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "garden-snail",
@@ -7836,7 +7600,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Coral",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "flower-flounder",
@@ -7855,7 +7620,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Earthworm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "thorn-ribbon-eel",
@@ -7988,7 +7754,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Coral",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "leafscale-lemon-shark",
@@ -8086,7 +7853,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Canary_Seed",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/8/88/Canary_Seed.png/64px-Canary_Seed.png",
-          "rarity": "seed"
+          "rarity": "seed",
+          "source": "Flowers Chance 1 in 12.5"
         },
         {
           "id": "cyan-seed",
@@ -8098,7 +7866,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Cyan_Seed",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/73/Cyan_Seed.png/64px-Cyan_Seed.png",
-          "rarity": "seed"
+          "rarity": "seed",
+          "source": "Flowers Chance 1 in 12.5"
         },
         {
           "id": "living-seed",
@@ -8110,7 +7879,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Living_Seed",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c8/Living_Seed.png/64px-Living_Seed.png",
-          "rarity": "seed"
+          "rarity": "seed",
+          "source": "Flowers Chance 1 in 50"
         },
         {
           "id": "violet-seed",
@@ -8122,7 +7892,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Violet_Seed",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/2/24/Violet_Seed.png/64px-Violet_Seed.png",
-          "rarity": "seed"
+          "rarity": "seed",
+          "source": "Flowers Chance 1 in 12.5"
         }
       ]
     },
@@ -8222,7 +7993,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Cricket",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "black-ghost-knifefish",
@@ -8260,7 +8032,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Centipede",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "payara",
@@ -8317,7 +8090,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Snail",
               "rarity": "rare"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "electric-eel",
@@ -8355,7 +8129,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Dragonfly",
               "rarity": "exotic"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "pirarucu",
@@ -8412,7 +8187,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Dragonfly",
               "rarity": "exotic"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "mossjaw",
@@ -8493,7 +8269,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Weird_Algae",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "blue-ribbon-eel",
@@ -8569,7 +8346,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Luminous_Larva",
               "rarity": "exotic"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "colossal-blue-dragon",
@@ -8691,7 +8469,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Anchovy",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/79/Anchovy.png/64px-Anchovy.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Meteors"
         },
         {
           "id": "bream",
@@ -8710,7 +8489,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Fish Barrel"
         },
         {
           "id": "largemouth-bass",
@@ -8760,7 +8540,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Bagel",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Common Crate, Fish Barrel"
         },
         {
           "id": "trout",
@@ -8779,7 +8560,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Insect",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Common Crate, Fish Barrel"
         },
         {
           "id": "carp",
@@ -8798,7 +8580,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Bagel",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Common Crate, Fish Barrel"
         },
         {
           "id": "goldfish",
@@ -8817,7 +8600,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Flakes",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Fish Barrel"
         },
         {
           "id": "yellowfin-tuna",
@@ -8829,7 +8613,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Yellowfin_Tuna",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/2/2f/Yellowfin_Tuna.png/64px-Yellowfin_Tuna.png",
-          "rarity": "uncommon"
+          "rarity": "uncommon",
+          "source": "Carbon Crate, Fish Barrel"
         },
         {
           "id": "eel",
@@ -8841,7 +8626,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Eel",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/9/91/Eel.png/64px-Eel.png",
-          "rarity": "unusual"
+          "rarity": "unusual",
+          "source": "Carbon Crate"
         },
         {
           "id": "flounder",
@@ -8879,7 +8665,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Insect",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Carbon Crate, Fish Barrel"
         },
         {
           "id": "snook",
@@ -8979,7 +8766,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "swamp-bass",
@@ -9067,7 +8855,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Swamp_Scallop",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f8/Swamp_Scallop.png/64px-Swamp_Scallop.png",
-          "rarity": "unusual"
+          "rarity": "unusual",
+          "source": "Crab Cage"
         },
         {
           "id": "catfish",
@@ -9117,7 +8906,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Mushgrove_Crab",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/08/Mushgrove_Crab.png/64px-Mushgrove_Crab.png",
-          "rarity": "rare"
+          "rarity": "rare",
+          "source": "Crab Cage"
         },
         {
           "id": "alligator",
@@ -9324,7 +9114,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "boot",
@@ -9343,7 +9134,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "destroyed-fossil",
@@ -9355,7 +9147,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Destroyed_Fossil",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/cd/Destroyed_Fossil.png/64px-Destroyed_Fossil.png",
-          "rarity": "trash"
+          "rarity": "trash",
+          "source": "Crab Cage"
         },
         {
           "id": "driftwood",
@@ -9374,7 +9167,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "log",
@@ -9412,7 +9206,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage, Volcanic Geode, Fallen Star, Metal Strongbox, Dripstone"
         },
         {
           "id": "scrap-metal",
@@ -9424,7 +9219,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Scrap_Metal",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/8/82/Scrap_Metal.png/64px-Scrap_Metal.png",
-          "rarity": "trash"
+          "rarity": "trash",
+          "source": "Crab Cage"
         },
         {
           "id": "seaweed",
@@ -9443,7 +9239,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "stalactite",
@@ -9462,7 +9259,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage, Coral Geode, Metal Strongbox, Dripstone"
         },
         {
           "id": "tire",
@@ -9481,7 +9279,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "bait-crate",
@@ -9500,7 +9299,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Angler Quest"
         },
         {
           "id": "common-crate",
@@ -9519,7 +9319,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Travelling Merchant, Angler Quest"
         },
         {
           "id": "fish-barrel",
@@ -9557,7 +9358,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Travelling Merchant, Angler Quest"
         },
         {
           "id": "quality-bait-crate",
@@ -9576,7 +9378,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Treasure Chest"
         },
         {
           "id": "tropical-bait-crate",
@@ -9655,7 +9458,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Cosmic_Relic",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a2/Cosmic_Relic.png/64px-Cosmic_Relic.png",
-          "rarity": "relic"
+          "rarity": "relic",
+          "source": "Fallen Star, Personal Aquarium, Daily Reward, Treasure Chest, Magical Diver"
         },
         {
           "id": "enchant-relic",
@@ -9667,7 +9471,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Enchant_Relic",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7d/Enchant_Relic.png/64px-Enchant_Relic.png",
-          "rarity": "relic"
+          "rarity": "relic",
+          "source": "Supreme Present, Unique Present, Treasure Chest, Daily Shop, Personal Aquarium, Daily Reward, Angler Quest"
         },
         {
           "id": "exalted-relic",
@@ -9679,7 +9484,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Exalted_Relic",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/03/Exalted_Relic.png/64px-Exalted_Relic.png",
-          "rarity": "relic"
+          "rarity": "relic",
+          "source": "Angler Quest, Daily Shop, Personal Aquarium, Daily Reward, Treasure Chest, Challenges"
         },
         {
           "id": "imprinted-relic",
@@ -9703,7 +9509,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Invincible_Relic",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c1/Invincible_Relic.png/64px-Invincible_Relic.png",
-          "rarity": "relic"
+          "rarity": "relic",
+          "source": "Apprentice Archaeologist"
         },
         {
           "id": "song-of-the-deep",
@@ -9715,7 +9522,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Song_of_the_Deep",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Song_of_the_Deep.png/64px-Song_of_the_Deep.png",
-          "rarity": "relic"
+          "rarity": "relic",
+          "source": "Angler Quest, Personal Aquarium, Captain Ahab"
         },
         {
           "id": "sovereign-relic",
@@ -9739,7 +9547,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Twisted_Relic",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7d/Twisted_Relic.png/64px-Twisted_Relic.png",
-          "rarity": "relic"
+          "rarity": "relic",
+          "source": "Personal Aquarium"
         }
       ]
     },
@@ -9782,7 +9591,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Common Crate, Fish Barrel"
         },
         {
           "id": "lobster",
@@ -9794,7 +9604,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9f/Lobster.png/64px-Lobster.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Crab Cage, Carbon Crate"
         },
         {
           "id": "mackerel",
@@ -9813,7 +9624,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Common Crate"
         },
         {
           "id": "mullet",
@@ -9844,7 +9656,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Mussel",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/a/aa/Mussel.png/64px-Mussel.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Crab Cage"
         },
         {
           "id": "porgy",
@@ -9863,7 +9676,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Fish Barrel"
         },
         {
           "id": "sand-dollar",
@@ -9875,7 +9689,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Sand_Dollar",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/5/53/Sand_Dollar.png/64px-Sand_Dollar.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Crab Cage"
         },
         {
           "id": "sardine",
@@ -9887,7 +9702,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Sardine",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/04/Sardine.png/64px-Sardine.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Fish Barrel"
         },
         {
           "id": "sea-bass",
@@ -9906,7 +9722,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Common Crate, Fish Barrel"
         },
         {
           "id": "shrimp",
@@ -9918,7 +9735,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Shrimp",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/9/91/Shrimp.png/64px-Shrimp.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Crab Cage"
         },
         {
           "id": "amberjack",
@@ -9937,7 +9755,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Carbon Crate, Fish Barrel"
         },
         {
           "id": "barracuda",
@@ -9956,7 +9775,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Carbon Crate, Fish Barrel"
         },
         {
           "id": "cod",
@@ -9975,7 +9795,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Common Crate, Carbon Crate, Fish Barrel"
         },
         {
           "id": "crab",
@@ -9987,7 +9808,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Crab",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/63/Crab.png/64px-Crab.png",
-          "rarity": "uncommon"
+          "rarity": "uncommon",
+          "source": "Crab Cage, Fish Barrel"
         },
         {
           "id": "oyster",
@@ -9999,7 +9821,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Oyster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/5/54/Oyster.png/64px-Oyster.png",
-          "rarity": "uncommon"
+          "rarity": "uncommon",
+          "source": "Crab Cage"
         },
         {
           "id": "prawn",
@@ -10011,7 +9834,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Prawn",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fd/Prawn.png/64px-Prawn.png",
-          "rarity": "uncommon"
+          "rarity": "uncommon",
+          "source": "Crab Cage"
         },
         {
           "id": "salmon",
@@ -10042,7 +9866,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Scallop",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/cf/Scallop.png/64px-Scallop.png",
-          "rarity": "uncommon"
+          "rarity": "uncommon",
+          "source": "Crab Cage"
         },
         {
           "id": "nurse-shark",
@@ -10061,7 +9886,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Carbon Crate"
         },
         {
           "id": "anglerfish",
@@ -10099,7 +9925,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Carbon Crate, Fish Barrel"
         },
         {
           "id": "coelacanth",
@@ -10111,7 +9938,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Coelacanth",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4b/Coelacanth.png/64px-Coelacanth.png",
-          "rarity": "rare"
+          "rarity": "rare",
+          "source": "Carbon Crate"
         },
         {
           "id": "cookiecutter-shark",
@@ -10149,7 +9977,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Carbon Crate, Fish Barrel"
         },
         {
           "id": "pufferfish",
@@ -10168,7 +9997,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Volcanic Geode, Fish Barrel"
         },
         {
           "id": "sailfish",
@@ -10199,7 +10029,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Sea_Urchin",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e7/Sea_Urchin.png/64px-Sea_Urchin.png",
-          "rarity": "rare"
+          "rarity": "rare",
+          "source": "Crab Cage, Volcanic Geode"
         },
         {
           "id": "stingray",
@@ -11154,7 +10985,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Common Crate"
         },
         {
           "id": "minnow",
@@ -11173,7 +11005,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Bagel",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Common Crate, Fish Barrel"
         },
         {
           "id": "pearl",
@@ -11185,7 +11018,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/73/Pearl.png/64px-Pearl.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Clam"
         },
         {
           "id": "perch",
@@ -11204,7 +11038,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Volcanic Geode, Fish Barrel"
         },
         {
           "id": "blue-tang",
@@ -11280,7 +11115,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Common Crate"
         },
         {
           "id": "angelfish",
@@ -11299,7 +11135,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Volcanic Geode"
         },
         {
           "id": "clam",
@@ -11330,7 +11167,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Gilded_Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/63/Gilded_Pearl.png/64px-Gilded_Pearl.png",
-          "rarity": "unusual"
+          "rarity": "unusual",
+          "source": "Clam"
         },
         {
           "id": "ribbon-eel",
@@ -11349,7 +11187,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Carbon Crate"
         },
         {
           "id": "rose-pearl",
@@ -11361,7 +11200,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Rose_Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/5/59/Rose_Pearl.png/64px-Rose_Pearl.png",
-          "rarity": "unusual"
+          "rarity": "unusual",
+          "source": "Clam"
         },
         {
           "id": "squid",
@@ -11380,7 +11220,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Carbon Crate"
         },
         {
           "id": "yellow-boxfish",
@@ -11411,7 +11252,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Alligator_Gar",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/ca/Alligator_Gar.png/64px-Alligator_Gar.png",
-          "rarity": "rare"
+          "rarity": "rare",
+          "source": "Carbon Crate, Fish Barrel, Volcanic Geode"
         },
         {
           "id": "arapaima",
@@ -11430,7 +11272,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Carbon Crate, Fish Barrel"
         },
         {
           "id": "mauve-pearl",
@@ -11442,7 +11285,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Mauve_Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fc/Mauve_Pearl.png/64px-Mauve_Pearl.png",
-          "rarity": "rare"
+          "rarity": "rare",
+          "source": "Clam"
         },
         {
           "id": "suckermouth-catfish",
@@ -11492,7 +11336,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Deep_Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c4/Deep_Pearl.png/64px-Deep_Pearl.png",
-          "rarity": "legendary"
+          "rarity": "legendary",
+          "source": "Clam"
         },
         {
           "id": "dumbo-octopus",
@@ -11523,7 +11368,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Aurora_Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/00/Aurora_Pearl.png/64px-Aurora_Pearl.png",
-          "rarity": "mythical"
+          "rarity": "mythical",
+          "source": "Clam"
         },
         {
           "id": "manta-ray",
@@ -11554,7 +11400,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Golden_Sea_Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c8/Golden_Sea_Pearl.png/64px-Golden_Sea_Pearl.png",
-          "rarity": "exotic"
+          "rarity": "exotic",
+          "source": "Clam"
         }
       ]
     },
@@ -11578,7 +11425,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Fallen Star"
         },
         {
           "id": "magma-tang",
@@ -11597,7 +11445,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Coal",
               "rarity": "rare"
             }
-          ]
+          ],
+          "source": "Volcanic Geode"
         },
         {
           "id": "ember-perch",
@@ -11628,7 +11477,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Coal",
               "rarity": "rare"
             }
-          ]
+          ],
+          "source": "Volcanic Geode"
         },
         {
           "id": "pyrogrub",
@@ -11647,7 +11497,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Coal",
               "rarity": "rare"
             }
-          ]
+          ],
+          "source": "Volcanic Geode"
         },
         {
           "id": "volcanic-geode",
@@ -11666,7 +11517,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Travelling Merchant, Scoria Reach"
         },
         {
           "id": "obsidian-salmon",
@@ -11771,7 +11623,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Ashy_Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b0/Ashy_Pearl.png/64px-Ashy_Pearl.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Lava Clam"
         },
         {
           "id": "basalt-loach",
@@ -11838,7 +11691,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Sulfur_Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/77/Sulfur_Pearl.png/64px-Sulfur_Pearl.png",
-          "rarity": "unusual"
+          "rarity": "unusual",
+          "source": "Lava Clam"
         },
         {
           "id": "lava-clam",
@@ -11888,7 +11742,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Travelling Merchant, Scoria Reach"
         },
         {
           "id": "cindercoil-eel",
@@ -11957,7 +11812,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Obsidian_Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/2/26/Obsidian_Pearl.png/64px-Obsidian_Pearl.png",
-          "rarity": "mythical"
+          "rarity": "mythical",
+          "source": "Lava Clam"
         },
         {
           "id": "obsidian-ray",
@@ -11988,7 +11844,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Igneous_Pearl",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0c/Igneous_Pearl.png/64px-Igneous_Pearl.png",
-          "rarity": "exotic"
+          "rarity": "exotic",
+          "source": "Lava Clam"
         },
         {
           "id": "skeletal-leviathan",
@@ -12019,7 +11876,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Infernal_Fragment",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e8/Infernal_Fragment.png/64px-Infernal_Fragment.png",
-          "rarity": "fragment"
+          "rarity": "fragment",
+          "source": "Crag-Crab Mining"
         },
         {
           "id": "obsidian-fragment",
@@ -12031,7 +11889,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Obsidian_Fragment",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/8/87/Obsidian_Fragment.png/64px-Obsidian_Fragment.png",
-          "rarity": "fragment"
+          "rarity": "fragment",
+          "source": "Crag-Crab Mining"
         },
         {
           "id": "sulfur-fragment",
@@ -12043,7 +11902,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Sulfur_Fragment",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/9/99/Sulfur_Fragment.png/64px-Sulfur_Fragment.png",
-          "rarity": "fragment"
+          "rarity": "fragment",
+          "source": "Crag-Crab Mining"
         },
         {
           "id": "ashen-gem",
@@ -12055,7 +11915,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Ashen_Gem",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/4/41/Ashen_Gem.png/64px-Ashen_Gem.png",
-          "rarity": "gemstone"
+          "rarity": "gemstone",
+          "source": "Crag-Crab Mining"
         },
         {
           "id": "cinder-crystal",
@@ -12067,7 +11928,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Cinder_Crystal",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b2/Cinder_Crystal.png/64px-Cinder_Crystal.png",
-          "rarity": "gemstone"
+          "rarity": "gemstone",
+          "source": "Crag-Crab Mining"
         }
       ]
     },
@@ -12198,7 +12060,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Azureback_Haddock_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6e/Azureback_Haddock_School.png/64px-Azureback_Haddock_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "basalt-pike",
@@ -12274,7 +12137,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shark_Head",
               "rarity": "mythical"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "black-swallower",
@@ -12324,7 +12188,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Blobfish_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/9/96/Blobfish_School.png/64px-Blobfish_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "bloomtail",
@@ -12374,7 +12239,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Bluefin_Tuna_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0f/Bluefin_Tuna_School.png/64px-Bluefin_Tuna_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "bluehead-wrasse",
@@ -12393,7 +12259,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Lushrooms",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "boarfish",
@@ -12545,7 +12412,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Insect",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "coralwing-guppy-school",
@@ -12557,7 +12425,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Coralwing_Guppy_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/b/bb/Coralwing_Guppy_School.png/64px-Coralwing_Guppy_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "cragscale",
@@ -12671,7 +12540,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "drift-claw",
@@ -12740,7 +12610,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Duskwave_Herring_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d3/Duskwave_Herring_School.png/64px-Duskwave_Herring_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "echo-koi",
@@ -12892,7 +12763,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Gale_Grub",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "furnace-leaper",
@@ -13025,7 +12897,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Truffle_Worm",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "gulf-toadfish",
@@ -13163,7 +13036,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Infernal_Halibut_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/5/5b/Infernal_Halibut_School.png/64px-Infernal_Halibut_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "inferno-chaser",
@@ -13201,7 +13075,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Flakes",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "jungle-phantom",
@@ -13270,7 +13145,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Lagoon_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/d/dd/Lagoon_Lobster.png/64px-Lagoon_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "lantern-snapper",
@@ -13320,7 +13196,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Lobster_King",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a9/Lobster_King.png/64px-Lobster_King.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "lumpclinger",
@@ -13389,7 +13266,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Moonveil_Salmon_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/9/93/Moonveil_Salmon_School.png/64px-Moonveil_Salmon_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "murkdrifter",
@@ -13484,7 +13362,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Ember_Berries",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "oyster-toadfish",
@@ -13641,7 +13520,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Pufferling_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/03/Pufferling_School.png/64px-Pufferling_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "pupfish",
@@ -13698,7 +13578,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Crystal_Bananas",
               "rarity": "rare"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "redwood-duskray",
@@ -13831,7 +13712,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "rock-lobster",
@@ -13843,7 +13725,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Rock_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/ce/Rock_Lobster.png/64px-Rock_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "sarcastic-fringehead",
@@ -13874,7 +13757,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Sardines_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6b/Sardines_School.png/64px-Sardines_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "scorchray",
@@ -13912,7 +13796,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "sea-leviathan",
@@ -13962,7 +13847,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Seaspawn_Shrimp_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/2/20/Seaspawn_Shrimp_School.png/64px-Seaspawn_Shrimp_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "sergeant-major",
@@ -13981,7 +13867,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "shiver-swarmfish-school",
@@ -13993,7 +13880,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Shiver_Swarmfish_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/78/Shiver_Swarmfish_School.png/64px-Shiver_Swarmfish_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "slipper-lobster",
@@ -14005,7 +13893,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Slipper_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6f/Slipper_Lobster.png/64px-Slipper_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "smogfish",
@@ -14112,7 +14001,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Lagoon_Leech",
               "rarity": "rare"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "splendid-toadfish",
@@ -14143,7 +14033,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Mist_Worms",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "sprayfin",
@@ -14181,7 +14072,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Bagel",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "stoplight-parrotfish",
@@ -14200,7 +14092,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "storm-skipper",
@@ -14231,7 +14124,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Studster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/73/Studster.png/64px-Studster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "sulfur-snapper",
@@ -14433,7 +14327,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Sapphire_Krill",
               "rarity": "mythical"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "tripod-fish",
@@ -14483,7 +14378,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Veinfin_Tetra_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/71/Veinfin_Tetra_School.png/64px-Veinfin_Tetra_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "velvet-belly-lanternshark",
@@ -14647,7 +14543,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Waveborne_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c8/Waveborne_Lobster.png/64px-Waveborne_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "western-rock-lobster",
@@ -14659,7 +14556,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Western_Rock_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/76/Western_Rock_Lobster.png/64px-Western_Rock_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "whisper-eel",
@@ -15424,7 +15322,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shark_Head",
               "rarity": "mythical"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "bluehead-wrasse",
@@ -15443,7 +15342,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Lushrooms",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "coney-grouper",
@@ -15462,7 +15362,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Insect",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "doctorfish-tang",
@@ -15481,7 +15382,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "french-grunt",
@@ -15500,7 +15402,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Gale_Grub",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "great-barracuda",
@@ -15519,7 +15422,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Truffle_Worm",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "islandhopper-butterflyfish",
@@ -15538,7 +15442,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Flakes",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "ocean-triggerfish",
@@ -15557,7 +15462,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Ember_Berries",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "rainbow-grouper",
@@ -15576,7 +15482,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Crystal_Bananas",
               "rarity": "rare"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "rock-hind",
@@ -15595,7 +15502,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "scrawled-filefish",
@@ -15614,7 +15522,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "sergeant-major",
@@ -15633,7 +15542,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "spadefish",
@@ -15652,7 +15562,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Lagoon_Leech",
               "rarity": "rare"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "spotted-moray-eel",
@@ -15671,7 +15582,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Mist_Worms",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "squirrelfish",
@@ -15690,7 +15602,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Bagel",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "stoplight-parrotfish",
@@ -15709,7 +15622,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "tilefish",
@@ -15728,7 +15642,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Sapphire_Krill",
               "rarity": "mythical"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "abyss-flicker",
@@ -16158,7 +16073,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Azureback_Haddock_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6e/Azureback_Haddock_School.png/64px-Azureback_Haddock_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "blobfish-school",
@@ -16170,7 +16086,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Blobfish_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/9/96/Blobfish_School.png/64px-Blobfish_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "bluefin-tuna-school",
@@ -16182,7 +16099,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Bluefin_Tuna_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0f/Bluefin_Tuna_School.png/64px-Bluefin_Tuna_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "coralwing-guppy-school",
@@ -16194,7 +16112,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Coralwing_Guppy_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/b/bb/Coralwing_Guppy_School.png/64px-Coralwing_Guppy_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "duskwave-herring-school",
@@ -16206,7 +16125,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Duskwave_Herring_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d3/Duskwave_Herring_School.png/64px-Duskwave_Herring_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "infernal-halibut-school",
@@ -16218,7 +16138,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Infernal_Halibut_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/5/5b/Infernal_Halibut_School.png/64px-Infernal_Halibut_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "lagoon-lobster",
@@ -16230,7 +16151,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Lagoon_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/d/dd/Lagoon_Lobster.png/64px-Lagoon_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "lobster-king",
@@ -16242,7 +16164,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Lobster_King",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a9/Lobster_King.png/64px-Lobster_King.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "moonveil-salmon-school",
@@ -16254,7 +16177,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Moonveil_Salmon_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/9/93/Moonveil_Salmon_School.png/64px-Moonveil_Salmon_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "pufferling-school",
@@ -16266,7 +16190,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Pufferling_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/03/Pufferling_School.png/64px-Pufferling_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "rock-lobster",
@@ -16278,7 +16203,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Rock_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/ce/Rock_Lobster.png/64px-Rock_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "sardines-school",
@@ -16290,7 +16216,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Sardines_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6b/Sardines_School.png/64px-Sardines_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "seaspawn-shrimp-school",
@@ -16302,7 +16229,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Seaspawn_Shrimp_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/2/20/Seaspawn_Shrimp_School.png/64px-Seaspawn_Shrimp_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "shiver-swarmfish-school",
@@ -16314,7 +16242,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Shiver_Swarmfish_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/78/Shiver_Swarmfish_School.png/64px-Shiver_Swarmfish_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "slipper-lobster",
@@ -16326,7 +16255,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Slipper_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6f/Slipper_Lobster.png/64px-Slipper_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "studster",
@@ -16338,7 +16268,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Studster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/73/Studster.png/64px-Studster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "veinfin-tetra-school",
@@ -16350,7 +16281,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Veinfin_Tetra_School",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/71/Veinfin_Tetra_School.png/64px-Veinfin_Tetra_School.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Fishing Net"
         },
         {
           "id": "waveborne-lobster",
@@ -16362,7 +16294,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Waveborne_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c8/Waveborne_Lobster.png/64px-Waveborne_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "western-rock-lobster",
@@ -16374,7 +16307,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Western_Rock_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/76/Western_Rock_Lobster.png/64px-Western_Rock_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "apex-leviathan",
@@ -17339,7 +17273,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Ancient_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/65/Ancient_Lobster.png/64px-Ancient_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "langoustine",
@@ -17351,7 +17286,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Langoustine",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/2/2a/Langoustine.png/64px-Langoustine.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "roslit-ray-lobster",
@@ -17363,7 +17299,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Roslit_Ray_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/4/49/Roslit_Ray_Lobster.png/64px-Roslit_Ray_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "scalloped-spiny-lobster",
@@ -17375,7 +17312,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Scalloped_Spiny_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/08/Scalloped_Spiny_Lobster.png/64px-Scalloped_Spiny_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "snowcap-lobster",
@@ -17387,7 +17325,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Snowcap_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a3/Snowcap_Lobster.png/64px-Snowcap_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "spiny-sunstone-lobster",
@@ -17399,7 +17338,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Spiny_Sunstone_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Spiny_Sunstone_Lobster.png/64px-Spiny_Sunstone_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         },
         {
           "id": "terrapin-lobster",
@@ -17411,7 +17351,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Terrapin_Lobster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/1/17/Terrapin_Lobster.png/64px-Terrapin_Lobster.png",
-          "rarity": "extinct"
+          "rarity": "extinct",
+          "source": "Lobster Cage"
         }
       ]
     },
@@ -17428,7 +17369,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Freezing_Shroom",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6a/Freezing_Shroom.png/64px-Freezing_Shroom.png",
-          "rarity": "trash"
+          "rarity": "trash",
+          "source": "Crab Cage"
         },
         {
           "id": "penguin",
@@ -17447,7 +17389,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Krill",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "white-sturgeon",
@@ -17502,7 +17445,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "bluegill",
@@ -17716,7 +17660,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Carbon Crate, Volcanic Geode, Fish Barrel"
         },
         {
           "id": "moon-wood",
@@ -17828,7 +17773,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "john-dory",
@@ -17847,7 +17793,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "porcupinefish",
@@ -17859,7 +17806,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Porcupinefish",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/e/ed/Porcupinefish.png/64px-Porcupinefish.png",
-          "rarity": "uncommon"
+          "rarity": "uncommon",
+          "source": "Crab Cage"
         },
         {
           "id": "deepwater-stingray",
@@ -17878,7 +17826,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "escolar",
@@ -17897,7 +17846,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "oilfish",
@@ -17916,7 +17866,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "cusk-eel",
@@ -17935,7 +17886,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "flying-gurnard",
@@ -17954,7 +17906,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "small-spotted-catshark",
@@ -18047,7 +18000,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Worm",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Fish Barrel"
         },
         {
           "id": "chinfish",
@@ -18078,7 +18032,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Carbon Crate, Fish Barrel"
         },
         {
           "id": "red-tang",
@@ -18128,7 +18083,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Mahi_Mahi",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/00/Mahi_Mahi.png/64px-Mahi_Mahi.png",
-          "rarity": "rare"
+          "rarity": "rare",
+          "source": "Carbon Crate, Fish Barrel"
         },
         {
           "id": "napoleonfish",
@@ -18250,7 +18206,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Insect",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Common Crate"
         },
         {
           "id": "smallmouth-bass",
@@ -18288,7 +18245,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Fish Barrel"
         },
         {
           "id": "white-bass",
@@ -18307,7 +18265,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Common Crate, Carbon Crate, Fish Barrel"
         },
         {
           "id": "chinook-salmon",
@@ -18345,7 +18304,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Flakes",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Fish Barrel"
         },
         {
           "id": "king-oyster",
@@ -18357,7 +18317,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/King_Oyster",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/d/db/King_Oyster.png/64px-King_Oyster.png",
-          "rarity": "rare"
+          "rarity": "rare",
+          "source": "Crab Cage"
         },
         {
           "id": "golden-smallmouth-bass",
@@ -18376,7 +18337,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Flakes",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Fish Barrel"
         },
         {
           "id": "olm",
@@ -18408,6 +18370,310 @@
           "wiki_url": "https://fischipedia.org/wiki/Sea_Turtle",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f0/Sea_Turtle.png/64px-Sea_Turtle.png",
           "rarity": "mythical"
+        }
+      ]
+    },
+    {
+      "name": "The Depths",
+      "fish": [
+        {
+          "id": "deep-sea-dragonfish",
+          "name": "Deep-sea Dragonfish",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "None",
+          "bait": "Deep Coral",
+          "wiki_url": "https://fischipedia.org/wiki/Deep-sea_Dragonfish",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6c/Deep-sea_Dragonfish.png/64px-Deep-sea_Dragonfish.png",
+          "rarity": "common",
+          "bait_items": [
+            {
+              "name": "Deep Coral",
+              "wiki_url": "https://fischipedia.org/wiki/Deep_Coral",
+              "rarity": "legendary"
+            }
+          ]
+        },
+        {
+          "id": "deep-sea-hatchetfish",
+          "name": "Deep-sea Hatchetfish",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "None",
+          "bait": "Seaweed",
+          "wiki_url": "https://fischipedia.org/wiki/Deep-sea_Hatchetfish",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c2/Deep-sea_Hatchetfish.png/64px-Deep-sea_Hatchetfish.png",
+          "rarity": "common",
+          "bait_items": [
+            {
+              "name": "Seaweed",
+              "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
+              "rarity": "unusual"
+            }
+          ]
+        },
+        {
+          "id": "depth-octopus",
+          "name": "Depth Octopus",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Day",
+          "season": "None",
+          "bait": "Coral",
+          "wiki_url": "https://fischipedia.org/wiki/Depth_Octopus",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b2/Depth_Octopus.png/64px-Depth_Octopus.png",
+          "rarity": "unusual",
+          "bait_items": [
+            {
+              "name": "Coral",
+              "wiki_url": "https://fischipedia.org/wiki/Coral",
+              "rarity": "unusual"
+            }
+          ],
+          "source": "Crab Cage"
+        },
+        {
+          "id": "frilled-shark",
+          "name": "Frilled Shark",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "None",
+          "bait": "Fish Head",
+          "wiki_url": "https://fischipedia.org/wiki/Frilled_Shark",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/af/Frilled_Shark.png/64px-Frilled_Shark.png",
+          "rarity": "unusual",
+          "bait_items": [
+            {
+              "name": "Fish Head",
+              "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
+              "rarity": "legendary"
+            }
+          ]
+        },
+        {
+          "id": "luminescent-minnow",
+          "name": "Luminescent Minnow",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "Spring",
+          "bait": "Seaweed",
+          "wiki_url": "https://fischipedia.org/wiki/Luminescent_Minnow",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/Luminescent_Minnow.png/64px-Luminescent_Minnow.png",
+          "rarity": "unusual",
+          "bait_items": [
+            {
+              "name": "Seaweed",
+              "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
+              "rarity": "unusual"
+            }
+          ]
+        },
+        {
+          "id": "three-eyed-fish",
+          "name": "Three-eyed Fish",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "None",
+          "bait": "Seaweed",
+          "wiki_url": "https://fischipedia.org/wiki/Three-eyed_Fish",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/2e/Three-eyed_Fish.png/64px-Three-eyed_Fish.png",
+          "rarity": "unusual",
+          "bait_items": [
+            {
+              "name": "Seaweed",
+              "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
+              "rarity": "unusual"
+            }
+          ]
+        },
+        {
+          "id": "black-dragon-fish",
+          "name": "Black Dragon Fish",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "None",
+          "bait": "Deep Coral",
+          "wiki_url": "https://fischipedia.org/wiki/Black_Dragon_Fish",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Black_Dragon_Fish.png/64px-Black_Dragon_Fish.png",
+          "rarity": "rare",
+          "bait_items": [
+            {
+              "name": "Deep Coral",
+              "wiki_url": "https://fischipedia.org/wiki/Deep_Coral",
+              "rarity": "legendary"
+            }
+          ]
+        },
+        {
+          "id": "goblin-shark",
+          "name": "Goblin Shark",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "Spring, Summer",
+          "bait": "Fish Head",
+          "wiki_url": "https://fischipedia.org/wiki/Goblin_Shark",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/13/Goblin_Shark.png/64px-Goblin_Shark.png",
+          "rarity": "rare",
+          "bait_items": [
+            {
+              "name": "Fish Head",
+              "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
+              "rarity": "legendary"
+            }
+          ]
+        },
+        {
+          "id": "spider-crab",
+          "name": "Spider Crab",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Day",
+          "season": "Summer",
+          "bait": "Deep Coral",
+          "wiki_url": "https://fischipedia.org/wiki/Spider_Crab",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c7/Spider_Crab.png/64px-Spider_Crab.png",
+          "rarity": "rare",
+          "bait_items": [
+            {
+              "name": "Deep Coral",
+              "wiki_url": "https://fischipedia.org/wiki/Deep_Coral",
+              "rarity": "legendary"
+            }
+          ],
+          "source": "Crab Cage"
+        },
+        {
+          "id": "ancient-eel",
+          "name": "Ancient Eel",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "Spring, Summer",
+          "bait": "Coal",
+          "wiki_url": "https://fischipedia.org/wiki/Ancient_Eel",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/39/Ancient_Eel.png/64px-Ancient_Eel.png",
+          "rarity": "legendary",
+          "bait_items": [
+            {
+              "name": "Coal",
+              "wiki_url": "https://fischipedia.org/wiki/Coal",
+              "rarity": "rare"
+            }
+          ]
+        },
+        {
+          "id": "nautilus",
+          "name": "Nautilus",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "Spring, Summer",
+          "bait": "None",
+          "wiki_url": "https://fischipedia.org/wiki/Nautilus",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/79/Nautilus.png/64px-Nautilus.png",
+          "rarity": "legendary"
+        },
+        {
+          "id": "small-spine-chimera",
+          "name": "Small Spine Chimera",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Day",
+          "season": "Spring, Summer",
+          "bait": "Seaweed",
+          "wiki_url": "https://fischipedia.org/wiki/Small_Spine_Chimera",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/8b/Small_Spine_Chimera.png/64px-Small_Spine_Chimera.png",
+          "rarity": "legendary",
+          "bait_items": [
+            {
+              "name": "Seaweed",
+              "wiki_url": "https://fischipedia.org/wiki/Seaweed_%28Bait%29",
+              "rarity": "unusual"
+            }
+          ]
+        },
+        {
+          "id": "barreleye-fish",
+          "name": "Barreleye Fish",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "Summer",
+          "bait": "Deep Coral",
+          "wiki_url": "https://fischipedia.org/wiki/Barreleye_Fish",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f4/Barreleye_Fish.png/64px-Barreleye_Fish.png",
+          "rarity": "mythical",
+          "bait_items": [
+            {
+              "name": "Deep Coral",
+              "wiki_url": "https://fischipedia.org/wiki/Deep_Coral",
+              "rarity": "legendary"
+            }
+          ]
+        },
+        {
+          "id": "mutated-shark",
+          "name": "Mutated Shark",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "Winter",
+          "bait": "Fish Head",
+          "wiki_url": "https://fischipedia.org/wiki/Mutated_Shark",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/3c/Mutated_Shark.png/64px-Mutated_Shark.png",
+          "rarity": "mythical",
+          "bait_items": [
+            {
+              "name": "Fish Head",
+              "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
+              "rarity": "legendary"
+            }
+          ]
+        },
+        {
+          "id": "sea-snake",
+          "name": "Sea Snake",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "Winter",
+          "bait": "Fish Head",
+          "wiki_url": "https://fischipedia.org/wiki/Sea_Snake",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1a/Sea_Snake.png/64px-Sea_Snake.png",
+          "rarity": "mythical",
+          "bait_items": [
+            {
+              "name": "Fish Head",
+              "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
+              "rarity": "legendary"
+            }
+          ]
+        },
+        {
+          "id": "ancient-depth-serpent",
+          "name": "Ancient Depth Serpent",
+          "bestiary_location": "The Depths",
+          "weather": "None",
+          "time": "Night",
+          "season": "None",
+          "bait": "Truffle Worm",
+          "wiki_url": "https://fischipedia.org/wiki/Ancient_Depth_Serpent",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a1/Ancient_Depth_Serpent.png/64px-Ancient_Depth_Serpent.png",
+          "rarity": "exotic",
+          "bait_items": [
+            {
+              "name": "Truffle Worm",
+              "wiki_url": "https://fischipedia.org/wiki/Truffle_Worm",
+              "rarity": "legendary"
+            }
+          ]
         }
       ]
     },
@@ -18455,7 +18721,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear, Metal Strongbox"
         },
         {
           "id": "pelagic-cod",
@@ -18474,7 +18741,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear, Metal Strongbox"
         },
         {
           "id": "bumpy-snailfish",
@@ -18493,7 +18761,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shrimp_%28Bait%29",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage, Spear, Metal Strongbox"
         },
         {
           "id": "gulper-eel",
@@ -18512,7 +18781,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "moray-eel",
@@ -18531,7 +18801,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "conger-eel",
@@ -18550,7 +18821,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Spear, Metal Strongbox"
         },
         {
           "id": "giant-grouper",
@@ -18588,7 +18860,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "sixgill-shark",
@@ -18607,7 +18880,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Shark_Head",
               "rarity": "mythical"
             }
-          ]
+          ],
+          "source": "Spear"
         },
         {
           "id": "anchor",
@@ -18626,7 +18900,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "plesiosaur",
@@ -18669,7 +18944,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "bog-skulker",
@@ -18688,7 +18964,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Garbage",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "spore-lurker",
@@ -18707,7 +18984,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Maggot",
               "rarity": "uncommon"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "blight-pufferfish",
@@ -18726,7 +19004,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Weird_Algae",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "lantern-parasite",
@@ -18745,7 +19024,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Glowworm",
               "rarity": "secret"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "mire-krakenling",
@@ -18764,7 +19044,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Squid_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "planterech",
@@ -18802,7 +19083,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Fish_Head",
               "rarity": "legendary"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "widow-bloom",
@@ -18821,7 +19103,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Insect",
               "rarity": "common"
             }
-          ]
+          ],
+          "source": "Crab Cage"
         },
         {
           "id": "mycotide-serpent",
@@ -18895,7 +19178,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Toxified_Crab",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b5/Toxified_Crab.png/64px-Toxified_Crab.png",
-          "rarity": "mythical"
+          "rarity": "mythical",
+          "source": "Crab Cage"
         },
         {
           "id": "rotbloom",
@@ -19490,7 +19774,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Night_Shrimp",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/0/04/Night_Shrimp.png/64px-Night_Shrimp.png",
-          "rarity": "common"
+          "rarity": "common",
+          "source": "Crab Cage"
         },
         {
           "id": "spiderfish",
@@ -19559,7 +19844,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Minnow_%28Bait%29",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Carbon Crate"
         },
         {
           "id": "voidfin-mahi",
@@ -20040,7 +20326,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/8-Bit_Mr._Tentacles",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e1/8-Bit_Mr._Tentacles.png/64px-8-Bit_Mr._Tentacles.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "admin-bait-crate",
@@ -20109,7 +20396,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Admin_Relic",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/1/15/Admin_Relic.png/64px-Admin_Relic.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Event"
         },
         {
           "id": "alien-buddy",
@@ -20145,7 +20433,8 @@
               "name": "👽",
               "wiki_url": "https://fischipedia.org/wiki/%F0%9F%91%BD"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "baby-lovestorm-eel",
@@ -20199,7 +20488,8 @@
               "name": "5 Dollars",
               "wiki_url": "https://fischipedia.org/wiki/5_Dollars"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "blinking-egg",
@@ -20229,7 +20519,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Bloxy_Cola",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/b/bd/Bloxy_Cola.png/64px-Bloxy_Cola.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "bluesteel-egg",
@@ -20331,7 +20622,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Broken_Scylla",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/5/53/Broken_Scylla.png/64px-Broken_Scylla.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "cheezburger",
@@ -20343,7 +20635,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Cheezburger",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c8/Cheezburger.png/64px-Cheezburger.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "christmas-ancient-kraken",
@@ -20523,7 +20816,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Corrupted_Megalodon",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Corrupted_Megalodon.png/64px-Corrupted_Megalodon.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "corrupted-mosslurker",
@@ -20547,7 +20841,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Corrupted_Scylla",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d6/Corrupted_Scylla.png/64px-Corrupted_Scylla.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "cousin-tentacles",
@@ -20559,7 +20854,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Cousin_Tentacles",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7f/Cousin_Tentacles.png/64px-Cousin_Tentacles.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "cracked-egg",
@@ -20627,7 +20923,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Dr._Ishmael",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Dr._Ishmael.png/64px-Dr._Ishmael.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "extra-colossal-nico",
@@ -20669,7 +20966,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Fischipedia_Accurate_Pickle",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6c/Fischipedia_Accurate_Pickle.png/64px-Fischipedia_Accurate_Pickle.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "flashlight",
@@ -20688,7 +20986,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "frank",
@@ -20706,7 +21005,8 @@
               "name": "Ketchup",
               "wiki_url": "https://fischipedia.org/wiki/Ketchup"
             }
-          ]
+          ],
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "fridge",
@@ -20718,7 +21018,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Fridge",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/6/66/Fridge.png/64px-Fridge.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "gargantuan-taco",
@@ -20736,7 +21037,8 @@
               "name": "🔥🔥🔥",
               "wiki_url": "https://fischipedia.org/wiki/%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "ghost",
@@ -20748,7 +21050,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Ghost",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ab/Ghost.png/64px-Ghost.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "ghoul",
@@ -20760,7 +21063,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Ghoul",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e3/Ghoul.png/64px-Ghoul.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "glitch-cap",
@@ -20796,7 +21100,8 @@
               "name": "🔧",
               "wiki_url": "https://fischipedia.org/wiki/%F0%9F%94%A7"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "golden-coin",
@@ -20815,7 +21120,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Magnet",
               "rarity": "unusual"
             }
-          ]
+          ],
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "golden-egg",
@@ -20852,7 +21158,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Golden_Worm",
               "rarity": "exotic"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "golden-scylla",
@@ -20871,7 +21178,8 @@
               "wiki_url": "https://fischipedia.org/wiki/Golden_Worm",
               "rarity": "exotic"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "gygax-egg",
@@ -20907,7 +21215,8 @@
               "name": "👽",
               "wiki_url": "https://fischipedia.org/wiki/%F0%9F%91%BD"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "kind-egg",
@@ -20925,7 +21234,8 @@
               "name": "Joy",
               "wiki_url": "https://fischipedia.org/wiki/Joy"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "lava-bucket",
@@ -20967,7 +21277,8 @@
               "name": "Mango",
               "wiki_url": "https://fischipedia.org/wiki/Mango"
             }
-          ]
+          ],
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "mango-smoothie",
@@ -20985,7 +21296,8 @@
               "name": "Mango",
               "wiki_url": "https://fischipedia.org/wiki/Mango"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "mango-whale",
@@ -21021,7 +21333,8 @@
               "name": "🌙",
               "wiki_url": "https://fischipedia.org/wiki/%F0%9F%8C%99"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "mr-tentacles",
@@ -21033,7 +21346,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Mr._Tentacles",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/8/86/Mr._Tentacles.png/64px-Mr._Tentacles.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "mrs-tentacles",
@@ -21045,7 +21359,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Mrs._Tentacles",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/5/5f/Mrs._Tentacles.png/64px-Mrs._Tentacles.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "mustard-hat",
@@ -21105,7 +21420,8 @@
               "name": "👽",
               "wiki_url": "https://fischipedia.org/wiki/%F0%9F%91%BD"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "pine-tree",
@@ -21135,7 +21451,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Poltergeist",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/b/bb/Poltergeist.png/64px-Poltergeist.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "puzzle-egg",
@@ -21183,7 +21500,8 @@
               "name": "🚀",
               "wiki_url": "https://fischipedia.org/wiki/%F0%9F%9A%80"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "royal-egg",
@@ -21280,7 +21598,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Singularity",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d0/Singularity.png/64px-Singularity.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "snowflake",
@@ -21292,7 +21611,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Snowflake",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/2/27/Snowflake.png/64px-Snowflake.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "snowman",
@@ -21304,7 +21624,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Snowman",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c7/Snowman.png/64px-Snowman.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "star",
@@ -21322,7 +21643,8 @@
               "name": "⭐",
               "wiki_url": "https://fischipedia.org/wiki/%E2%AD%90"
             }
-          ]
+          ],
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "stationary-egg",
@@ -21376,7 +21698,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Supersized_Floppy",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f7/Supersized_Floppy.png/64px-Supersized_Floppy.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "supersized-mosslurker",
@@ -21430,7 +21753,8 @@
               "name": "🔥",
               "wiki_url": "https://fischipedia.org/wiki/%F0%9F%94%A5"
             }
-          ]
+          ],
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "tentacles-junior",
@@ -21442,7 +21766,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Tentacles_Junior",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4d/Tentacles_Junior.png/64px-Tentacles_Junior.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "toilet-fish",
@@ -21473,7 +21798,8 @@
           "bait": "None",
           "wiki_url": "https://fischipedia.org/wiki/Turkey_Leg",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/c/cc/Turkey_Leg.png/64px-Turkey_Leg.png",
-          "rarity": "special"
+          "rarity": "special",
+          "source": "Admin Crate, Admin Fish Barrel"
         },
         {
           "id": "ufo",
@@ -21491,7 +21817,8 @@
               "name": "👽",
               "wiki_url": "https://fischipedia.org/wiki/%F0%9F%91%BD"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "venoblossom",
@@ -21509,7 +21836,8 @@
               "name": "BULBBSSSS",
               "wiki_url": "https://fischipedia.org/wiki/BULBBSSSS"
             }
-          ]
+          ],
+          "source": "Admin Fish Barrel"
         },
         {
           "id": "wanwood-egg",

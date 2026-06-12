@@ -61,19 +61,23 @@
   color: var(--text-muted);
 }
 
-.fish-detail__bait {
+.fish-detail__meta {
   display: flex;
   align-items: baseline;
   gap: 0.3rem;
   font-size: 0.85rem;
 }
 
-.fish-detail__bait-label {
+.fish-detail__meta-label {
   color: #6b758c;
   font-weight: 600;
 }
 
-.fish-detail__bait-list {
+.fish-detail__meta-value {
+  font-weight: 500;
+}
+
+.fish-detail__meta-list {
   display: inline;
 }
 
@@ -99,6 +103,6 @@
   filter: brightness(1.12);
 }
 
-.fish-detail__bait-sep {
+.fish-detail__meta-sep {
   color: var(--text-muted);
 }

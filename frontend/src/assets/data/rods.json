@@ -1,542 +1,7 @@
 {
-  "scraped_at": "2026-06-12T12:22:39.262264+00:00",
+  "scraped_at": "2026-06-12T13:39:42.467461+00:00",
   "wiki_version_note": "233 total rods scraped",
   "categories": [
-    {
-      "name": "Limited",
-      "rods": [
-        {
-          "id": "acidgrinder",
-          "name": "Acidgrinder",
-          "journal_category": "Limited",
-          "obtainment": "AxelQuest",
-          "stage": 7,
-          "wiki_url": "https://fischipedia.org/wiki/Acidgrinder",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Acidgrinder.png/64px-Acidgrinder.png",
-          "color": "rgb(117 195 83)"
-        },
-        {
-          "id": "adventurer-s-rod",
-          "name": "Adventurer's Rod",
-          "journal_category": "Limited",
-          "obtainment": "Joining Second Sea",
-          "stage": 1,
-          "wiki_url": "https://fischipedia.org/wiki/Adventurer%27s_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/57/Adventurer%27s_Rod.png/64px-Adventurer%27s_Rod.png",
-          "color": "rgb(154 170 190)"
-        },
-        {
-          "id": "astraeus-serenade",
-          "name": "Astraeus Serenade",
-          "journal_category": "Limited",
-          "obtainment": "AstraeusQuest50,000,000C$",
-          "stage": 11,
-          "wiki_url": "https://fischipedia.org/wiki/Astraeus_Serenade",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ae/Astraeus_Serenade.png/64px-Astraeus_Serenade.png",
-          "color": "rgb(255 140 0)"
-        },
-        {
-          "id": "astral-rod",
-          "name": "Astral Rod",
-          "journal_category": "Limited",
-          "obtainment": "Code",
-          "stage": 1,
-          "wiki_url": "https://fischipedia.org/wiki/Astral_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f5/Astral_Rod.png/64px-Astral_Rod.png",
-          "color": "rgb(105 26 241)"
-        },
-        {
-          "id": "astralhook-rod",
-          "name": "Astralhook Rod",
-          "journal_category": "Limited",
-          "obtainment": "Leveling UpLevel 2500",
-          "stage": 10,
-          "wiki_url": "https://fischipedia.org/wiki/Astralhook_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/40/Astralhook_Rod.png/64px-Astralhook_Rod.png",
-          "color": "rgb(200 133 0)"
-        },
-        {
-          "id": "bone-blade",
-          "name": "Bone Blade",
-          "journal_category": "Limited",
-          "obtainment": "Black Market2,500,000C$",
-          "stage": 7,
-          "wiki_url": "https://fischipedia.org/wiki/Bone_Blade",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Bone_Blade.png/64px-Bone_Blade.png",
-          "color": "rgb(190 185 143)"
-        },
-        {
-          "id": "brother-s-rod",
-          "name": "Brother's Rod",
-          "journal_category": "Limited",
-          "obtainment": "LukaQuest",
-          "stage": 1,
-          "wiki_url": "https://fischipedia.org/wiki/Brother%27s_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/05/Brother%27s_Rod.png/64px-Brother%27s_Rod.png",
-          "color": "rgb(75 207 196)"
-        },
-        {
-          "id": "buddy-bond-rod",
-          "name": "Buddy Bond Rod",
-          "journal_category": "Limited",
-          "obtainment": "Bob",
-          "stage": 1,
-          "wiki_url": "https://fischipedia.org/wiki/Buddy_Bond_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/12/Buddy_Bond_Rod.png/64px-Buddy_Bond_Rod.png",
-          "color": "rgb(145 255 115)"
-        },
-        {
-          "id": "castbound",
-          "name": "Castbound",
-          "journal_category": "Limited",
-          "obtainment": "The GuideQuestLevel 1000",
-          "stage": 10,
-          "wiki_url": "https://fischipedia.org/wiki/Castbound",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6f/Castbound.png/64px-Castbound.png",
-          "color": "rgb(249 57 97)"
-        },
-        {
-          "id": "chrysalis",
-          "name": "Chrysalis",
-          "journal_category": "Limited",
-          "obtainment": "HexQuestLevel 1000",
-          "stage": 9,
-          "wiki_url": "https://fischipedia.org/wiki/Chrysalis",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/01/Chrysalis.png/64px-Chrysalis.png",
-          "color": "rgb(255 142 249)"
-        },
-        {
-          "id": "cinderstring",
-          "name": "Cinderstring",
-          "journal_category": "Limited",
-          "obtainment": "RickQuest",
-          "stage": 7,
-          "wiki_url": "https://fischipedia.org/wiki/Cinderstring",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1d/Cinderstring.png/64px-Cinderstring.png",
-          "color": "rgb(255 170 0)"
-        },
-        {
-          "id": "clickbait-caster",
-          "name": "Clickbait Caster",
-          "journal_category": "Limited",
-          "obtainment": "Given to Official Content Creators who promoted the Mariana's Veil update",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Clickbait_Caster",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a5/Clickbait_Caster.png/64px-Clickbait_Caster.png",
-          "color": "rgb(255 0 0)"
-        },
-        {
-          "id": "crimsonwrath",
-          "name": "Crimsonwrath",
-          "journal_category": "Limited",
-          "obtainment": "Black Market15,000,000C$",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Crimsonwrath",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f8/Crimsonwrath.png/64px-Crimsonwrath.png",
-          "color": "rgb(193 16 0)"
-        },
-        {
-          "id": "demon-slayer",
-          "name": "Demon-Slayer",
-          "journal_category": "Limited",
-          "obtainment": "Code",
-          "stage": 1,
-          "wiki_url": "https://fischipedia.org/wiki/Demon-Slayer",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/56/Demon-Slayer.png/64px-Demon-Slayer.png",
-          "color": "rgb(200 200 200)"
-        },
-        {
-          "id": "eardrum",
-          "name": "Eardrum",
-          "journal_category": "Limited",
-          "obtainment": "HolladayQuest",
-          "stage": 10,
-          "wiki_url": "https://fischipedia.org/wiki/Eardrum",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b0/Eardrum.png/64px-Eardrum.png",
-          "color": "rgb(200 141 103)"
-        },
-        {
-          "id": "electric-guitar",
-          "name": "Electric Guitar",
-          "journal_category": "Limited",
-          "obtainment": "Black Market14,444,444C$",
-          "stage": 10,
-          "wiki_url": "https://fischipedia.org/wiki/Electric_Guitar",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Electric_Guitar.png/64px-Electric_Guitar.png",
-          "color": "rgb(200 51 51)"
-        },
-        {
-          "id": "event-horizon-rod",
-          "name": "Event Horizon Rod",
-          "journal_category": "Limited",
-          "obtainment": "Code",
-          "stage": 1,
-          "wiki_url": "https://fischipedia.org/wiki/Event_Horizon_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9f/Event_Horizon_Rod.png/64px-Event_Horizon_Rod.png",
-          "color": "rgb(255 184 5)"
-        },
-        {
-          "id": "fallen-snowblade",
-          "name": "Fallen Snowblade",
-          "journal_category": "Limited",
-          "obtainment": "Sno & Leprechaun SnoQuest",
-          "stage": 10,
-          "wiki_url": "https://fischipedia.org/wiki/Fallen_Snowblade",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1d/Fallen_Snowblade.png/64px-Fallen_Snowblade.png",
-          "color": "rgb(255 255 255)"
-        },
-        {
-          "id": "fang-of-the-eclipse",
-          "name": "Fang of the Eclipse",
-          "journal_category": "Limited",
-          "obtainment": "Leveling UpLevel 2000",
-          "stage": 10,
-          "wiki_url": "https://fischipedia.org/wiki/Fang_of_the_Eclipse",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ab/Fang_of_the_Eclipse.png/64px-Fang_of_the_Eclipse.png",
-          "color": "rgb(200 133 0)"
-        },
-        {
-          "id": "fischer-s-rod",
-          "name": "Fischer's Rod",
-          "journal_category": "Limited",
-          "obtainment": "Starter PackRobux99",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Fischer%27s_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/83/Fischer%27s_Rod.png/64px-Fischer%27s_Rod.png",
-          "color": "rgb(245 205 48)"
-        },
-        {
-          "id": "fish-photographer",
-          "name": "Fish Photographer",
-          "journal_category": "Limited",
-          "obtainment": "Given to Official Content Creators who promoted the Cursed Seas update",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Fish_Photographer",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f3/Fish_Photographer.png/64px-Fish_Photographer.png",
-          "color": "rgb(255 241 206)"
-        },
-        {
-          "id": "frostbane-rod",
-          "name": "Frostbane Rod",
-          "journal_category": "Limited",
-          "obtainment": "Icestorm & SnowstormAdmin Event1,500,000C$",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Frostbane_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/25/Frostbane_Rod.png/64px-Frostbane_Rod.png",
-          "color": "rgb(144 240 255)"
-        },
-        {
-          "id": "katana-rod",
-          "name": "Katana Rod",
-          "journal_category": "Limited",
-          "obtainment": "Black Market1,000,000C$",
-          "stage": 6,
-          "wiki_url": "https://fischipedia.org/wiki/Katana_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1c/Katana_Rod.png/64px-Katana_Rod.png",
-          "color": "rgb(177 177 177)"
-        },
-        {
-          "id": "lobster-rod",
-          "name": "Lobster Rod",
-          "journal_category": "Limited",
-          "obtainment": "MikeQuest",
-          "stage": 3,
-          "wiki_url": "https://fischipedia.org/wiki/Lobster_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/56/Lobster_Rod.png/64px-Lobster_Rod.png",
-          "color": "rgb(200 0 0)"
-        },
-        {
-          "id": "lullaby",
-          "name": "Lullaby",
-          "journal_category": "Limited",
-          "obtainment": "SimonQuestLevel 500",
-          "stage": 11,
-          "wiki_url": "https://fischipedia.org/wiki/Lullaby",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9a/Lullaby.png/64px-Lullaby.png",
-          "color": "rgb(133 143 250)"
-        },
-        {
-          "id": "merchant-rod",
-          "name": "Merchant Rod",
-          "journal_category": "Limited",
-          "obtainment": "Purchasing20,000E$",
-          "stage": 2,
-          "wiki_url": "https://fischipedia.org/wiki/Merchant_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/33/Merchant_Rod.png/64px-Merchant_Rod.png",
-          "color": "rgb(200 0 0)"
-        },
-        {
-          "id": "migurod",
-          "name": "MiguRod",
-          "journal_category": "Limited",
-          "obtainment": "MiguraQuest4,014,014C$Level 401",
-          "stage": 8,
-          "wiki_url": "https://fischipedia.org/wiki/MiguRod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/92/MiguRod.png/64px-MiguRod.png",
-          "color": "rgb(255 57 57)"
-        },
-        {
-          "id": "nates-blade",
-          "name": "Nates Blade",
-          "journal_category": "Limited",
-          "obtainment": "Black Market200,000,000C$",
-          "stage": 10,
-          "wiki_url": "https://fischipedia.org/wiki/Nates_Blade",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/ee/Nates_Blade.png/64px-Nates_Blade.png",
-          "color": "rgb(255 11 11)"
-        },
-        {
-          "id": "nilcaster",
-          "name": "NilCaster",
-          "journal_category": "Limited",
-          "obtainment": "Given to select Game Testers with significant testing contributions",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/NilCaster",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a1/NilCaster.png/64px-NilCaster.png",
-          "color": "rgb(55 255 0)"
-        },
-        {
-          "id": "noctone",
-          "name": "Noctone",
-          "journal_category": "Limited",
-          "obtainment": "Axe of Rhoads",
-          "stage": 10,
-          "wiki_url": "https://fischipedia.org/wiki/Noctone",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Noctone.png/64px-Noctone.png",
-          "color": "rgb(230 166 54)"
-        },
-        {
-          "id": "original-no-life-rod",
-          "name": "Original No-Life Rod",
-          "journal_category": "Limited",
-          "obtainment": "OG No-Life Rod Admin EventAdmin Event1C$",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Original_No-Life_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7d/Original_No-Life_Rod.png/64px-Original_No-Life_Rod.png",
-          "color": "rgb(255 42 42)"
-        },
-        {
-          "id": "paintbrush",
-          "name": "Paintbrush",
-          "journal_category": "Limited",
-          "obtainment": "Given to winners of the Art Contest in the Fisch Discord Server",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Paintbrush",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c4/Paintbrush.png/64px-Paintbrush.png",
-          "color": "rgb(204 0 0)"
-        },
-        {
-          "id": "part",
-          "name": "Part",
-          "journal_category": "Limited",
-          "obtainment": "BasePartQuestLevel 1",
-          "stage": 5,
-          "wiki_url": "https://fischipedia.org/wiki/Part",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/99/Part.png/64px-Part.png",
-          "color": "rgb(221 221 221)"
-        },
-        {
-          "id": "patriot-rod",
-          "name": "Patriot Rod",
-          "journal_category": "Limited",
-          "obtainment": "Code",
-          "stage": 1,
-          "wiki_url": "https://fischipedia.org/wiki/Patriot_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/Patriot_Rod.png/64px-Patriot_Rod.png",
-          "color": "rgb(255 0 0)"
-        },
-        {
-          "id": "pen-rod",
-          "name": "Pen Rod",
-          "journal_category": "Limited",
-          "obtainment": "Given to Wiki Editors with significant editing contributions",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Pen_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e3/Pen_Rod.png/64px-Pen_Rod.png",
-          "color": "rgb(200 200 200)"
-        },
-        {
-          "id": "polaris-serenade",
-          "name": "Polaris Serenade",
-          "journal_category": "Limited",
-          "obtainment": "NickQuest50,000,000C$",
-          "stage": 11,
-          "wiki_url": "https://fischipedia.org/wiki/Polaris_Serenade",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9e/Polaris_Serenade.png/64px-Polaris_Serenade.png",
-          "color": "rgb(115 115 255)"
-        },
-        {
-          "id": "remembrance",
-          "name": "Remembrance",
-          "journal_category": "Limited",
-          "obtainment": "LunethQuestLevel 1000",
-          "stage": 11,
-          "wiki_url": "https://fischipedia.org/wiki/Remembrance",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d2/Remembrance.png/64px-Remembrance.png",
-          "color": "rgb(255 255 255)"
-        },
-        {
-          "id": "rod-of-time",
-          "name": "Rod Of Time",
-          "journal_category": "Limited",
-          "obtainment": "Crafting",
-          "stage": 2,
-          "wiki_url": "https://fischipedia.org/wiki/Rod_Of_Time",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b9/Rod_Of_Time.png/64px-Rod_Of_Time.png",
-          "color": "rgb(200 26 58)"
-        },
-        {
-          "id": "rod-of-the-cosmos",
-          "name": "Rod of the Cosmos",
-          "journal_category": "Limited",
-          "obtainment": "MeteorologistQuest",
-          "stage": 8,
-          "wiki_url": "https://fischipedia.org/wiki/Rod_of_the_Cosmos",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Rod_of_the_Cosmos.png/64px-Rod_of_the_Cosmos.png",
-          "color": "rgb(93 193 255)"
-        },
-        {
-          "id": "rose-rend",
-          "name": "Rose Rend",
-          "journal_category": "Limited",
-          "obtainment": "Merchandise",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Rose_Rend",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f9/Rose_Rend.png/64px-Rose_Rend.png",
-          "color": "rgb(255 80 156)"
-        },
-        {
-          "id": "soulreaper",
-          "name": "SOULREAPER",
-          "journal_category": "Limited",
-          "obtainment": "ReaperQuestLevel 1000",
-          "stage": 11,
-          "wiki_url": "https://fischipedia.org/wiki/SOULREAPER",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fc/SOULREAPER.png/64px-SOULREAPER.png",
-          "color": "rgb(33 33 33)"
-        },
-        {
-          "id": "sanguine-spire",
-          "name": "Sanguine Spire",
-          "journal_category": "Limited",
-          "obtainment": "CORRUPTIONAdmin Event10,000,000C$",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Sanguine_Spire",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e4/Sanguine_Spire.png/64px-Sanguine_Spire.png",
-          "color": "rgb(190 25 34)"
-        },
-        {
-          "id": "scarlet-ravager",
-          "name": "Scarlet Ravager",
-          "journal_category": "Limited",
-          "obtainment": "Merchandise",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Scarlet_Ravager",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/5f/Scarlet_Ravager.png/64px-Scarlet_Ravager.png",
-          "color": "rgb(200 27 39)"
-        },
-        {
-          "id": "silly-fun-happy-rod",
-          "name": "Silly Fun Happy Rod",
-          "journal_category": "Limited",
-          "obtainment": "Silly ClownQuest",
-          "stage": 4,
-          "wiki_url": "https://fischipedia.org/wiki/Silly_Fun_Happy_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4d/Silly_Fun_Happy_Rod.png/64px-Silly_Fun_Happy_Rod.png",
-          "color": "rgb(221 210 0)"
-        },
-        {
-          "id": "sovereign-doombringer",
-          "name": "Sovereign Doombringer",
-          "journal_category": "Limited",
-          "obtainment": "Awarded to Official Content Creators who promoted the Northern Expedition update",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/Sovereign_Doombringer",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c3/Sovereign_Doombringer.png/64px-Sovereign_Doombringer.png",
-          "color": "rgb(137 198 255)"
-        },
-        {
-          "id": "steampunk-rod",
-          "name": "Steampunk Rod",
-          "journal_category": "Limited",
-          "obtainment": "RivetQuest",
-          "stage": 9,
-          "wiki_url": "https://fischipedia.org/wiki/Steampunk_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/44/Steampunk_Rod.png/64px-Steampunk_Rod.png",
-          "color": "rgb(148 101 63)"
-        },
-        {
-          "id": "stone-hammer",
-          "name": "Stone Hammer",
-          "journal_category": "Limited",
-          "obtainment": "Code",
-          "stage": 1,
-          "wiki_url": "https://fischipedia.org/wiki/Stone_Hammer",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Stone_Hammer.png/64px-Stone_Hammer.png",
-          "color": "rgb(157 157 157)"
-        },
-        {
-          "id": "sword-of-darkness",
-          "name": "Sword of Darkness",
-          "journal_category": "Limited",
-          "obtainment": "Black Market50,000,000C$",
-          "stage": 10,
-          "wiki_url": "https://fischipedia.org/wiki/Sword_of_Darkness",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/Sword_of_Darkness.png/64px-Sword_of_Darkness.png",
-          "color": "rgb(200 200 200)"
-        },
-        {
-          "id": "test-rod",
-          "name": "Test Rod",
-          "journal_category": "Limited",
-          "obtainment": "BuildarooQuest",
-          "stage": 6,
-          "wiki_url": "https://fischipedia.org/wiki/Test_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d4/Test_Rod.png/64px-Test_Rod.png",
-          "color": "rgb(73 240 255)"
-        },
-        {
-          "id": "upside-down-rod",
-          "name": "Upside-Down Rod",
-          "journal_category": "Limited",
-          "obtainment": "Black Market15,000C$",
-          "stage": 2,
-          "wiki_url": "https://fischipedia.org/wiki/Upside-Down_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/8a/Upside-Down_Rod.png/64px-Upside-Down_Rod.png",
-          "color": "rgb(154 170 190)"
-        },
-        {
-          "id": "view-smasher",
-          "name": "View Smasher",
-          "journal_category": "Limited",
-          "obtainment": "Awarded to Official Content Creators who promoted the Cursed Seas update",
-          "stage": 0,
-          "wiki_url": "https://fischipedia.org/wiki/View_Smasher",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b3/View_Smasher.png/64px-View_Smasher.png",
-          "color": "rgb(255 144 144)"
-        },
-        {
-          "id": "wingkeeper",
-          "name": "Wingkeeper",
-          "journal_category": "Limited",
-          "obtainment": "SeraphelQuestLevel 1000",
-          "stage": 10,
-          "wiki_url": "https://fischipedia.org/wiki/Wingkeeper",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/3a/Wingkeeper.png/64px-Wingkeeper.png",
-          "color": "rgb(235 232 214)"
-        },
-        {
-          "id": "wingripper",
-          "name": "Wingripper",
-          "journal_category": "Limited",
-          "obtainment": "GothQuest",
-          "stage": 11,
-          "wiki_url": "https://fischipedia.org/wiki/Wingripper",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/70/Wingripper.png/64px-Wingripper.png",
-          "color": "rgb(200 200 200)"
-        }
-      ]
-    },
     {
       "name": "Regionless",
       "rods": [
@@ -2089,6 +1554,541 @@
           "wiki_url": "https://fischipedia.org/wiki/Noiseform",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/5/54/Noiseform.png/64px-Noiseform.png",
           "color": "rgb(0 255 61)"
+        }
+      ]
+    },
+    {
+      "name": "Limited",
+      "rods": [
+        {
+          "id": "acidgrinder",
+          "name": "Acidgrinder",
+          "journal_category": "Limited",
+          "obtainment": "AxelQuest",
+          "stage": 7,
+          "wiki_url": "https://fischipedia.org/wiki/Acidgrinder",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Acidgrinder.png/64px-Acidgrinder.png",
+          "color": "rgb(117 195 83)"
+        },
+        {
+          "id": "adventurer-s-rod",
+          "name": "Adventurer's Rod",
+          "journal_category": "Limited",
+          "obtainment": "Joining Second Sea",
+          "stage": 1,
+          "wiki_url": "https://fischipedia.org/wiki/Adventurer%27s_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/57/Adventurer%27s_Rod.png/64px-Adventurer%27s_Rod.png",
+          "color": "rgb(154 170 190)"
+        },
+        {
+          "id": "astraeus-serenade",
+          "name": "Astraeus Serenade",
+          "journal_category": "Limited",
+          "obtainment": "AstraeusQuest50,000,000C$",
+          "stage": 11,
+          "wiki_url": "https://fischipedia.org/wiki/Astraeus_Serenade",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ae/Astraeus_Serenade.png/64px-Astraeus_Serenade.png",
+          "color": "rgb(255 140 0)"
+        },
+        {
+          "id": "astral-rod",
+          "name": "Astral Rod",
+          "journal_category": "Limited",
+          "obtainment": "Code",
+          "stage": 1,
+          "wiki_url": "https://fischipedia.org/wiki/Astral_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f5/Astral_Rod.png/64px-Astral_Rod.png",
+          "color": "rgb(105 26 241)"
+        },
+        {
+          "id": "astralhook-rod",
+          "name": "Astralhook Rod",
+          "journal_category": "Limited",
+          "obtainment": "Leveling UpLevel 2500",
+          "stage": 10,
+          "wiki_url": "https://fischipedia.org/wiki/Astralhook_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/40/Astralhook_Rod.png/64px-Astralhook_Rod.png",
+          "color": "rgb(200 133 0)"
+        },
+        {
+          "id": "bone-blade",
+          "name": "Bone Blade",
+          "journal_category": "Limited",
+          "obtainment": "Black Market2,500,000C$",
+          "stage": 7,
+          "wiki_url": "https://fischipedia.org/wiki/Bone_Blade",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Bone_Blade.png/64px-Bone_Blade.png",
+          "color": "rgb(190 185 143)"
+        },
+        {
+          "id": "brother-s-rod",
+          "name": "Brother's Rod",
+          "journal_category": "Limited",
+          "obtainment": "LukaQuest",
+          "stage": 1,
+          "wiki_url": "https://fischipedia.org/wiki/Brother%27s_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/05/Brother%27s_Rod.png/64px-Brother%27s_Rod.png",
+          "color": "rgb(75 207 196)"
+        },
+        {
+          "id": "buddy-bond-rod",
+          "name": "Buddy Bond Rod",
+          "journal_category": "Limited",
+          "obtainment": "Bob",
+          "stage": 1,
+          "wiki_url": "https://fischipedia.org/wiki/Buddy_Bond_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/12/Buddy_Bond_Rod.png/64px-Buddy_Bond_Rod.png",
+          "color": "rgb(145 255 115)"
+        },
+        {
+          "id": "castbound",
+          "name": "Castbound",
+          "journal_category": "Limited",
+          "obtainment": "The GuideQuestLevel 1000",
+          "stage": 10,
+          "wiki_url": "https://fischipedia.org/wiki/Castbound",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6f/Castbound.png/64px-Castbound.png",
+          "color": "rgb(249 57 97)"
+        },
+        {
+          "id": "chrysalis",
+          "name": "Chrysalis",
+          "journal_category": "Limited",
+          "obtainment": "HexQuestLevel 1000",
+          "stage": 9,
+          "wiki_url": "https://fischipedia.org/wiki/Chrysalis",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/01/Chrysalis.png/64px-Chrysalis.png",
+          "color": "rgb(255 142 249)"
+        },
+        {
+          "id": "cinderstring",
+          "name": "Cinderstring",
+          "journal_category": "Limited",
+          "obtainment": "RickQuest",
+          "stage": 7,
+          "wiki_url": "https://fischipedia.org/wiki/Cinderstring",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1d/Cinderstring.png/64px-Cinderstring.png",
+          "color": "rgb(255 170 0)"
+        },
+        {
+          "id": "clickbait-caster",
+          "name": "Clickbait Caster",
+          "journal_category": "Limited",
+          "obtainment": "Given to Official Content Creators who promoted the Mariana's Veil update",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Clickbait_Caster",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a5/Clickbait_Caster.png/64px-Clickbait_Caster.png",
+          "color": "rgb(255 0 0)"
+        },
+        {
+          "id": "crimsonwrath",
+          "name": "Crimsonwrath",
+          "journal_category": "Limited",
+          "obtainment": "Black Market15,000,000C$",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Crimsonwrath",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f8/Crimsonwrath.png/64px-Crimsonwrath.png",
+          "color": "rgb(193 16 0)"
+        },
+        {
+          "id": "demon-slayer",
+          "name": "Demon-Slayer",
+          "journal_category": "Limited",
+          "obtainment": "Code",
+          "stage": 1,
+          "wiki_url": "https://fischipedia.org/wiki/Demon-Slayer",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/56/Demon-Slayer.png/64px-Demon-Slayer.png",
+          "color": "rgb(200 200 200)"
+        },
+        {
+          "id": "eardrum",
+          "name": "Eardrum",
+          "journal_category": "Limited",
+          "obtainment": "HolladayQuest",
+          "stage": 10,
+          "wiki_url": "https://fischipedia.org/wiki/Eardrum",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b0/Eardrum.png/64px-Eardrum.png",
+          "color": "rgb(200 141 103)"
+        },
+        {
+          "id": "electric-guitar",
+          "name": "Electric Guitar",
+          "journal_category": "Limited",
+          "obtainment": "Black Market14,444,444C$",
+          "stage": 10,
+          "wiki_url": "https://fischipedia.org/wiki/Electric_Guitar",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Electric_Guitar.png/64px-Electric_Guitar.png",
+          "color": "rgb(200 51 51)"
+        },
+        {
+          "id": "event-horizon-rod",
+          "name": "Event Horizon Rod",
+          "journal_category": "Limited",
+          "obtainment": "Code",
+          "stage": 1,
+          "wiki_url": "https://fischipedia.org/wiki/Event_Horizon_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9f/Event_Horizon_Rod.png/64px-Event_Horizon_Rod.png",
+          "color": "rgb(255 184 5)"
+        },
+        {
+          "id": "fallen-snowblade",
+          "name": "Fallen Snowblade",
+          "journal_category": "Limited",
+          "obtainment": "Sno & Leprechaun SnoQuest",
+          "stage": 10,
+          "wiki_url": "https://fischipedia.org/wiki/Fallen_Snowblade",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1d/Fallen_Snowblade.png/64px-Fallen_Snowblade.png",
+          "color": "rgb(255 255 255)"
+        },
+        {
+          "id": "fang-of-the-eclipse",
+          "name": "Fang of the Eclipse",
+          "journal_category": "Limited",
+          "obtainment": "Leveling UpLevel 2000",
+          "stage": 10,
+          "wiki_url": "https://fischipedia.org/wiki/Fang_of_the_Eclipse",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ab/Fang_of_the_Eclipse.png/64px-Fang_of_the_Eclipse.png",
+          "color": "rgb(200 133 0)"
+        },
+        {
+          "id": "fischer-s-rod",
+          "name": "Fischer's Rod",
+          "journal_category": "Limited",
+          "obtainment": "Starter PackRobux99",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Fischer%27s_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/83/Fischer%27s_Rod.png/64px-Fischer%27s_Rod.png",
+          "color": "rgb(245 205 48)"
+        },
+        {
+          "id": "fish-photographer",
+          "name": "Fish Photographer",
+          "journal_category": "Limited",
+          "obtainment": "Given to Official Content Creators who promoted the Cursed Seas update",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Fish_Photographer",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f3/Fish_Photographer.png/64px-Fish_Photographer.png",
+          "color": "rgb(255 241 206)"
+        },
+        {
+          "id": "frostbane-rod",
+          "name": "Frostbane Rod",
+          "journal_category": "Limited",
+          "obtainment": "Icestorm & SnowstormAdmin Event1,500,000C$",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Frostbane_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/25/Frostbane_Rod.png/64px-Frostbane_Rod.png",
+          "color": "rgb(144 240 255)"
+        },
+        {
+          "id": "katana-rod",
+          "name": "Katana Rod",
+          "journal_category": "Limited",
+          "obtainment": "Black Market1,000,000C$",
+          "stage": 6,
+          "wiki_url": "https://fischipedia.org/wiki/Katana_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1c/Katana_Rod.png/64px-Katana_Rod.png",
+          "color": "rgb(177 177 177)"
+        },
+        {
+          "id": "lobster-rod",
+          "name": "Lobster Rod",
+          "journal_category": "Limited",
+          "obtainment": "MikeQuest",
+          "stage": 3,
+          "wiki_url": "https://fischipedia.org/wiki/Lobster_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/56/Lobster_Rod.png/64px-Lobster_Rod.png",
+          "color": "rgb(200 0 0)"
+        },
+        {
+          "id": "lullaby",
+          "name": "Lullaby",
+          "journal_category": "Limited",
+          "obtainment": "SimonQuestLevel 500",
+          "stage": 11,
+          "wiki_url": "https://fischipedia.org/wiki/Lullaby",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9a/Lullaby.png/64px-Lullaby.png",
+          "color": "rgb(133 143 250)"
+        },
+        {
+          "id": "merchant-rod",
+          "name": "Merchant Rod",
+          "journal_category": "Limited",
+          "obtainment": "Purchasing20,000E$",
+          "stage": 2,
+          "wiki_url": "https://fischipedia.org/wiki/Merchant_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/33/Merchant_Rod.png/64px-Merchant_Rod.png",
+          "color": "rgb(200 0 0)"
+        },
+        {
+          "id": "migurod",
+          "name": "MiguRod",
+          "journal_category": "Limited",
+          "obtainment": "MiguraQuest4,014,014C$Level 401",
+          "stage": 8,
+          "wiki_url": "https://fischipedia.org/wiki/MiguRod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/92/MiguRod.png/64px-MiguRod.png",
+          "color": "rgb(255 57 57)"
+        },
+        {
+          "id": "nates-blade",
+          "name": "Nates Blade",
+          "journal_category": "Limited",
+          "obtainment": "Black Market200,000,000C$",
+          "stage": 10,
+          "wiki_url": "https://fischipedia.org/wiki/Nates_Blade",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/ee/Nates_Blade.png/64px-Nates_Blade.png",
+          "color": "rgb(255 11 11)"
+        },
+        {
+          "id": "nilcaster",
+          "name": "NilCaster",
+          "journal_category": "Limited",
+          "obtainment": "Given to select Game Testers with significant testing contributions",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/NilCaster",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a1/NilCaster.png/64px-NilCaster.png",
+          "color": "rgb(55 255 0)"
+        },
+        {
+          "id": "noctone",
+          "name": "Noctone",
+          "journal_category": "Limited",
+          "obtainment": "Axe of Rhoads",
+          "stage": 10,
+          "wiki_url": "https://fischipedia.org/wiki/Noctone",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Noctone.png/64px-Noctone.png",
+          "color": "rgb(230 166 54)"
+        },
+        {
+          "id": "original-no-life-rod",
+          "name": "Original No-Life Rod",
+          "journal_category": "Limited",
+          "obtainment": "OG No-Life Rod Admin EventAdmin Event1C$",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Original_No-Life_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7d/Original_No-Life_Rod.png/64px-Original_No-Life_Rod.png",
+          "color": "rgb(255 42 42)"
+        },
+        {
+          "id": "paintbrush",
+          "name": "Paintbrush",
+          "journal_category": "Limited",
+          "obtainment": "Given to winners of the Art Contest in the Fisch Discord Server",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Paintbrush",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c4/Paintbrush.png/64px-Paintbrush.png",
+          "color": "rgb(204 0 0)"
+        },
+        {
+          "id": "part",
+          "name": "Part",
+          "journal_category": "Limited",
+          "obtainment": "BasePartQuestLevel 1",
+          "stage": 5,
+          "wiki_url": "https://fischipedia.org/wiki/Part",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/99/Part.png/64px-Part.png",
+          "color": "rgb(221 221 221)"
+        },
+        {
+          "id": "patriot-rod",
+          "name": "Patriot Rod",
+          "journal_category": "Limited",
+          "obtainment": "Code",
+          "stage": 1,
+          "wiki_url": "https://fischipedia.org/wiki/Patriot_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/Patriot_Rod.png/64px-Patriot_Rod.png",
+          "color": "rgb(255 0 0)"
+        },
+        {
+          "id": "pen-rod",
+          "name": "Pen Rod",
+          "journal_category": "Limited",
+          "obtainment": "Given to Wiki Editors with significant editing contributions",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Pen_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e3/Pen_Rod.png/64px-Pen_Rod.png",
+          "color": "rgb(200 200 200)"
+        },
+        {
+          "id": "polaris-serenade",
+          "name": "Polaris Serenade",
+          "journal_category": "Limited",
+          "obtainment": "NickQuest50,000,000C$",
+          "stage": 11,
+          "wiki_url": "https://fischipedia.org/wiki/Polaris_Serenade",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9e/Polaris_Serenade.png/64px-Polaris_Serenade.png",
+          "color": "rgb(115 115 255)"
+        },
+        {
+          "id": "remembrance",
+          "name": "Remembrance",
+          "journal_category": "Limited",
+          "obtainment": "LunethQuestLevel 1000",
+          "stage": 11,
+          "wiki_url": "https://fischipedia.org/wiki/Remembrance",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d2/Remembrance.png/64px-Remembrance.png",
+          "color": "rgb(255 255 255)"
+        },
+        {
+          "id": "rod-of-time",
+          "name": "Rod Of Time",
+          "journal_category": "Limited",
+          "obtainment": "Crafting",
+          "stage": 2,
+          "wiki_url": "https://fischipedia.org/wiki/Rod_Of_Time",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b9/Rod_Of_Time.png/64px-Rod_Of_Time.png",
+          "color": "rgb(200 26 58)"
+        },
+        {
+          "id": "rod-of-the-cosmos",
+          "name": "Rod of the Cosmos",
+          "journal_category": "Limited",
+          "obtainment": "MeteorologistQuest",
+          "stage": 8,
+          "wiki_url": "https://fischipedia.org/wiki/Rod_of_the_Cosmos",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Rod_of_the_Cosmos.png/64px-Rod_of_the_Cosmos.png",
+          "color": "rgb(93 193 255)"
+        },
+        {
+          "id": "rose-rend",
+          "name": "Rose Rend",
+          "journal_category": "Limited",
+          "obtainment": "Merchandise",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Rose_Rend",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f9/Rose_Rend.png/64px-Rose_Rend.png",
+          "color": "rgb(255 80 156)"
+        },
+        {
+          "id": "soulreaper",
+          "name": "SOULREAPER",
+          "journal_category": "Limited",
+          "obtainment": "ReaperQuestLevel 1000",
+          "stage": 11,
+          "wiki_url": "https://fischipedia.org/wiki/SOULREAPER",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fc/SOULREAPER.png/64px-SOULREAPER.png",
+          "color": "rgb(33 33 33)"
+        },
+        {
+          "id": "sanguine-spire",
+          "name": "Sanguine Spire",
+          "journal_category": "Limited",
+          "obtainment": "CORRUPTIONAdmin Event10,000,000C$",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Sanguine_Spire",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e4/Sanguine_Spire.png/64px-Sanguine_Spire.png",
+          "color": "rgb(190 25 34)"
+        },
+        {
+          "id": "scarlet-ravager",
+          "name": "Scarlet Ravager",
+          "journal_category": "Limited",
+          "obtainment": "Merchandise",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Scarlet_Ravager",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/5f/Scarlet_Ravager.png/64px-Scarlet_Ravager.png",
+          "color": "rgb(200 27 39)"
+        },
+        {
+          "id": "silly-fun-happy-rod",
+          "name": "Silly Fun Happy Rod",
+          "journal_category": "Limited",
+          "obtainment": "Silly ClownQuest",
+          "stage": 4,
+          "wiki_url": "https://fischipedia.org/wiki/Silly_Fun_Happy_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4d/Silly_Fun_Happy_Rod.png/64px-Silly_Fun_Happy_Rod.png",
+          "color": "rgb(221 210 0)"
+        },
+        {
+          "id": "sovereign-doombringer",
+          "name": "Sovereign Doombringer",
+          "journal_category": "Limited",
+          "obtainment": "Awarded to Official Content Creators who promoted the Northern Expedition update",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/Sovereign_Doombringer",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c3/Sovereign_Doombringer.png/64px-Sovereign_Doombringer.png",
+          "color": "rgb(137 198 255)"
+        },
+        {
+          "id": "steampunk-rod",
+          "name": "Steampunk Rod",
+          "journal_category": "Limited",
+          "obtainment": "RivetQuest",
+          "stage": 9,
+          "wiki_url": "https://fischipedia.org/wiki/Steampunk_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/44/Steampunk_Rod.png/64px-Steampunk_Rod.png",
+          "color": "rgb(148 101 63)"
+        },
+        {
+          "id": "stone-hammer",
+          "name": "Stone Hammer",
+          "journal_category": "Limited",
+          "obtainment": "Code",
+          "stage": 1,
+          "wiki_url": "https://fischipedia.org/wiki/Stone_Hammer",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Stone_Hammer.png/64px-Stone_Hammer.png",
+          "color": "rgb(157 157 157)"
+        },
+        {
+          "id": "sword-of-darkness",
+          "name": "Sword of Darkness",
+          "journal_category": "Limited",
+          "obtainment": "Black Market50,000,000C$",
+          "stage": 10,
+          "wiki_url": "https://fischipedia.org/wiki/Sword_of_Darkness",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/Sword_of_Darkness.png/64px-Sword_of_Darkness.png",
+          "color": "rgb(200 200 200)"
+        },
+        {
+          "id": "test-rod",
+          "name": "Test Rod",
+          "journal_category": "Limited",
+          "obtainment": "BuildarooQuest",
+          "stage": 6,
+          "wiki_url": "https://fischipedia.org/wiki/Test_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d4/Test_Rod.png/64px-Test_Rod.png",
+          "color": "rgb(73 240 255)"
+        },
+        {
+          "id": "upside-down-rod",
+          "name": "Upside-Down Rod",
+          "journal_category": "Limited",
+          "obtainment": "Black Market15,000C$",
+          "stage": 2,
+          "wiki_url": "https://fischipedia.org/wiki/Upside-Down_Rod",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/8a/Upside-Down_Rod.png/64px-Upside-Down_Rod.png",
+          "color": "rgb(154 170 190)"
+        },
+        {
+          "id": "view-smasher",
+          "name": "View Smasher",
+          "journal_category": "Limited",
+          "obtainment": "Awarded to Official Content Creators who promoted the Cursed Seas update",
+          "stage": 0,
+          "wiki_url": "https://fischipedia.org/wiki/View_Smasher",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b3/View_Smasher.png/64px-View_Smasher.png",
+          "color": "rgb(255 144 144)"
+        },
+        {
+          "id": "wingkeeper",
+          "name": "Wingkeeper",
+          "journal_category": "Limited",
+          "obtainment": "SeraphelQuestLevel 1000",
+          "stage": 10,
+          "wiki_url": "https://fischipedia.org/wiki/Wingkeeper",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/3a/Wingkeeper.png/64px-Wingkeeper.png",
+          "color": "rgb(235 232 214)"
+        },
+        {
+          "id": "wingripper",
+          "name": "Wingripper",
+          "journal_category": "Limited",
+          "obtainment": "GothQuest",
+          "stage": 11,
+          "wiki_url": "https://fischipedia.org/wiki/Wingripper",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/70/Wingripper.png/64px-Wingripper.png",
+          "color": "rgb(200 200 200)"
         }
       ]
     }
