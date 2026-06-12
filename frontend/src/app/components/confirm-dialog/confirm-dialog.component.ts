@@ -1,9 +1,11 @@
 import {
   ChangeDetectionStrategy,
   Component,
+  inject,
   input,
   output,
 } from '@angular/core';
+import { LocaleService } from '../../services/locale.service';
 
 @Component({
   selector: 'app-confirm-dialog',
@@ -19,14 +21,16 @@ import {
           [attr.aria-labelledby]="'confirm-title'"
           [attr.aria-describedby]="'confirm-message'"
         >
-          <h2 id="confirm-title" class="dialog-title">{{ title() }}</h2>
+          <h2 id="confirm-title" class="dialog-title">
+            {{ title() || locale.t('confirm.title') }}
+          </h2>
           <p id="confirm-message" class="dialog-message">{{ message() }}</p>
           <div class="dialog-actions">
             <button type="button" class="btn" (click)="cancel.emit()">
-              {{ cancelLabel() }}
+              {{ cancelLabel() || locale.t('confirm.cancel') }}
             </button>
             <button type="button" class="btn btn-primary" (click)="confirm.emit()">
-              {{ confirmLabel() }}
+              {{ confirmLabel() || locale.t('confirm.confirm') }}
             </button>
           </div>
         </div>
@@ -36,11 +40,13 @@ import {
   styleUrl: './confirm-dialog.component.scss',
 })
 export class ConfirmDialogComponent {
+  readonly locale = inject(LocaleService);
+
   readonly open = input(false);
-  readonly title = input('ยืนยัน');
+  readonly title = input('');
   readonly message = input('');
-  readonly confirmLabel = input('ยืนยัน');
-  readonly cancelLabel = input('ยกเลิก');
+  readonly confirmLabel = input('');
+  readonly cancelLabel = input('');
 
   readonly confirm = output<void>();
   readonly cancel = output<void>();

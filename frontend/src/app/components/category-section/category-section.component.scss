@@ -9,6 +9,27 @@
   align-items: center;
   gap: 0.5rem;
   padding: 0.35rem 0.5rem 0.35rem 0;
+  border-radius: 8px 8px 0 0;
+  transition: background 0.15s ease;
+}
+
+.category-header--complete {
+  background: color-mix(in srgb, var(--success) 16%, var(--surface));
+}
+
+.category-header--complete .category-title,
+.category-header--complete .category-progress {
+  color: var(--success);
+}
+
+.category-header--complete .chevron {
+  color: color-mix(in srgb, var(--success) 70%, var(--text-muted));
+}
+
+.category-progress {
+  color: var(--text-muted);
+  font-weight: 500;
+  font-size: 0.9rem;
 }
 
 .category-toggle {
@@ -66,7 +87,7 @@ td {
   padding: 0.55rem 0.75rem;
   border-top: 1px solid var(--border);
   text-align: left;
-  vertical-align: top;
+  vertical-align: middle;
 }
 
 th {
@@ -76,7 +97,6 @@ th {
 
 .check-cell {
   width: 2.75rem;
-  vertical-align: middle;
 }
 
 .thumb-cell {
@@ -84,12 +104,17 @@ th {
   padding-right: 0;
 }
 
+.name-cell {
+  min-width: 8rem;
+  max-width: 14rem;
+}
+
 .detail {
   font-size: 0.85rem;
   max-width: 480px;
 }
 
-.checked-row .item-name:not([class*='name--rarity-']) {
+.checked-row .item-name--link:not([class*='name--rarity-']) {
   color: var(--text-muted);
 }
 
@@ -101,23 +126,24 @@ th {
   font-weight: 500;
 }
 
-.name-cell {
-  min-width: 8rem;
-}
-
-.wiki-cell {
-  width: 4.5rem;
-  vertical-align: middle;
-}
-
-.wiki-btn {
-  padding: 0.25rem 0.55rem;
-  font-size: 0.78rem;
+.item-name--link {
   text-decoration: none;
   display: inline-block;
-  color: var(--text);
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  line-height: 1.3;
 }
 
-.wiki-btn:hover {
-  color: var(--accent);
+.item-name--link:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.item-name--link[class*='name--rarity-exotic']:hover,
+.item-name--link[class*='name--rarity-secret']:hover,
+.item-name--link[class*='name--rarity-cataclysmic']:hover,
+.item-name--link[class*='name--rarity-special']:hover,
+.item-name--link[class*='name--rarity-divine-secret']:hover {
+  text-decoration: none;
+  filter: brightness(1.12);
 }

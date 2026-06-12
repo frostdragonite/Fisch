@@ -61,19 +61,71 @@ def item_slug_from_cell(cell) -> str | None:
     return None
 
 
+def normalize_rarity_slug(slug: str) -> str:
+    if slug == "mythic":
+        return "mythical"
+    if slug == "event":
+        return "limited"
+    return slug
+
+
 def rarity_from_row(row) -> str | None:
     """Read rarity-* class from a wiki table row."""
     if not row:
         return None
     for cls in row.get("class", []):
         if cls.startswith("rarity-"):
-            slug = cls.removeprefix("rarity-")
-            if slug == "mythic":
-                return "mythical"
-            if slug == "event":
-                return "limited"
-            return slug
+            return normalize_rarity_slug(cls.removeprefix("rarity-"))
     return None
+
+
+def rarity_from_bait_row(row) -> str | None:
+    """Read bait rarity from the List of Baits table row."""
+    if not row:
+        return None
+
+    rarity = rarity_from_row(row)
+    if rarity:
+        return rarity
+
+    rarity_cell = row.find("td", class_="rarity")
+    if not rarity_cell:
+        return None
+
+    link = rarity_cell.find("a", title=True) or rarity_cell.find("a")
+    if not link:
+        return None
+
+    text = clean_text(link.get("title", "") or link.get_text())
+    if not text:
+        return None
+
+    return normalize_rarity_slug(text.lower().replace(" ", "-"))
+
+
+def wiki_url_from_cell(cell) -> str | None:
+    """Build fischipedia URL from a wiki item/name cell."""
+    if not cell:
+        return None
+    link = cell.select_one(".item-text a") or cell.find("a", title=True)
+    if not link:
+        return None
+    title = clean_text(link.get("title", "")) or clean_text(link.get_text())
+    if title:
+        return wiki_url(title)
+    return None
+
+
+def item_name_from_cell(cell) -> str | None:
+    """Read display name from a wiki item table cell."""
+    if not cell:
+        return None
+    text_link = cell.select_one(".item-text a") or cell.find("a", title=True)
+    if text_link:
+        name = clean_text(text_link.get_text()) or clean_text(text_link.get("title", ""))
+        if name:
+            return name
+    return clean_text(cell.get_text()) or None
 
 
 def image_url_from_item_cell(cell, size: int = 64) -> str | None:

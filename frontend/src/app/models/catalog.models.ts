@@ -9,11 +9,18 @@ export interface RodItem {
   color?: string | null;
 }
 
+export interface BaitItem {
+  name: string;
+  wiki_url: string;
+  rarity?: string | null;
+}
+
 export interface FishDetailData {
   weather: string | null;
   time: string | null;
   season: string | null;
   bait: string | null;
+  bait_items?: BaitItem[];
 }
 
 export interface FishItem {
@@ -24,6 +31,7 @@ export interface FishItem {
   time: string | null;
   season: string | null;
   bait: string | null;
+  bait_items?: BaitItem[];
   wiki_url: string;
   image_url?: string | null;
   rarity?: string | null;

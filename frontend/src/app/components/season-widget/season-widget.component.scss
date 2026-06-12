@@ -1,11 +1,61 @@
-.season-float {
+.season-float-wrap {
   position: fixed;
   right: 1rem;
   bottom: 1rem;
   z-index: 20;
-  padding: 0.75rem;
-  width: min(19rem, calc(100vw - 2rem));
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.35rem;
+}
+
+.season-float {
+  box-sizing: border-box;
+  padding: 0.5rem 0.55rem;
+  width: auto;
+  max-width: calc(100vw - 2rem);
   box-shadow: 0 8px 28px rgb(0 0 0 / 45%);
+}
+
+.season-float--collapsed {
+  padding: 0.45rem 0.55rem;
+  width: auto;
+}
+
+.season-float__collapsed {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: var(--season-color);
+}
+
+.season-float__collapsed:hover .season-float__countdown--mini {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.season-float__minimize {
+  flex-shrink: 0;
+  width: 1.5rem;
+  height: 1.5rem;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: 1.05rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgb(0 0 0 / 35%);
+}
+
+.season-float__minimize:hover {
+  border-color: var(--accent);
+  color: var(--text);
 }
 
 /* Mobile-first: current season + expand */
@@ -18,7 +68,11 @@
 .season-float__mobile {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  align-items: stretch;
+  gap: 0.35rem;
+  width: max-content;
+  min-width: 8.75rem;
+  max-width: calc(100vw - 3rem);
 }
 
 .season-float__others {
@@ -52,17 +106,21 @@
   background: color-mix(in srgb, var(--season-color) 14%, var(--surface));
 }
 
-.season-float__cell--solo {
-  padding: 0.65rem 0.85rem;
-  min-height: 5rem;
+.season-float__cell--inline {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.55rem;
+  min-height: auto;
 }
 
 .season-float__cell--row {
   flex-direction: row;
   align-items: center;
-  gap: 0.55rem;
-  padding: 0.55rem 0.65rem;
-  min-height: 2.75rem;
+  gap: 0.4rem;
+  padding: 0.4rem 0.5rem;
+  min-height: 2.25rem;
   background: var(--surface-2);
   border-color: color-mix(in srgb, var(--season-color) 30%, var(--border));
 }
@@ -70,7 +128,7 @@
 .season-float__mobile-list {
   display: flex;
   flex-direction: column;
-  gap: 0.4rem;
+  gap: 0.35rem;
 }
 
 .season-float__icon {
@@ -84,6 +142,16 @@
 .season-float__icon--featured {
   width: 44px;
   height: 44px;
+}
+
+.season-float__icon--mobile {
+  width: 28px;
+  height: 28px;
+}
+
+.season-float__icon--mini {
+  width: 28px;
+  height: 28px;
 }
 
 .season-float__icon--muted {
@@ -100,7 +168,8 @@
 
 .season-float__name--row {
   flex: 1;
-  font-size: 0.88rem;
+  min-width: 0;
+  font-size: 0.8rem;
   font-weight: 600;
 }
 
@@ -123,20 +192,33 @@
   text-underline-offset: 2px;
 }
 
+.season-float__cell--inline .season-float__countdown--featured {
+  font-size: 0.76rem;
+}
+
+.season-float__countdown--mini {
+  color: var(--season-color);
+  font-weight: 600;
+  font-size: 0.78rem;
+  white-space: nowrap;
+}
+
 .season-float__cell--row .season-float__countdown {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   margin-left: auto;
+  flex-shrink: 0;
 }
 
 .season-float__toggle {
   border: 1px solid var(--border);
   background: var(--surface-2);
   color: var(--text-muted);
-  padding: 0.45rem 0.6rem;
+  padding: 0.3rem 0.45rem;
   border-radius: 8px;
   cursor: pointer;
-  font-size: 0.8rem;
+  font-size: 0.72rem;
   width: 100%;
+  white-space: nowrap;
 }
 
 .season-float__toggle:hover {
@@ -146,6 +228,14 @@
 
 /* Desktop: 3 + 1 grid */
 @media (min-width: 768px) {
+  .season-float {
+    padding: 0.75rem;
+  }
+
+  .season-float:not(.season-float--collapsed) {
+    width: min(19rem, calc(100vw - 2rem));
+  }
+
   .season-float__desktop {
     display: flex;
   }

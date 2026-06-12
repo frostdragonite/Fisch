@@ -1,8 +1,10 @@
 import { HttpClient } from '@angular/common/http';
-import { Injectable, inject, signal } from '@angular/core';
+import { Injectable, computed, inject, signal } from '@angular/core';
 import { firstValueFrom } from 'rxjs';
 import { environment } from '../../environments/environment';
+import { TranslationKey } from '../i18n/translations';
 import { ProgressState } from '../models/catalog.models';
+import { LocaleService } from './locale.service';
 import { ProgressIdService } from './progress-id.service';
 
 interface ProgressResponse {
@@ -14,13 +16,22 @@ interface ProgressResponse {
 @Injectable({ providedIn: 'root' })
 export class ProgressService {
   private readonly http = inject(HttpClient);
+  private readonly locale = inject(LocaleService);
   private readonly progressIdService = inject(ProgressIdService);
 
   readonly rods = signal<Record<string, boolean>>({});
   readonly fish = signal<Record<string, boolean>>({});
   readonly loading = signal(false);
   readonly saving = signal(false);
-  readonly error = signal<string | null>(null);
+  private readonly errorKey = signal<TranslationKey | null>(null);
+  readonly error = computed(() => {
+    const key = this.errorKey();
+    if (!key) {
+      return null;
+    }
+    this.locale.locale();
+    return this.locale.t(key);
+  });
 
   private saveTimer: ReturnType<typeof setTimeout> | null = null;
 
@@ -29,7 +40,7 @@ export class ProgressService {
   async load(progressId: string): Promise<void> {
     const version = ++this.loadVersion;
     this.loading.set(true);
-    this.error.set(null);
+    this.errorKey.set(null);
 
     try {
       const data = await firstValueFrom(
@@ -48,7 +59,7 @@ export class ProgressService {
       }
       this.rods.set({});
       this.fish.set({});
-      this.error.set('โหลด progress ไม่สำเร็จ — ใช้งาน offline ชั่วคราว');
+      this.errorKey.set('error.progressLoad');
     } finally {
       if (version === this.loadVersion) {
         this.loading.set(false);
@@ -136,9 +147,9 @@ export class ProgressService {
           payload
         )
       );
-      this.error.set(null);
+      this.errorKey.set(null);
     } catch {
-      this.error.set('บันทึก progress ไม่สำเร็จ');
+      this.errorKey.set('error.progressSave');
     } finally {
       this.saving.set(false);
     }

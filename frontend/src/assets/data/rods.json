@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-12T09:48:49.999148+00:00",
+  "scraped_at": "2026-06-12T12:22:39.262264+00:00",
   "wiki_version_note": "233 total rods scraped",
   "categories": [
     {
@@ -12,7 +12,8 @@
           "obtainment": "AxelQuest",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Acidgrinder",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Acidgrinder.png/64px-Acidgrinder.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Acidgrinder.png/64px-Acidgrinder.png",
+          "color": "rgb(117 195 83)"
         },
         {
           "id": "adventurer-s-rod",
@@ -21,7 +22,8 @@
           "obtainment": "Joining Second Sea",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Adventurer%27s_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/57/Adventurer%27s_Rod.png/64px-Adventurer%27s_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/57/Adventurer%27s_Rod.png/64px-Adventurer%27s_Rod.png",
+          "color": "rgb(154 170 190)"
         },
         {
           "id": "astraeus-serenade",
@@ -30,7 +32,8 @@
           "obtainment": "AstraeusQuest50,000,000C$",
           "stage": 11,
           "wiki_url": "https://fischipedia.org/wiki/Astraeus_Serenade",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ae/Astraeus_Serenade.png/64px-Astraeus_Serenade.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ae/Astraeus_Serenade.png/64px-Astraeus_Serenade.png",
+          "color": "rgb(255 140 0)"
         },
         {
           "id": "astral-rod",
@@ -39,7 +42,8 @@
           "obtainment": "Code",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Astral_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f5/Astral_Rod.png/64px-Astral_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f5/Astral_Rod.png/64px-Astral_Rod.png",
+          "color": "rgb(105 26 241)"
         },
         {
           "id": "astralhook-rod",
@@ -48,7 +52,8 @@
           "obtainment": "Leveling UpLevel 2500",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Astralhook_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/40/Astralhook_Rod.png/64px-Astralhook_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/40/Astralhook_Rod.png/64px-Astralhook_Rod.png",
+          "color": "rgb(200 133 0)"
         },
         {
           "id": "bone-blade",
@@ -57,7 +62,8 @@
           "obtainment": "Black Market2,500,000C$",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Bone_Blade",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Bone_Blade.png/64px-Bone_Blade.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Bone_Blade.png/64px-Bone_Blade.png",
+          "color": "rgb(190 185 143)"
         },
         {
           "id": "brother-s-rod",
@@ -66,7 +72,8 @@
           "obtainment": "LukaQuest",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Brother%27s_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/05/Brother%27s_Rod.png/64px-Brother%27s_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/05/Brother%27s_Rod.png/64px-Brother%27s_Rod.png",
+          "color": "rgb(75 207 196)"
         },
         {
           "id": "buddy-bond-rod",
@@ -75,7 +82,8 @@
           "obtainment": "Bob",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Buddy_Bond_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/12/Buddy_Bond_Rod.png/64px-Buddy_Bond_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/12/Buddy_Bond_Rod.png/64px-Buddy_Bond_Rod.png",
+          "color": "rgb(145 255 115)"
         },
         {
           "id": "castbound",
@@ -84,7 +92,8 @@
           "obtainment": "The GuideQuestLevel 1000",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Castbound",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6f/Castbound.png/64px-Castbound.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6f/Castbound.png/64px-Castbound.png",
+          "color": "rgb(249 57 97)"
         },
         {
           "id": "chrysalis",
@@ -93,7 +102,8 @@
           "obtainment": "HexQuestLevel 1000",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Chrysalis",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/01/Chrysalis.png/64px-Chrysalis.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/01/Chrysalis.png/64px-Chrysalis.png",
+          "color": "rgb(255 142 249)"
         },
         {
           "id": "cinderstring",
@@ -102,7 +112,8 @@
           "obtainment": "RickQuest",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Cinderstring",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1d/Cinderstring.png/64px-Cinderstring.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1d/Cinderstring.png/64px-Cinderstring.png",
+          "color": "rgb(255 170 0)"
         },
         {
           "id": "clickbait-caster",
@@ -111,7 +122,8 @@
           "obtainment": "Given to Official Content Creators who promoted the Mariana's Veil update",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Clickbait_Caster",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a5/Clickbait_Caster.png/64px-Clickbait_Caster.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a5/Clickbait_Caster.png/64px-Clickbait_Caster.png",
+          "color": "rgb(255 0 0)"
         },
         {
           "id": "crimsonwrath",
@@ -120,7 +132,8 @@
           "obtainment": "Black Market15,000,000C$",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Crimsonwrath",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f8/Crimsonwrath.png/64px-Crimsonwrath.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f8/Crimsonwrath.png/64px-Crimsonwrath.png",
+          "color": "rgb(193 16 0)"
         },
         {
           "id": "demon-slayer",
@@ -129,7 +142,8 @@
           "obtainment": "Code",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Demon-Slayer",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/56/Demon-Slayer.png/64px-Demon-Slayer.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/56/Demon-Slayer.png/64px-Demon-Slayer.png",
+          "color": "rgb(200 200 200)"
         },
         {
           "id": "eardrum",
@@ -138,7 +152,8 @@
           "obtainment": "HolladayQuest",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Eardrum",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b0/Eardrum.png/64px-Eardrum.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b0/Eardrum.png/64px-Eardrum.png",
+          "color": "rgb(200 141 103)"
         },
         {
           "id": "electric-guitar",
@@ -147,7 +162,8 @@
           "obtainment": "Black Market14,444,444C$",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Electric_Guitar",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Electric_Guitar.png/64px-Electric_Guitar.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Electric_Guitar.png/64px-Electric_Guitar.png",
+          "color": "rgb(200 51 51)"
         },
         {
           "id": "event-horizon-rod",
@@ -156,7 +172,8 @@
           "obtainment": "Code",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Event_Horizon_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9f/Event_Horizon_Rod.png/64px-Event_Horizon_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9f/Event_Horizon_Rod.png/64px-Event_Horizon_Rod.png",
+          "color": "rgb(255 184 5)"
         },
         {
           "id": "fallen-snowblade",
@@ -165,7 +182,8 @@
           "obtainment": "Sno & Leprechaun SnoQuest",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Fallen_Snowblade",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1d/Fallen_Snowblade.png/64px-Fallen_Snowblade.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1d/Fallen_Snowblade.png/64px-Fallen_Snowblade.png",
+          "color": "rgb(255 255 255)"
         },
         {
           "id": "fang-of-the-eclipse",
@@ -174,7 +192,8 @@
           "obtainment": "Leveling UpLevel 2000",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Fang_of_the_Eclipse",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ab/Fang_of_the_Eclipse.png/64px-Fang_of_the_Eclipse.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ab/Fang_of_the_Eclipse.png/64px-Fang_of_the_Eclipse.png",
+          "color": "rgb(200 133 0)"
         },
         {
           "id": "fischer-s-rod",
@@ -183,7 +202,8 @@
           "obtainment": "Starter PackRobux99",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Fischer%27s_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/83/Fischer%27s_Rod.png/64px-Fischer%27s_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/83/Fischer%27s_Rod.png/64px-Fischer%27s_Rod.png",
+          "color": "rgb(245 205 48)"
         },
         {
           "id": "fish-photographer",
@@ -192,7 +212,8 @@
           "obtainment": "Given to Official Content Creators who promoted the Cursed Seas update",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Fish_Photographer",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f3/Fish_Photographer.png/64px-Fish_Photographer.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f3/Fish_Photographer.png/64px-Fish_Photographer.png",
+          "color": "rgb(255 241 206)"
         },
         {
           "id": "frostbane-rod",
@@ -201,7 +222,8 @@
           "obtainment": "Icestorm & SnowstormAdmin Event1,500,000C$",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Frostbane_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/25/Frostbane_Rod.png/64px-Frostbane_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/25/Frostbane_Rod.png/64px-Frostbane_Rod.png",
+          "color": "rgb(144 240 255)"
         },
         {
           "id": "katana-rod",
@@ -210,7 +232,8 @@
           "obtainment": "Black Market1,000,000C$",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Katana_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1c/Katana_Rod.png/64px-Katana_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1c/Katana_Rod.png/64px-Katana_Rod.png",
+          "color": "rgb(177 177 177)"
         },
         {
           "id": "lobster-rod",
@@ -219,7 +242,8 @@
           "obtainment": "MikeQuest",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Lobster_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/56/Lobster_Rod.png/64px-Lobster_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/56/Lobster_Rod.png/64px-Lobster_Rod.png",
+          "color": "rgb(200 0 0)"
         },
         {
           "id": "lullaby",
@@ -228,7 +252,8 @@
           "obtainment": "SimonQuestLevel 500",
           "stage": 11,
           "wiki_url": "https://fischipedia.org/wiki/Lullaby",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9a/Lullaby.png/64px-Lullaby.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9a/Lullaby.png/64px-Lullaby.png",
+          "color": "rgb(133 143 250)"
         },
         {
           "id": "merchant-rod",
@@ -237,7 +262,8 @@
           "obtainment": "Purchasing20,000E$",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Merchant_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/33/Merchant_Rod.png/64px-Merchant_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/33/Merchant_Rod.png/64px-Merchant_Rod.png",
+          "color": "rgb(200 0 0)"
         },
         {
           "id": "migurod",
@@ -246,7 +272,8 @@
           "obtainment": "MiguraQuest4,014,014C$Level 401",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/MiguRod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/92/MiguRod.png/64px-MiguRod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/92/MiguRod.png/64px-MiguRod.png",
+          "color": "rgb(255 57 57)"
         },
         {
           "id": "nates-blade",
@@ -255,7 +282,8 @@
           "obtainment": "Black Market200,000,000C$",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Nates_Blade",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/ee/Nates_Blade.png/64px-Nates_Blade.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/ee/Nates_Blade.png/64px-Nates_Blade.png",
+          "color": "rgb(255 11 11)"
         },
         {
           "id": "nilcaster",
@@ -264,7 +292,8 @@
           "obtainment": "Given to select Game Testers with significant testing contributions",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/NilCaster",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a1/NilCaster.png/64px-NilCaster.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a1/NilCaster.png/64px-NilCaster.png",
+          "color": "rgb(55 255 0)"
         },
         {
           "id": "noctone",
@@ -273,7 +302,8 @@
           "obtainment": "Axe of Rhoads",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Noctone",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Noctone.png/64px-Noctone.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Noctone.png/64px-Noctone.png",
+          "color": "rgb(230 166 54)"
         },
         {
           "id": "original-no-life-rod",
@@ -282,7 +312,8 @@
           "obtainment": "OG No-Life Rod Admin EventAdmin Event1C$",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Original_No-Life_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7d/Original_No-Life_Rod.png/64px-Original_No-Life_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7d/Original_No-Life_Rod.png/64px-Original_No-Life_Rod.png",
+          "color": "rgb(255 42 42)"
         },
         {
           "id": "paintbrush",
@@ -291,7 +322,8 @@
           "obtainment": "Given to winners of the Art Contest in the Fisch Discord Server",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Paintbrush",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c4/Paintbrush.png/64px-Paintbrush.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c4/Paintbrush.png/64px-Paintbrush.png",
+          "color": "rgb(204 0 0)"
         },
         {
           "id": "part",
@@ -300,7 +332,8 @@
           "obtainment": "BasePartQuestLevel 1",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Part",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/99/Part.png/64px-Part.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/99/Part.png/64px-Part.png",
+          "color": "rgb(221 221 221)"
         },
         {
           "id": "patriot-rod",
@@ -309,7 +342,8 @@
           "obtainment": "Code",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Patriot_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/Patriot_Rod.png/64px-Patriot_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/Patriot_Rod.png/64px-Patriot_Rod.png",
+          "color": "rgb(255 0 0)"
         },
         {
           "id": "pen-rod",
@@ -318,7 +352,8 @@
           "obtainment": "Given to Wiki Editors with significant editing contributions",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Pen_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e3/Pen_Rod.png/64px-Pen_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e3/Pen_Rod.png/64px-Pen_Rod.png",
+          "color": "rgb(200 200 200)"
         },
         {
           "id": "polaris-serenade",
@@ -327,7 +362,8 @@
           "obtainment": "NickQuest50,000,000C$",
           "stage": 11,
           "wiki_url": "https://fischipedia.org/wiki/Polaris_Serenade",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9e/Polaris_Serenade.png/64px-Polaris_Serenade.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9e/Polaris_Serenade.png/64px-Polaris_Serenade.png",
+          "color": "rgb(115 115 255)"
         },
         {
           "id": "remembrance",
@@ -336,7 +372,8 @@
           "obtainment": "LunethQuestLevel 1000",
           "stage": 11,
           "wiki_url": "https://fischipedia.org/wiki/Remembrance",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d2/Remembrance.png/64px-Remembrance.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d2/Remembrance.png/64px-Remembrance.png",
+          "color": "rgb(255 255 255)"
         },
         {
           "id": "rod-of-time",
@@ -345,7 +382,8 @@
           "obtainment": "Crafting",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Rod_Of_Time",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b9/Rod_Of_Time.png/64px-Rod_Of_Time.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b9/Rod_Of_Time.png/64px-Rod_Of_Time.png",
+          "color": "rgb(200 26 58)"
         },
         {
           "id": "rod-of-the-cosmos",
@@ -354,7 +392,8 @@
           "obtainment": "MeteorologistQuest",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Rod_of_the_Cosmos",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Rod_of_the_Cosmos.png/64px-Rod_of_the_Cosmos.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Rod_of_the_Cosmos.png/64px-Rod_of_the_Cosmos.png",
+          "color": "rgb(93 193 255)"
         },
         {
           "id": "rose-rend",
@@ -363,7 +402,8 @@
           "obtainment": "Merchandise",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Rose_Rend",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f9/Rose_Rend.png/64px-Rose_Rend.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f9/Rose_Rend.png/64px-Rose_Rend.png",
+          "color": "rgb(255 80 156)"
         },
         {
           "id": "soulreaper",
@@ -372,7 +412,8 @@
           "obtainment": "ReaperQuestLevel 1000",
           "stage": 11,
           "wiki_url": "https://fischipedia.org/wiki/SOULREAPER",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fc/SOULREAPER.png/64px-SOULREAPER.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fc/SOULREAPER.png/64px-SOULREAPER.png",
+          "color": "rgb(33 33 33)"
         },
         {
           "id": "sanguine-spire",
@@ -381,7 +422,8 @@
           "obtainment": "CORRUPTIONAdmin Event10,000,000C$",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Sanguine_Spire",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e4/Sanguine_Spire.png/64px-Sanguine_Spire.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e4/Sanguine_Spire.png/64px-Sanguine_Spire.png",
+          "color": "rgb(190 25 34)"
         },
         {
           "id": "scarlet-ravager",
@@ -390,7 +432,8 @@
           "obtainment": "Merchandise",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Scarlet_Ravager",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/5f/Scarlet_Ravager.png/64px-Scarlet_Ravager.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/5f/Scarlet_Ravager.png/64px-Scarlet_Ravager.png",
+          "color": "rgb(200 27 39)"
         },
         {
           "id": "silly-fun-happy-rod",
@@ -399,7 +442,8 @@
           "obtainment": "Silly ClownQuest",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Silly_Fun_Happy_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4d/Silly_Fun_Happy_Rod.png/64px-Silly_Fun_Happy_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4d/Silly_Fun_Happy_Rod.png/64px-Silly_Fun_Happy_Rod.png",
+          "color": "rgb(221 210 0)"
         },
         {
           "id": "sovereign-doombringer",
@@ -408,7 +452,8 @@
           "obtainment": "Awarded to Official Content Creators who promoted the Northern Expedition update",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/Sovereign_Doombringer",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c3/Sovereign_Doombringer.png/64px-Sovereign_Doombringer.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c3/Sovereign_Doombringer.png/64px-Sovereign_Doombringer.png",
+          "color": "rgb(137 198 255)"
         },
         {
           "id": "steampunk-rod",
@@ -417,7 +462,8 @@
           "obtainment": "RivetQuest",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Steampunk_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/44/Steampunk_Rod.png/64px-Steampunk_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/44/Steampunk_Rod.png/64px-Steampunk_Rod.png",
+          "color": "rgb(148 101 63)"
         },
         {
           "id": "stone-hammer",
@@ -426,7 +472,8 @@
           "obtainment": "Code",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Stone_Hammer",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Stone_Hammer.png/64px-Stone_Hammer.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Stone_Hammer.png/64px-Stone_Hammer.png",
+          "color": "rgb(157 157 157)"
         },
         {
           "id": "sword-of-darkness",
@@ -435,7 +482,8 @@
           "obtainment": "Black Market50,000,000C$",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Sword_of_Darkness",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/Sword_of_Darkness.png/64px-Sword_of_Darkness.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/Sword_of_Darkness.png/64px-Sword_of_Darkness.png",
+          "color": "rgb(200 200 200)"
         },
         {
           "id": "test-rod",
@@ -444,7 +492,8 @@
           "obtainment": "BuildarooQuest",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Test_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d4/Test_Rod.png/64px-Test_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d4/Test_Rod.png/64px-Test_Rod.png",
+          "color": "rgb(73 240 255)"
         },
         {
           "id": "upside-down-rod",
@@ -453,7 +502,8 @@
           "obtainment": "Black Market15,000C$",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Upside-Down_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/8a/Upside-Down_Rod.png/64px-Upside-Down_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/8a/Upside-Down_Rod.png/64px-Upside-Down_Rod.png",
+          "color": "rgb(154 170 190)"
         },
         {
           "id": "view-smasher",
@@ -462,7 +512,8 @@
           "obtainment": "Awarded to Official Content Creators who promoted the Cursed Seas update",
           "stage": 0,
           "wiki_url": "https://fischipedia.org/wiki/View_Smasher",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b3/View_Smasher.png/64px-View_Smasher.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b3/View_Smasher.png/64px-View_Smasher.png",
+          "color": "rgb(255 144 144)"
         },
         {
           "id": "wingkeeper",
@@ -471,7 +522,8 @@
           "obtainment": "SeraphelQuestLevel 1000",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Wingkeeper",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/3a/Wingkeeper.png/64px-Wingkeeper.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/3a/Wingkeeper.png/64px-Wingkeeper.png",
+          "color": "rgb(235 232 214)"
         },
         {
           "id": "wingripper",
@@ -480,7 +532,8 @@
           "obtainment": "GothQuest",
           "stage": 11,
           "wiki_url": "https://fischipedia.org/wiki/Wingripper",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/70/Wingripper.png/64px-Wingripper.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/70/Wingripper.png/64px-Wingripper.png",
+          "color": "rgb(200 200 200)"
         }
       ]
     },
@@ -494,7 +547,8 @@
           "obtainment": "Purchasing75 S$",
           "stage": null,
           "wiki_url": "https://fischipedia.org/wiki/Moonlit_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/98/Moonlit_Rod.png/64px-Moonlit_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/98/Moonlit_Rod.png/64px-Moonlit_Rod.png",
+          "color": "rgb(198 214 255)"
         },
         {
           "id": "no-life-rod",
@@ -503,7 +557,8 @@
           "obtainment": "Leveling UpLevel 500",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/No-Life_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/cf/No-Life_Rod.png/64px-No-Life_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/cf/No-Life_Rod.png/64px-No-Life_Rod.png",
+          "color": "rgb(255 42 42)"
         },
         {
           "id": "random-rod",
@@ -512,7 +567,8 @@
           "obtainment": "Purchasing1−10,000,000C$",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Random_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b9/Random_Rod.png/64px-Random_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b9/Random_Rod.png/64px-Random_Rod.png",
+          "color": "rgb(200 200 200)"
         },
         {
           "id": "rod-of-the-exalted-one",
@@ -521,7 +577,8 @@
           "obtainment": "The Keeper's Secret",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Rod_Of_The_Exalted_One",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/2b/Rod_Of_The_Exalted_One.png/64px-Rod_Of_The_Exalted_One.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/2b/Rod_Of_The_Exalted_One.png/64px-Rod_Of_The_Exalted_One.png",
+          "color": "rgb(255 128 249)"
         },
         {
           "id": "seraphic-rod",
@@ -530,7 +587,8 @@
           "obtainment": "Leveling UpLevel 1000",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Seraphic_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6f/Seraphic_Rod.png/64px-Seraphic_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6f/Seraphic_Rod.png/64px-Seraphic_Rod.png",
+          "color": "rgb(255 170 0)"
         },
         {
           "id": "shady-rod",
@@ -539,7 +597,8 @@
           "obtainment": "Purchasing4,000 S$",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Shady_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/25/Shady_Rod.png/64px-Shady_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/25/Shady_Rod.png/64px-Shady_Rod.png",
+          "color": "rgb(60 58 70)"
         },
         {
           "id": "tranquility-rod",
@@ -548,7 +607,8 @@
           "obtainment": "SproutQuest",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Tranquility_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/28/Tranquility_Rod.png/64px-Tranquility_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/28/Tranquility_Rod.png/64px-Tranquility_Rod.png",
+          "color": "rgb(171 213 226)"
         }
       ]
     },
@@ -562,7 +622,8 @@
           "obtainment": "Purchasing1,500,000C$Level 150",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Rod_Of_The_Zenith",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/72/Rod_Of_The_Zenith.png/64px-Rod_Of_The_Zenith.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/72/Rod_Of_The_Zenith.png/64px-Rod_Of_The_Zenith.png",
+          "color": "rgb(117 171 200)"
         }
       ]
     },
@@ -576,7 +637,8 @@
           "obtainment": "CraftingLevel 350",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Celestial_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c7/Celestial_Rod.png/64px-Celestial_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c7/Celestial_Rod.png/64px-Celestial_Rod.png",
+          "color": "rgb(19 145 255)"
         },
         {
           "id": "precision-rod",
@@ -585,7 +647,8 @@
           "obtainment": "CraftingLevel 5",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Precision_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a1/Precision_Rod.png/64px-Precision_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a1/Precision_Rod.png/64px-Precision_Rod.png",
+          "color": "rgb(0 58 255)"
         },
         {
           "id": "resourceful-rod",
@@ -594,7 +657,8 @@
           "obtainment": "CraftingLevel 50",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Resourceful_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a1/Resourceful_Rod.png/64px-Resourceful_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a1/Resourceful_Rod.png/64px-Resourceful_Rod.png",
+          "color": "rgb(255 75 15)"
         },
         {
           "id": "riptide-rod",
@@ -603,7 +667,8 @@
           "obtainment": "CraftingLevel 30",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Riptide_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/71/Riptide_Rod.png/64px-Riptide_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/71/Riptide_Rod.png/64px-Riptide_Rod.png",
+          "color": "rgb(66 94 255)"
         },
         {
           "id": "rod-of-the-eternal-king",
@@ -612,7 +677,8 @@
           "obtainment": "CraftingLevel 400",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Rod_Of_The_Eternal_King",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/42/Rod_Of_The_Eternal_King.png/64px-Rod_Of_The_Eternal_King.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/42/Rod_Of_The_Eternal_King.png/64px-Rod_Of_The_Eternal_King.png",
+          "color": "rgb(255 221 25)"
         },
         {
           "id": "rod-of-the-forgotten-fang",
@@ -621,7 +687,8 @@
           "obtainment": "CraftingLevel 700",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Rod_Of_The_Forgotten_Fang",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/09/Rod_Of_The_Forgotten_Fang.png/64px-Rod_Of_The_Forgotten_Fang.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/09/Rod_Of_The_Forgotten_Fang.png/64px-Rod_Of_The_Forgotten_Fang.png",
+          "color": "rgb(49 155 255)"
         },
         {
           "id": "seasons-rod",
@@ -630,7 +697,8 @@
           "obtainment": "CraftingLevel 40",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Seasons_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/78/Seasons_Rod.png/64px-Seasons_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/78/Seasons_Rod.png/64px-Seasons_Rod.png",
+          "color": "rgb(255 185 115)"
         },
         {
           "id": "spiritbinder",
@@ -639,7 +707,8 @@
           "obtainment": "Crafting500,000C$Level 500",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Spiritbinder",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/58/Spiritbinder.png/64px-Spiritbinder.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/58/Spiritbinder.png/64px-Spiritbinder.png",
+          "color": "rgb(132 137 200)"
         },
         {
           "id": "the-lost-rod",
@@ -648,7 +717,8 @@
           "obtainment": "CraftingLevel 100",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/The_Lost_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/20/The_Lost_Rod.png/64px-The_Lost_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/20/The_Lost_Rod.png/64px-The_Lost_Rod.png",
+          "color": "rgb(64 255 102)"
         },
         {
           "id": "voyager-rod",
@@ -657,7 +727,8 @@
           "obtainment": "CraftingLevel 80",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Voyager_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4d/Voyager_Rod.png/64px-Voyager_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4d/Voyager_Rod.png/64px-Voyager_Rod.png",
+          "color": "rgb(204 181 255)"
         },
         {
           "id": "wisdom-rod",
@@ -666,7 +737,8 @@
           "obtainment": "CraftingLevel 80",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Wisdom_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/77/Wisdom_Rod.png/64px-Wisdom_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/77/Wisdom_Rod.png/64px-Wisdom_Rod.png",
+          "color": "rgb(200 176 15)"
         }
       ]
     },
@@ -680,7 +752,8 @@
           "obtainment": "Purchasing50,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Phoenix_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/dc/Phoenix_Rod.png/64px-Phoenix_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/dc/Phoenix_Rod.png/64px-Phoenix_Rod.png",
+          "color": "rgb(255 98 87)"
         },
         {
           "id": "stone-rod",
@@ -689,7 +762,8 @@
           "obtainment": "Purchasing2,000C$",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Stone_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/17/Stone_Rod.png/64px-Stone_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/17/Stone_Rod.png/64px-Stone_Rod.png",
+          "color": "rgb(183 183 200)"
         }
       ]
     },
@@ -703,7 +777,8 @@
           "obtainment": "Purchasing17,500,000C$",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Apollo%27s_Sunshot",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/bb/Apollo%27s_Sunshot.png/64px-Apollo%27s_Sunshot.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/bb/Apollo%27s_Sunshot.png/64px-Apollo%27s_Sunshot.png",
+          "color": "rgb(255 210 121)"
         }
       ]
     },
@@ -717,7 +792,8 @@
           "obtainment": "Purchasing850,000C$Level 170",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Abyssal_Specter_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/34/Abyssal_Specter_Rod.png/64px-Abyssal_Specter_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/34/Abyssal_Specter_Rod.png/64px-Abyssal_Specter_Rod.png",
+          "color": "rgb(81 222 135)"
         },
         {
           "id": "champions-rod",
@@ -726,7 +802,8 @@
           "obtainment": "Purchasing90,000C$",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Champions_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ab/Champions_Rod.png/64px-Champions_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/ab/Champions_Rod.png/64px-Champions_Rod.png",
+          "color": "rgb(219 163 3)"
         },
         {
           "id": "depthseeker-rod",
@@ -735,7 +812,8 @@
           "obtainment": "Purchasing40,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Depthseeker_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b7/Depthseeker_Rod.png/64px-Depthseeker_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b7/Depthseeker_Rod.png/64px-Depthseeker_Rod.png",
+          "color": "rgb(47 195 255)"
         },
         {
           "id": "kraken-rod",
@@ -744,7 +822,8 @@
           "obtainment": "Purchasing950,000C$Level 180",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Kraken_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e3/Kraken_Rod.png/64px-Kraken_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e3/Kraken_Rod.png/64px-Kraken_Rod.png",
+          "color": "rgb(200 79 81)"
         },
         {
           "id": "poseidon-rod",
@@ -753,7 +832,8 @@
           "obtainment": "Purchasing700,000C$Level 100",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Poseidon_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/57/Poseidon_Rod.png/64px-Poseidon_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/57/Poseidon_Rod.png/64px-Poseidon_Rod.png",
+          "color": "rgb(252 248 97)"
         },
         {
           "id": "tempest-rod",
@@ -762,7 +842,8 @@
           "obtainment": "Purchasing500,000C$Level 80",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Tempest_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/98/Tempest_Rod.png/64px-Tempest_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/98/Tempest_Rod.png/64px-Tempest_Rod.png",
+          "color": "rgb(55 253 255)"
         },
         {
           "id": "zeus-rod",
@@ -771,7 +852,8 @@
           "obtainment": "Purchasing850,000C$Level 150",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Zeus_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b2/Zeus_Rod.png/64px-Zeus_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b2/Zeus_Rod.png/64px-Zeus_Rod.png",
+          "color": "rgb(245 205 48)"
         }
       ]
     },
@@ -785,7 +867,8 @@
           "obtainment": "100% Bestiary5,000,000C$",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Bellona%27s_Waraxe",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f1/Bellona%27s_Waraxe.png/64px-Bellona%27s_Waraxe.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f1/Bellona%27s_Waraxe.png/64px-Bellona%27s_Waraxe.png",
+          "color": "rgb(255 161 124)"
         }
       ]
     },
@@ -799,7 +882,8 @@
           "obtainment": "Purchasing42,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Boreal_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/24/Boreal_Rod.png/64px-Boreal_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/24/Boreal_Rod.png/64px-Boreal_Rod.png",
+          "color": "rgb(200 161 158)"
         },
         {
           "id": "cryolash",
@@ -808,7 +892,8 @@
           "obtainment": "100% Bestiary3,500,000C$Level 650",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Cryolash",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/ba/Cryolash.png/64px-Cryolash.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/ba/Cryolash.png/64px-Cryolash.png",
+          "color": "rgb(116 243 255)"
         }
       ]
     },
@@ -822,7 +907,8 @@
           "obtainment": "Purchasing75,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Brine-Infused_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/29/Brine-Infused_Rod.png/64px-Brine-Infused_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/29/Brine-Infused_Rod.png/64px-Brine-Infused_Rod.png",
+          "color": "rgb(55 254 178)"
         }
       ]
     },
@@ -836,7 +922,8 @@
           "obtainment": "100% Bestiary3,500,000C$Level 250",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Ethereal_Prism_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d2/Ethereal_Prism_Rod.png/64px-Ethereal_Prism_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d2/Ethereal_Prism_Rod.png/64px-Ethereal_Prism_Rod.png",
+          "color": "rgb(255 170 255)"
         },
         {
           "id": "fabulous-rod",
@@ -845,7 +932,8 @@
           "obtainment": "Fabulous DeityQuestLevel 1000",
           "stage": 12,
           "wiki_url": "https://fischipedia.org/wiki/Fabulous_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1a/Fabulous_Rod.png/64px-Fabulous_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1a/Fabulous_Rod.png/64px-Fabulous_Rod.png",
+          "color": "rgb(218 167 235)"
         }
       ]
     },
@@ -859,7 +947,8 @@
           "obtainment": "100% Bestiary75,000C$",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Carrot_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d3/Carrot_Rod.png/64px-Carrot_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d3/Carrot_Rod.png/64px-Carrot_Rod.png",
+          "color": "rgb(255 175 38)"
         }
       ]
     },
@@ -873,7 +962,8 @@
           "obtainment": "40% Bestiary9,500C$",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Firefly_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/90/Firefly_Rod.png/64px-Firefly_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/90/Firefly_Rod.png/64px-Firefly_Rod.png",
+          "color": "rgb(255 255 73)"
         },
         {
           "id": "rainbow-cluster-rod",
@@ -882,7 +972,8 @@
           "obtainment": "Purchasing250,000C$",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Rainbow_Cluster_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/59/Rainbow_Cluster_Rod.png/64px-Rainbow_Cluster_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/59/Rainbow_Cluster_Rod.png/64px-Rainbow_Cluster_Rod.png",
+          "color": "rgb(235 83 144)"
         }
       ]
     },
@@ -896,7 +987,8 @@
           "obtainment": "Purchasing750,000C$Level 110",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Challenger%27s_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/11/Challenger%27s_Rod.png/64px-Challenger%27s_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/11/Challenger%27s_Rod.png/64px-Challenger%27s_Rod.png",
+          "color": "rgb(4 175 236)"
         }
       ]
     },
@@ -910,7 +1002,8 @@
           "obtainment": "50% Bestiary30,000C$",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Coral_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9e/Coral_Rod.png/64px-Coral_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9e/Coral_Rod.png/64px-Coral_Rod.png",
+          "color": "rgb(255 157 226)"
         }
       ]
     },
@@ -924,7 +1017,8 @@
           "obtainment": "Crafting2,500,000C$Level 500",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Evil_Pitchfork",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c0/Evil_Pitchfork.png/64px-Evil_Pitchfork.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c0/Evil_Pitchfork.png/64px-Evil_Pitchfork.png",
+          "color": "rgb(189 0 0)"
         },
         {
           "id": "ruinous-oath",
@@ -933,7 +1027,8 @@
           "obtainment": "100% Sparkling/Shiny Bestiary5,000,000C$Level 750",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Ruinous_Oath",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d0/Ruinous_Oath.png/64px-Ruinous_Oath.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d0/Ruinous_Oath.png/64px-Ruinous_Oath.png",
+          "color": "rgb(255 0 0)"
         },
         {
           "id": "scarlet-spincaster-rod",
@@ -942,7 +1037,8 @@
           "obtainment": "Crafting15,000C$Level 100",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Scarlet_Spincaster_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d2/Scarlet_Spincaster_Rod.png/64px-Scarlet_Spincaster_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d2/Scarlet_Spincaster_Rod.png/64px-Scarlet_Spincaster_Rod.png",
+          "color": "rgb(189 0 0)"
         },
         {
           "id": "wicked-fang-rod",
@@ -951,7 +1047,8 @@
           "obtainment": "Purchasing400,000C$Level 300",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Wicked_Fang_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/71/Wicked_Fang_Rod.png/64px-Wicked_Fang_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/71/Wicked_Fang_Rod.png/64px-Wicked_Fang_Rod.png",
+          "color": "rgb(223 0 0)"
         }
       ]
     },
@@ -965,7 +1062,8 @@
           "obtainment": "Purchasing500,000C$",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Summit_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/86/Summit_Rod.png/64px-Summit_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/86/Summit_Rod.png/64px-Summit_Rod.png",
+          "color": "rgb(80 202 230)"
         }
       ]
     },
@@ -979,7 +1077,8 @@
           "obtainment": "HollowQuest1,750,001C$Level 275",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Duskwire",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/09/Duskwire.png/64px-Duskwire.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/09/Duskwire.png/64px-Duskwire.png",
+          "color": "rgb(200 200 200)"
         },
         {
           "id": "nico-s-yarncaster",
@@ -988,7 +1087,8 @@
           "obtainment": "Crazy Cat LadyQuest",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Nico%27s_Yarncaster",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c6/Nico%27s_Yarncaster.png/64px-Nico%27s_Yarncaster.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c6/Nico%27s_Yarncaster.png/64px-Nico%27s_Yarncaster.png",
+          "color": "rgb(200 184 158)"
         },
         {
           "id": "pinion-s-aria",
@@ -997,7 +1097,8 @@
           "obtainment": "Mysterious SongstressQuestLevel 424",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Pinion%27s_Aria",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/59/Pinion%27s_Aria.png/64px-Pinion%27s_Aria.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/59/Pinion%27s_Aria.png/64px-Pinion%27s_Aria.png",
+          "color": "rgb(201 184 255)"
         }
       ]
     },
@@ -1011,7 +1112,8 @@
           "obtainment": "The Restless OneQuest5,000,000C$Level 750",
           "stage": 11,
           "wiki_url": "https://fischipedia.org/wiki/Dreambreaker",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4a/Dreambreaker.png/64px-Dreambreaker.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4a/Dreambreaker.png/64px-Dreambreaker.png",
+          "color": "rgb(200 200 200)"
         },
         {
           "id": "eidolon-rod",
@@ -1020,7 +1122,8 @@
           "obtainment": "Purchasing2,000,000C$Level 350",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Eidolon_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/de/Eidolon_Rod.png/64px-Eidolon_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/de/Eidolon_Rod.png/64px-Eidolon_Rod.png",
+          "color": "rgb(200 200 200)"
         },
         {
           "id": "lucid-rod",
@@ -1029,7 +1132,8 @@
           "obtainment": "Crafting80,000C$Level 50",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Lucid_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/31/Lucid_Rod.png/64px-Lucid_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/31/Lucid_Rod.png/64px-Lucid_Rod.png",
+          "color": "rgb(188 111 255)"
         }
       ]
     },
@@ -1043,7 +1147,8 @@
           "obtainment": "50% Bestiary700,000C$",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Great_Dreamer_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6d/Great_Dreamer_Rod.png/64px-Great_Dreamer_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6d/Great_Dreamer_Rod.png/64px-Great_Dreamer_Rod.png",
+          "color": "rgb(39 200 193)"
         }
       ]
     },
@@ -1057,7 +1162,8 @@
           "obtainment": "Purchasing20,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Reinforced_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/94/Reinforced_Rod.png/64px-Reinforced_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/94/Reinforced_Rod.png/64px-Reinforced_Rod.png",
+          "color": "rgb(255 178 89)"
         },
         {
           "id": "the-boom-ball",
@@ -1066,7 +1172,8 @@
           "obtainment": "Purchasing50,000C$",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/The_Boom_Ball",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/The_Boom_Ball.png/64px-The_Boom_Ball.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/51/The_Boom_Ball.png/64px-The_Boom_Ball.png",
+          "color": "rgb(149 157 200)"
         },
         {
           "id": "trident-rod",
@@ -1075,7 +1182,8 @@
           "obtainment": "Purchasing150,000C$",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Trident_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d0/Trident_Rod.png/64px-Trident_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d0/Trident_Rod.png/64px-Trident_Rod.png",
+          "color": "rgb(255 191 80)"
         }
       ]
     },
@@ -1089,7 +1197,8 @@
           "obtainment": "Thalor VirewoodQuest",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Spirit_of_the_Forest",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9c/Spirit_of_the_Forest.png/64px-Spirit_of_the_Forest.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9c/Spirit_of_the_Forest.png/64px-Spirit_of_the_Forest.png",
+          "color": "rgb(79 199 70)"
         },
         {
           "id": "splitbranch-twig",
@@ -1098,7 +1207,8 @@
           "obtainment": "Purchasing25,000C$",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Splitbranch_Twig",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d1/Splitbranch_Twig.png/64px-Splitbranch_Twig.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d1/Splitbranch_Twig.png/64px-Splitbranch_Twig.png",
+          "color": "rgb(66 51 46)"
         }
       ]
     },
@@ -1112,7 +1222,8 @@
           "obtainment": "Purchasing40,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Scurvy_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Scurvy_Rod.png/64px-Scurvy_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/45/Scurvy_Rod.png/64px-Scurvy_Rod.png",
+          "color": "rgb(245 205 48)"
         }
       ]
     },
@@ -1126,7 +1237,8 @@
           "obtainment": "Purchasing35,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Avalanche_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/8b/Avalanche_Rod.png/64px-Avalanche_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/8b/Avalanche_Rod.png/64px-Avalanche_Rod.png",
+          "color": "rgb(98 155 222)"
         },
         {
           "id": "ice-warpers-rod",
@@ -1135,7 +1247,8 @@
           "obtainment": "Purchasing65,000C$",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Ice_Warpers_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c7/Ice_Warpers_Rod.png/64px-Ice_Warpers_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c7/Ice_Warpers_Rod.png/64px-Ice_Warpers_Rod.png",
+          "color": "rgb(110 189 247)"
         }
       ]
     },
@@ -1149,7 +1262,8 @@
           "obtainment": "Purchasing1,750,000C$Level 220",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Heaven%27s_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/89/Heaven%27s_Rod.png/64px-Heaven%27s_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/89/Heaven%27s_Rod.png/64px-Heaven%27s_Rod.png",
+          "color": "rgb(190 140 24)"
         },
         {
           "id": "wind-elemental",
@@ -1158,7 +1272,8 @@
           "obtainment": "Wind MasterQuestLevel 800",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Wind_Elemental",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fe/Wind_Elemental.png/64px-Wind_Elemental.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fe/Wind_Elemental.png/64px-Wind_Elemental.png",
+          "color": "rgb(221 206 92)"
         }
       ]
     },
@@ -1172,7 +1287,8 @@
           "obtainment": "Purchasing25,000,000C$",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Hades%27_Soul-Scythe",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0d/Hades%27_Soul-Scythe.png/64px-Hades%27_Soul-Scythe.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0d/Hades%27_Soul-Scythe.png/64px-Hades%27_Soul-Scythe.png",
+          "color": "rgb(106 253 140)"
         }
       ]
     },
@@ -1186,7 +1302,8 @@
           "obtainment": "Purchasing100,000C$",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Kings_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9a/Kings_Rod.png/64px-Kings_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/9a/Kings_Rod.png/64px-Kings_Rod.png",
+          "color": "rgb(52 96 255)"
         }
       ]
     },
@@ -1200,7 +1317,8 @@
           "obtainment": "Purchasing1,250,000C$",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Bloomspire",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a4/Bloomspire.png/64px-Bloomspire.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a4/Bloomspire.png/64px-Bloomspire.png",
+          "color": "rgb(137 111 93)"
         },
         {
           "id": "bloomspire-blooming-splendor",
@@ -1209,7 +1327,8 @@
           "obtainment": "Living LotusLevel 350",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Bloomspire%3A_Blooming_Splendor",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a2/Bloomspire_-_Blooming_Splendor.png/64px-Bloomspire_-_Blooming_Splendor.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a2/Bloomspire_-_Blooming_Splendor.png/64px-Bloomspire_-_Blooming_Splendor.png",
+          "color": "rgb(163 242 162)"
         },
         {
           "id": "bloomspire-twisted-toxins",
@@ -1218,7 +1337,8 @@
           "obtainment": "Toxic LotusLevel 150",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Bloomspire%3A_Twisted_Toxins",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d8/Bloomspire_-_Twisted_Toxins.png/64px-Bloomspire_-_Twisted_Toxins.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d8/Bloomspire_-_Twisted_Toxins.png/64px-Bloomspire_-_Twisted_Toxins.png",
+          "color": "rgb(176 79 255)"
         },
         {
           "id": "gardenkeeper-rod",
@@ -1227,7 +1347,8 @@
           "obtainment": "Crafting320,000C$Level 300",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Gardenkeeper_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b6/Gardenkeeper_Rod.png/64px-Gardenkeeper_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/b/b6/Gardenkeeper_Rod.png/64px-Gardenkeeper_Rod.png",
+          "color": "rgb(57 46 45)"
         },
         {
           "id": "verdant-oath",
@@ -1236,7 +1357,8 @@
           "obtainment": "100% Nectar Den/Living Garden/Toxic Grove Bestiary12,500,000C$Level 1000",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Verdant_Oath",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/54/Verdant_Oath.png/64px-Verdant_Oath.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/54/Verdant_Oath.png/64px-Verdant_Oath.png",
+          "color": "rgb(1 250 0)"
         }
       ]
     },
@@ -1250,7 +1372,8 @@
           "obtainment": "85% Bestiary100,000C$",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Azure_Of_Lagoon",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/68/Azure_Of_Lagoon.png/64px-Azure_Of_Lagoon.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/68/Azure_Of_Lagoon.png/64px-Azure_Of_Lagoon.png",
+          "color": "rgb(61 71 255)"
         },
         {
           "id": "elder-mossripper",
@@ -1259,7 +1382,8 @@
           "obtainment": "Crafting350,000C$Level 350",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Elder_Mossripper",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/47/Elder_Mossripper.png/64px-Elder_Mossripper.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/47/Elder_Mossripper.png/64px-Elder_Mossripper.png",
+          "color": "rgb(115 206 90)"
         },
         {
           "id": "toxic-spire-rod",
@@ -1268,7 +1392,8 @@
           "obtainment": "Crafting170,000C$Level 90",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Toxic_Spire_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/54/Toxic_Spire_Rod.png/64px-Toxic_Spire_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/54/Toxic_Spire_Rod.png/64px-Toxic_Spire_Rod.png",
+          "color": "rgb(124 97 206)"
         },
         {
           "id": "verdant-shear-rod",
@@ -1277,7 +1402,8 @@
           "obtainment": "75% Bestiary50,000C$",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Verdant_Shear_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d2/Verdant_Shear_Rod.png/64px-Verdant_Shear_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d2/Verdant_Shear_Rod.png/64px-Verdant_Shear_Rod.png",
+          "color": "rgb(52 235 143)"
         },
         {
           "id": "vineweaver-rod",
@@ -1286,7 +1412,8 @@
           "obtainment": "Crafting150,000C$Level 40",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Vineweaver_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/24/Vineweaver_Rod.png/64px-Vineweaver_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/24/Vineweaver_Rod.png/64px-Vineweaver_Rod.png",
+          "color": "rgb(112 200 87)"
         }
       ]
     },
@@ -1300,7 +1427,8 @@
           "obtainment": "Purchasing800,000C$Level 400",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Cerulean_Fang_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4f/Cerulean_Fang_Rod.png/64px-Cerulean_Fang_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4f/Cerulean_Fang_Rod.png/64px-Cerulean_Fang_Rod.png",
+          "color": "rgb(4 175 236)"
         },
         {
           "id": "luminescent-oath",
@@ -1309,7 +1437,8 @@
           "obtainment": "100% Bestiary1,000,000C$Level 500",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Luminescent_Oath",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6a/Luminescent_Oath.png/64px-Luminescent_Oath.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/6a/Luminescent_Oath.png/64px-Luminescent_Oath.png",
+          "color": "rgb(69 236 255)"
         }
       ]
     },
@@ -1323,7 +1452,8 @@
           "obtainment": "100% Bestiary200,000C$",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Free_Spirit_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0c/Free_Spirit_Rod.png/64px-Free_Spirit_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0c/Free_Spirit_Rod.png/64px-Free_Spirit_Rod.png",
+          "color": "rgb(52 235 143)"
         }
       ]
     },
@@ -1337,7 +1467,8 @@
           "obtainment": "Purchasing2,000C$",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Carbon_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/dc/Carbon_Rod.png/64px-Carbon_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/dc/Carbon_Rod.png/64px-Carbon_Rod.png",
+          "color": "rgb(155 190 255)"
         },
         {
           "id": "fast-rod",
@@ -1346,7 +1477,8 @@
           "obtainment": "Purchasing4,000C$",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Fast_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f5/Fast_Rod.png/64px-Fast_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f5/Fast_Rod.png/64px-Fast_Rod.png",
+          "color": "rgb(255 101 101)"
         },
         {
           "id": "flimsy-rod",
@@ -1355,7 +1487,8 @@
           "obtainment": "Joining the game0C$",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Flimsy_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e5/Flimsy_Rod.png/64px-Flimsy_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e5/Flimsy_Rod.png/64px-Flimsy_Rod.png",
+          "color": "rgb(154 170 190)"
         },
         {
           "id": "friendly-rod",
@@ -1364,7 +1497,8 @@
           "obtainment": "Friend QuestsQuest",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Friendly_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/98/Friendly_Rod.png/64px-Friendly_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/98/Friendly_Rod.png/64px-Friendly_Rod.png",
+          "color": "rgb(255 198 243)"
         },
         {
           "id": "long-rod",
@@ -1373,7 +1507,8 @@
           "obtainment": "Purchasing3,000C$",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Long_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7c/Long_Rod.png/64px-Long_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7c/Long_Rod.png/64px-Long_Rod.png",
+          "color": "rgb(220 204 167)"
         },
         {
           "id": "lucky-rod",
@@ -1382,7 +1517,8 @@
           "obtainment": "Purchasing4,500C$",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Lucky_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/65/Lucky_Rod.png/64px-Lucky_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/65/Lucky_Rod.png/64px-Lucky_Rod.png",
+          "color": "rgb(188 255 190)"
         },
         {
           "id": "plastic-rod",
@@ -1391,7 +1527,8 @@
           "obtainment": "Purchasing750C$",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Plastic_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1b/Plastic_Rod.png/64px-Plastic_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1b/Plastic_Rod.png/64px-Plastic_Rod.png",
+          "color": "rgb(73 240 255)"
         },
         {
           "id": "training-rod",
@@ -1400,7 +1537,8 @@
           "obtainment": "Purchasing300C$",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Training_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/00/Training_Rod.png/64px-Training_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/00/Training_Rod.png/64px-Training_Rod.png",
+          "color": "rgb(100 198 207)"
         }
       ]
     },
@@ -1414,7 +1552,8 @@
           "obtainment": "50% Bestiary12,000C$",
           "stage": 1,
           "wiki_url": "https://fischipedia.org/wiki/Frog_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0b/Frog_Rod.png/64px-Frog_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0b/Frog_Rod.png/64px-Frog_Rod.png",
+          "color": "rgb(188 255 190)"
         },
         {
           "id": "fungal-rod",
@@ -1423,7 +1562,8 @@
           "obtainment": "AgaricQuest",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Fungal_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Fungal_Rod.png/64px-Fungal_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/19/Fungal_Rod.png/64px-Fungal_Rod.png",
+          "color": "rgb(78 255 78)"
         }
       ]
     },
@@ -1437,7 +1577,8 @@
           "obtainment": "100% Bestiary150,000C$",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Sweet-Stinger",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/93/Sweet-Stinger.png/64px-Sweet-Stinger.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/93/Sweet-Stinger.png/64px-Sweet-Stinger.png",
+          "color": "rgb(253 191 4)"
         }
       ]
     },
@@ -1451,7 +1592,8 @@
           "obtainment": "Sunken Chest",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Auric_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7d/Auric_Rod.png/64px-Auric_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/7d/Auric_Rod.png/64px-Auric_Rod.png",
+          "color": "rgb(200 26 58)"
         },
         {
           "id": "cinder-block-rod",
@@ -1460,7 +1602,8 @@
           "obtainment": "Purchasing50,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Cinder_Block_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c4/Cinder_Block_Rod.png/64px-Cinder_Block_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c4/Cinder_Block_Rod.png/64px-Cinder_Block_Rod.png",
+          "color": "rgb(200 200 200)"
         },
         {
           "id": "dead-man-s-rod",
@@ -1469,7 +1612,8 @@
           "obtainment": "Crafting5,000,000C$Level 1000",
           "stage": 11,
           "wiki_url": "https://fischipedia.org/wiki/Dead_Man%27s_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/38/Dead_Man%27s_Rod.png/64px-Dead_Man%27s_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/38/Dead_Man%27s_Rod.png/64px-Dead_Man%27s_Rod.png",
+          "color": "rgb(19 72 21)"
         },
         {
           "id": "destiny-rod",
@@ -1478,7 +1622,8 @@
           "obtainment": "Caleia190,000C$",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Destiny_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/87/Destiny_Rod.png/64px-Destiny_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/8/87/Destiny_Rod.png/64px-Destiny_Rod.png",
+          "color": "rgb(255 254 220)"
         },
         {
           "id": "great-rod-of-oscar",
@@ -1487,7 +1632,8 @@
           "obtainment": "Purchasing2,500,000C$Level 250",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Great_Rod_of_Oscar",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/af/Great_Rod_of_Oscar.png/64px-Great_Rod_of_Oscar.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/af/Great_Rod_of_Oscar.png/64px-Great_Rod_of_Oscar.png",
+          "color": "rgb(225 182 11)"
         },
         {
           "id": "midas-rod",
@@ -1496,7 +1642,8 @@
           "obtainment": "Purchasing55,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Midas_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/40/Midas_Rod.png/64px-Midas_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/40/Midas_Rod.png/64px-Midas_Rod.png",
+          "color": "rgb(255 226 83)"
         },
         {
           "id": "mythical-rod",
@@ -1505,7 +1652,8 @@
           "obtainment": "Purchasing90,000C$",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Mythical_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a6/Mythical_Rod.png/64px-Mythical_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a6/Mythical_Rod.png/64px-Mythical_Rod.png",
+          "color": "rgb(255 49 159)"
         },
         {
           "id": "sunken-rod",
@@ -1514,7 +1662,8 @@
           "obtainment": "Treasure Hunting",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Sunken_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0f/Sunken_Rod.png/64px-Sunken_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0f/Sunken_Rod.png/64px-Sunken_Rod.png",
+          "color": "rgb(145 255 115)"
         }
       ]
     },
@@ -1528,7 +1677,8 @@
           "obtainment": "Purchasing50,000,000C$",
           "stage": 11,
           "wiki_url": "https://fischipedia.org/wiki/Olympian_Godbreaker",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e5/Olympian_Godbreaker.png/64px-Olympian_Godbreaker.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e5/Olympian_Godbreaker.png/64px-Olympian_Godbreaker.png",
+          "color": "rgb(249 61 133)"
         }
       ]
     },
@@ -1542,7 +1692,8 @@
           "obtainment": "Purchasing35,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Crystalized_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/2e/Crystalized_Rod.png/64px-Crystalized_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/2e/Crystalized_Rod.png/64px-Crystalized_Rod.png",
+          "color": "rgb(218 112 0)"
         }
       ]
     },
@@ -1556,7 +1707,8 @@
           "obtainment": "Purchasing13,000,000C$",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Poseidon%27s_Lance",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/06/Poseidon%27s_Lance.png/64px-Poseidon%27s_Lance.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/06/Poseidon%27s_Lance.png/64px-Poseidon%27s_Lance.png",
+          "color": "rgb(100 180 250)"
         }
       ]
     },
@@ -1570,7 +1722,8 @@
           "obtainment": "GlorpQuestLevel 888",
           "stage": 8,
           "wiki_url": "https://fischipedia.org/wiki/Blade_Of_Glorp",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/da/Blade_Of_Glorp.png/64px-Blade_Of_Glorp.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/da/Blade_Of_Glorp.png/64px-Blade_Of_Glorp.png",
+          "color": "rgb(189 255 83)"
         },
         {
           "id": "fortune-rod",
@@ -1579,7 +1732,8 @@
           "obtainment": "Purchasing11,000C$",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Fortune_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fa/Fortune_Rod.png/64px-Fortune_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fa/Fortune_Rod.png/64px-Fortune_Rod.png",
+          "color": "rgb(109 77 212)"
         },
         {
           "id": "rapid-rod",
@@ -1588,7 +1742,8 @@
           "obtainment": "Purchasing12,000C$",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Rapid_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/98/Rapid_Rod.png/64px-Rapid_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/98/Rapid_Rod.png/64px-Rapid_Rod.png",
+          "color": "rgb(255 163 87)"
         },
         {
           "id": "steady-rod",
@@ -1597,7 +1752,8 @@
           "obtainment": "Purchasing7,000C$",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Steady_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4e/Steady_Rod.png/64px-Steady_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/4/4e/Steady_Rod.png/64px-Steady_Rod.png",
+          "color": "rgb(255 190 160)"
         }
       ]
     },
@@ -1611,7 +1767,8 @@
           "obtainment": "80% Bestiary70,000C$",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Blazebringer_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/62/Blazebringer_Rod.png/64px-Blazebringer_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/62/Blazebringer_Rod.png/64px-Blazebringer_Rod.png",
+          "color": "rgb(255 136 0)"
         },
         {
           "id": "magma-rod",
@@ -1620,7 +1777,8 @@
           "obtainment": "OrcQuest",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Magma_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d5/Magma_Rod.png/64px-Magma_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/d5/Magma_Rod.png/64px-Magma_Rod.png",
+          "color": "rgb(255 122 55)"
         },
         {
           "id": "tryhard-rod",
@@ -1629,7 +1787,8 @@
           "obtainment": "RoRedQuestLevel 999",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Tryhard_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/db/Tryhard_Rod.png/64px-Tryhard_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/db/Tryhard_Rod.png/64px-Tryhard_Rod.png",
+          "color": "rgb(238 0 4)"
         }
       ]
     },
@@ -1643,7 +1802,8 @@
           "obtainment": "50% Bestiary750,000C$Level 50",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Daybreaker_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f0/Daybreaker_Rod.png/64px-Daybreaker_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/f0/Daybreaker_Rod.png/64px-Daybreaker_Rod.png",
+          "color": "rgb(255 227 119)"
         },
         {
           "id": "igneous-rupturer",
@@ -1652,7 +1812,8 @@
           "obtainment": "Scoria GuardQuest5,000,000C$Level 500",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Igneous_Rupturer",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/71/Igneous_Rupturer.png/64px-Igneous_Rupturer.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/71/Igneous_Rupturer.png/64px-Igneous_Rupturer.png",
+          "color": "rgb(253 101 0)"
         }
       ]
     },
@@ -1666,7 +1827,8 @@
           "obtainment": "Crafting15,000,000C$Level 1000",
           "stage": 11,
           "wiki_url": "https://fischipedia.org/wiki/Requiem",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/91/Requiem.png/64px-Requiem.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/91/Requiem.png/64px-Requiem.png",
+          "color": "rgb(1 250 137)"
         }
       ]
     },
@@ -1680,7 +1842,8 @@
           "obtainment": "Merlin1,000,000C$",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Merlin%27s_Staff",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/98/Merlin%27s_Staff.png/64px-Merlin%27s_Staff.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/9/98/Merlin%27s_Staff.png/64px-Merlin%27s_Staff.png",
+          "color": "rgb(193 70 255)"
         }
       ]
     },
@@ -1694,7 +1857,8 @@
           "obtainment": "Purchasing15,000C$",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Magnet_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/03/Magnet_Rod.png/64px-Magnet_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/03/Magnet_Rod.png/64px-Magnet_Rod.png",
+          "color": "rgb(0 34 255)"
         },
         {
           "id": "wildflower-rod",
@@ -1703,7 +1867,8 @@
           "obtainment": "Purchasing40,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Wildflower_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/ef/Wildflower_Rod.png/64px-Wildflower_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/ef/Wildflower_Rod.png/64px-Wildflower_Rod.png",
+          "color": "rgb(103 255 159)"
         }
       ]
     },
@@ -1717,7 +1882,8 @@
           "obtainment": "NickQuestLevel 1000",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Onirifalx",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Onirifalx.png/64px-Onirifalx.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Onirifalx.png/64px-Onirifalx.png",
+          "color": "rgb(157 208 255)"
         },
         {
           "id": "rod-of-the-depths",
@@ -1726,7 +1892,8 @@
           "obtainment": "Purchasing750,000C$",
           "stage": 6,
           "wiki_url": "https://fischipedia.org/wiki/Rod_Of_The_Depths",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a0/Rod_Of_The_Depths.png/64px-Rod_Of_The_Depths.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a0/Rod_Of_The_Depths.png/64px-Rod_Of_The_Depths.png",
+          "color": "rgb(255 66 52)"
         }
       ]
     },
@@ -1740,7 +1907,8 @@
           "obtainment": "Crafting5,000C$Level 25",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Anchor_n%27_Chain",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/24/Anchor_n%27_Chain.png/64px-Anchor_n%27_Chain.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/2/24/Anchor_n%27_Chain.png/64px-Anchor_n%27_Chain.png",
+          "color": "rgb(142 69 33)"
         },
         {
           "id": "fallen-rod",
@@ -1749,7 +1917,8 @@
           "obtainment": "Purchasing175,000C$",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Fallen_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/18/Fallen_Rod.png/64px-Fallen_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/18/Fallen_Rod.png/64px-Fallen_Rod.png",
+          "color": "rgb(248 248 248)"
         },
         {
           "id": "thalassar-s-ruin",
@@ -1758,7 +1927,8 @@
           "obtainment": "Purchasing14,500,000C$",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Thalassar%27s_Ruin",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a7/Thalassar%27s_Ruin.png/64px-Thalassar%27s_Ruin.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/a/a7/Thalassar%27s_Ruin.png/64px-Thalassar%27s_Ruin.png",
+          "color": "rgb(158 24 24)"
         },
         {
           "id": "tidemourner",
@@ -1767,7 +1937,8 @@
           "obtainment": "Crafting1,200,000C$Level 200",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Tidemourner",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/78/Tidemourner.png/64px-Tidemourner.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/7/78/Tidemourner.png/64px-Tidemourner.png",
+          "color": "rgb(31 116 243)"
         }
       ]
     },
@@ -1781,7 +1952,8 @@
           "obtainment": "Purchasing2,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Decayed_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c1/Decayed_Rod.png/64px-Decayed_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/c/c1/Decayed_Rod.png/64px-Decayed_Rod.png",
+          "color": "rgb(49 37 65)"
         },
         {
           "id": "plaguereaver",
@@ -1790,7 +1962,8 @@
           "obtainment": "Plagued ReaperQuest13,750,000C$Level 650",
           "stage": 10,
           "wiki_url": "https://fischipedia.org/wiki/Plaguereaver",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fc/Plaguereaver.png/64px-Plaguereaver.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/f/fc/Plaguereaver.png/64px-Plaguereaver.png",
+          "color": "rgb(26 19 34)"
         },
         {
           "id": "toxinburst-rod",
@@ -1799,7 +1972,8 @@
           "obtainment": "Crafting185,000C$Level 150",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Toxinburst_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/68/Toxinburst_Rod.png/64px-Toxinburst_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/68/Toxinburst_Rod.png/64px-Toxinburst_Rod.png",
+          "color": "rgb(162 74 224)"
         }
       ]
     },
@@ -1813,7 +1987,8 @@
           "obtainment": "Purchasing50,000C$",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Treasure_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0a/Treasure_Rod.png/64px-Treasure_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/0a/Treasure_Rod.png/64px-Treasure_Rod.png",
+          "color": "rgb(0 158 225)"
         }
       ]
     },
@@ -1827,7 +2002,8 @@
           "obtainment": "Purchasing350,000C$",
           "stage": 7,
           "wiki_url": "https://fischipedia.org/wiki/Leviathan%27s_Fang_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/df/Leviathan%27s_Fang_Rod.png/64px-Leviathan%27s_Fang_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/d/df/Leviathan%27s_Fang_Rod.png/64px-Leviathan%27s_Fang_Rod.png",
+          "color": "rgb(104 164 190)"
         }
       ]
     },
@@ -1841,7 +2017,8 @@
           "obtainment": "Purchasing70,000C$",
           "stage": 4,
           "wiki_url": "https://fischipedia.org/wiki/Aurora_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/04/Aurora_Rod.png/64px-Aurora_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/0/04/Aurora_Rod.png/64px-Aurora_Rod.png",
+          "color": "rgb(46 255 185)"
         },
         {
           "id": "nocturnal-rod",
@@ -1850,7 +2027,8 @@
           "obtainment": "Purchasing11,000C$",
           "stage": 2,
           "wiki_url": "https://fischipedia.org/wiki/Nocturnal_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e1/Nocturnal_Rod.png/64px-Nocturnal_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e1/Nocturnal_Rod.png/64px-Nocturnal_Rod.png",
+          "color": "rgb(101 83 200)"
         }
       ]
     },
@@ -1864,7 +2042,8 @@
           "obtainment": "Purchasing250,000C$",
           "stage": 5,
           "wiki_url": "https://fischipedia.org/wiki/Volcanic_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/3c/Volcanic_Rod.png/64px-Volcanic_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/3/3c/Volcanic_Rod.png/64px-Volcanic_Rod.png",
+          "color": "rgb(255 170 0)"
         }
       ]
     },
@@ -1878,7 +2057,8 @@
           "obtainment": "Purchasing18,750,000C$",
           "stage": 9,
           "wiki_url": "https://fischipedia.org/wiki/Zeus%27s_Thundermaul",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1b/Zeus%27s_Thundermaul.png/64px-Zeus%27s_Thundermaul.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/1/1b/Zeus%27s_Thundermaul.png/64px-Zeus%27s_Thundermaul.png",
+          "color": "rgb(255 255 100)"
         }
       ]
     },
@@ -1892,7 +2072,8 @@
           "obtainment": "Purchasing25,000C$",
           "stage": 3,
           "wiki_url": "https://fischipedia.org/wiki/Arctic_Rod",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/63/Arctic_Rod.png/64px-Arctic_Rod.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/6/63/Arctic_Rod.png/64px-Arctic_Rod.png",
+          "color": "rgb(146 179 218)"
         }
       ]
     },
@@ -1906,7 +2087,8 @@
           "obtainment": "Mysterious ShadowQuest",
           "stage": 12,
           "wiki_url": "https://fischipedia.org/wiki/Noiseform",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/54/Noiseform.png/64px-Noiseform.png"
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/54/Noiseform.png/64px-Noiseform.png",
+          "color": "rgb(0 255 61)"
         }
       ]
     }
