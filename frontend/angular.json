@@ -35,7 +35,7 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "/Fisch/",
+              "baseHref": "/",
               "budgets": [
                 {
                   "type": "initial",
