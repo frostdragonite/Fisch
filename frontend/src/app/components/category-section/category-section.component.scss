@@ -89,7 +89,7 @@ th {
   max-width: 480px;
 }
 
-.checked-row a {
+.checked-row .item-name:not([class*='name--rarity-']) {
   color: var(--text-muted);
 }
 
@@ -97,11 +97,27 @@ th {
   opacity: 0.85;
 }
 
-a {
-  color: var(--accent);
-  text-decoration: none;
+.item-name {
+  font-weight: 500;
 }
 
-a:hover {
-  text-decoration: underline;
+.name-cell {
+  min-width: 8rem;
+}
+
+.wiki-cell {
+  width: 4.5rem;
+  vertical-align: middle;
+}
+
+.wiki-btn {
+  padding: 0.25rem 0.55rem;
+  font-size: 0.78rem;
+  text-decoration: none;
+  display: inline-block;
+  color: var(--text);
+}
+
+.wiki-btn:hover {
+  color: var(--accent);
 }

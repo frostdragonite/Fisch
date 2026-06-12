@@ -120,6 +120,7 @@ export class FishComponent {
         detail: this.formatFishDetail(fish),
         wiki_url: fish.wiki_url,
         image_url: fish.image_url,
+        rarity: fish.rarity,
         checked,
       });
     }

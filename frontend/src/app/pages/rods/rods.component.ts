@@ -118,6 +118,7 @@ export class RodsComponent {
         detail: rod.obtainment,
         wiki_url: rod.wiki_url,
         image_url: rod.image_url,
+        color: rod.color,
         checked,
       });
     }

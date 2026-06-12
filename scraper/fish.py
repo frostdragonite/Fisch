@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 
 from api import fetch_category_members, fetch_page_thumbnails, fetch_parse_html
-from utils import clean_text, slugify, wiki_url
+from utils import clean_text, rarity_from_row, slugify, wiki_url
 
 FISH_EXCLUSION_CATEGORIES = [
     "Secret Fish",
@@ -73,17 +73,20 @@ def _parse_fish_tables(html: str) -> list[dict]:
             season_cell = row.find("td", class_="fish-season")
             bait_cell = row.find("td", class_="fish-bait")
 
-            fish_list.append(
-                {
-                    "name": name,
-                    "bestiary_location": current_location,
-                    "weather": clean_text(weather_cell.get_text()) if weather_cell else "",
-                    "time": clean_text(time_cell.get_text()) if time_cell else "",
-                    "season": clean_text(season_cell.get_text()) if season_cell else "",
-                    "bait": clean_text(bait_cell.get_text()) if bait_cell else "",
-                    "wiki_url": wiki_url(name),
-                }
-            )
+            fish: dict = {
+                "name": name,
+                "bestiary_location": current_location,
+                "weather": clean_text(weather_cell.get_text()) if weather_cell else "",
+                "time": clean_text(time_cell.get_text()) if time_cell else "",
+                "season": clean_text(season_cell.get_text()) if season_cell else "",
+                "bait": clean_text(bait_cell.get_text()) if bait_cell else "",
+                "wiki_url": wiki_url(name),
+            }
+            rarity = rarity_from_row(row)
+            if rarity:
+                fish["rarity"] = rarity
+
+            fish_list.append(fish)
 
     return fish_list
 
@@ -117,6 +120,7 @@ def scrape_fish() -> dict:
                 "bait": fish["bait"] or None,
                 "wiki_url": fish["wiki_url"],
                 "image_url": thumbnails.get(fish["name"]),
+                **({"rarity": fish["rarity"]} if fish.get("rarity") else {}),
             }
         )
 

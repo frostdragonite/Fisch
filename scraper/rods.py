@@ -8,7 +8,14 @@ from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 
 from api import fetch_category_members, fetch_parse_html
-from utils import clean_text, image_url_from_item_cell, slugify, wiki_url
+from utils import (
+    clean_text,
+    image_url_from_item_cell,
+    item_slug_from_cell,
+    parse_item_colors,
+    slugify,
+    wiki_url,
+)
 
 EXCLUDED_BY_NAME = frozenset(
     {"Brick Rod", "Crew Rod", "Dave Rod", "Masterline Rod"}
@@ -78,7 +85,7 @@ def _cell_by_class(row, class_name: str):
     return row.find("td", class_=class_name)
 
 
-def _parse_rods_table(html: str) -> list[dict]:
+def _parse_rods_table(html: str, item_colors: dict[str, str]) -> list[dict]:
     soup = BeautifulSoup(html, "lxml")
     best_table = None
     best_count = 0
@@ -120,16 +127,19 @@ def _parse_rods_table(html: str) -> list[dict]:
             except ValueError:
                 stage = None
 
-        rods.append(
-            {
-                "name": name,
-                "journal_category": location or "Other",
-                "obtainment": source,
-                "stage": stage,
-                "wiki_url": wiki_url(name),
-                "image_url": image_url_from_item_cell(name_cell),
-            }
-        )
+        rod: dict = {
+            "name": name,
+            "journal_category": location or "Other",
+            "obtainment": source,
+            "stage": stage,
+            "wiki_url": wiki_url(name),
+            "image_url": image_url_from_item_cell(name_cell),
+        }
+        slug = item_slug_from_cell(name_cell)
+        if slug and slug in item_colors:
+            rod["color"] = item_colors[slug]
+
+        rods.append(rod)
 
     return rods
 
@@ -150,7 +160,8 @@ def _is_required(
 
 def scrape_rods() -> dict:
     html = fetch_parse_html("Fishing_Rods")
-    all_rods = _parse_rods_table(html)
+    item_colors = parse_item_colors(html)
+    all_rods = _parse_rods_table(html, item_colors)
     event_rods = fetch_category_members("Event Fishing Rods")
 
     required: list[dict] = []
@@ -168,6 +179,7 @@ def scrape_rods() -> dict:
                     "stage": rod["stage"],
                     "wiki_url": rod["wiki_url"],
                     "image_url": rod.get("image_url"),
+                    **({"color": rod["color"]} if rod.get("color") else {}),
                 }
             )
         else:

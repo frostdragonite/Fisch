@@ -16,6 +16,8 @@ export interface ChecklistRow {
   detail: string;
   wiki_url: string;
   image_url?: string | null;
+  color?: string | null;
+  rarity?: string | null;
   checked: boolean;
 }
 
@@ -57,6 +59,7 @@ export interface ChecklistRow {
                 <th></th>
                 <th></th>
                 <th>ชื่อ</th>
+                <th></th>
                 <th>รายละเอียด</th>
               </tr>
             </thead>
@@ -73,8 +76,25 @@ export interface ChecklistRow {
                   <td class="thumb-cell">
                     <app-item-thumbnail [imageUrl]="row.image_url" [name]="row.name" />
                   </td>
-                  <td>
-                    <a [href]="row.wiki_url" target="_blank" rel="noopener">{{ row.name }}</a>
+                  <td class="name-cell">
+                    @if (row.color) {
+                      <span class="item-name" [style.color]="row.color">{{ row.name }}</span>
+                    } @else if (row.rarity) {
+                      <span class="item-name" [class]="rarityClass(row.rarity)">{{ row.name }}</span>
+                    } @else {
+                      <span class="item-name">{{ row.name }}</span>
+                    }
+                  </td>
+                  <td class="wiki-cell">
+                    <a
+                      class="btn btn-sm wiki-btn"
+                      [href]="row.wiki_url"
+                      target="_blank"
+                      rel="noopener"
+                      [attr.aria-label]="'เปิด Wiki: ' + row.name"
+                    >
+                      Wiki
+                    </a>
                   </td>
                   <td class="muted detail">{{ row.detail }}</td>
                 </tr>
@@ -114,6 +134,13 @@ export class CategorySectionComponent {
     () =>
       `ติ๊กทั้งหมดในหมวด «${this.title()}» (${this.uncheckedIds().length} รายการ) ใช่ไหม?`
   );
+
+  rarityClass(rarity: string | null | undefined): string {
+    if (!rarity) {
+      return 'item-name';
+    }
+    return `item-name name--rarity-${rarity}`;
+  }
 
   onConfirmCheckAll(): void {
     this.checkAll.emit(this.uncheckedIds());

@@ -1,0 +1,97 @@
+.name--rarity-trash {
+  color: #b1b1b1;
+}
+
+.name--rarity-common {
+  color: #befaff;
+}
+
+.name--rarity-uncommon {
+  color: #a1ffa9;
+}
+
+.name--rarity-unusual {
+  color: #efa6f7;
+}
+
+.name--rarity-rare {
+  color: #ab9dff;
+}
+
+.name--rarity-legendary {
+  color: #ffd096;
+}
+
+.name--rarity-mythical,
+.name--rarity-mythic {
+  color: #ff5d8e;
+}
+
+.name--rarity-apex {
+  color: #ff0000;
+}
+
+.name--rarity-relic {
+  color: #78ffb7;
+}
+
+.name--rarity-limited,
+.name--rarity-event {
+  color: #6c87ff;
+}
+
+.name--rarity-extinct {
+  color: #faafaf;
+}
+
+.name--rarity-fragment {
+  color: #ff3f05;
+}
+
+.name--rarity-seed {
+  color: #afff2f;
+}
+
+.name--rarity-gemstone {
+  color: #ac39ff;
+}
+
+.name--rarity-exotic {
+  background: linear-gradient(90deg, #ff65ce, #ffff6e, #8fff8f, #99feff, #a8afff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+}
+
+.name--rarity-secret {
+  background: linear-gradient(90deg, #828282, #fff, #828282);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+}
+
+.name--rarity-cataclysmic {
+  background: linear-gradient(90deg, #7f181c, #4e1807, #9d2800);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+}
+
+.name--rarity-special {
+  background: linear-gradient(90deg, #ffabff, #ff937d, #ffd675);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+}
+
+.name--rarity-divine-secret {
+  background: linear-gradient(90deg, #8050dc, #c9a6e7);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+}

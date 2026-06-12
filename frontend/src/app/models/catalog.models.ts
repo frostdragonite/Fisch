@@ -6,6 +6,7 @@ export interface RodItem {
   stage: number | null;
   wiki_url: string;
   image_url?: string | null;
+  color?: string | null;
 }
 
 export interface FishItem {
@@ -18,6 +19,7 @@ export interface FishItem {
   bait: string | null;
   wiki_url: string;
   image_url?: string | null;
+  rarity?: string | null;
 }
 
 export interface RodCategory {
