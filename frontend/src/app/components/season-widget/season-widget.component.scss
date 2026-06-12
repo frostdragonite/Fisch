@@ -1,0 +1,156 @@
+.season-float {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 20;
+  padding: 0.75rem;
+  width: min(19rem, calc(100vw - 2rem));
+  box-shadow: 0 8px 28px rgb(0 0 0 / 45%);
+}
+
+/* Mobile-first: current season + expand */
+.season-float__desktop {
+  display: none;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.season-float__mobile {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.season-float__others {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.45rem;
+}
+
+.season-float__cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  min-width: 0;
+}
+
+.season-float__cell--compact {
+  gap: 0.25rem;
+  padding: 0.5rem 0.35rem;
+  min-height: 4.25rem;
+  background: var(--surface-2);
+  border-color: color-mix(in srgb, var(--season-color) 35%, var(--border));
+}
+
+.season-float__cell--featured {
+  gap: 0.35rem;
+  padding: 0.75rem 1rem;
+  min-height: 5.5rem;
+  border-color: var(--season-color);
+  background: color-mix(in srgb, var(--season-color) 14%, var(--surface));
+}
+
+.season-float__cell--solo {
+  padding: 0.65rem 0.85rem;
+  min-height: 5rem;
+}
+
+.season-float__cell--row {
+  flex-direction: row;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.55rem 0.65rem;
+  min-height: 2.75rem;
+  background: var(--surface-2);
+  border-color: color-mix(in srgb, var(--season-color) 30%, var(--border));
+}
+
+.season-float__mobile-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.season-float__icon {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  flex-shrink: 0;
+  image-rendering: auto;
+}
+
+.season-float__icon--featured {
+  width: 44px;
+  height: 44px;
+}
+
+.season-float__icon--muted {
+  opacity: 0.45;
+  filter: grayscale(1) brightness(1.15);
+}
+
+.season-float__name {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--season-color);
+  line-height: 1.15;
+}
+
+.season-float__name--row {
+  flex: 1;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.season-float__countdown {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  line-height: 1.25;
+  white-space: nowrap;
+}
+
+.season-float__countdown--compact {
+  font-size: 0.68rem;
+}
+
+.season-float__countdown--featured {
+  color: var(--season-color);
+  font-weight: 600;
+  font-size: 0.88rem;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.season-float__cell--row .season-float__countdown {
+  font-size: 0.75rem;
+  margin-left: auto;
+}
+
+.season-float__toggle {
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text-muted);
+  padding: 0.45rem 0.6rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.8rem;
+  width: 100%;
+}
+
+.season-float__toggle:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+/* Desktop: 3 + 1 grid */
+@media (min-width: 768px) {
+  .season-float__desktop {
+    display: flex;
+  }
+
+  .season-float__mobile {
+    display: none;
+  }
+}

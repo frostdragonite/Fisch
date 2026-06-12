@@ -37,6 +37,11 @@
   font-weight: 500;
 }
 
+.condition-chip--active-season .condition-chip__label {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .condition-chip--none {
   color: var(--text-muted);
 }

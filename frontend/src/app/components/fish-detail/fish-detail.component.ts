@@ -1,4 +1,5 @@
-import { ChangeDetectionStrategy, Component, computed, input } from '@angular/core';
+import { ChangeDetectionStrategy, Component, computed, inject, input } from '@angular/core';
+import { SeasonService } from '../../services/season.service';
 import {
   ConditionStyle,
   NONE_COLOR,
@@ -28,7 +29,11 @@ interface ConditionChip {
           <span class="condition-sep" aria-hidden="true">·</span>
         }
         @for (chip of group; track chip.label + $index) {
-          <span class="condition-chip" [style.color]="chip.color">
+          <span
+            class="condition-chip"
+            [class.condition-chip--active-season]="isActiveSeasonChip(chip)"
+            [style.color]="chip.color"
+          >
             @if (chip.icon) {
               <img
                 class="condition-chip__icon"
@@ -51,6 +56,8 @@ interface ConditionChip {
   styleUrl: './fish-detail.component.scss',
 })
 export class FishDetailComponent {
+  private readonly seasonService = inject(SeasonService);
+
   readonly detail = input.required<FishDetailData>();
 
   readonly conditionGroups = computed(() => {
@@ -79,6 +86,13 @@ export class FishDetailComponent {
       return [{ label: 'None', icon: null, color: NONE_COLOR }];
     }
     return [{ label: value!.trim(), icon: null, color: 'var(--text)' }];
+  }
+
+  isActiveSeasonChip(chip: ConditionChip): boolean {
+    return (
+      chip.label in SEASON_STYLES &&
+      this.seasonService.isActiveSeason(chip.label)
+    );
   }
 
   private chipForToken(

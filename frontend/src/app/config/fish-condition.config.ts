@@ -39,6 +39,8 @@ export const TIME_STYLES: Record<string, ConditionStyle> = {
   },
 };
 
+const WIKI_STATIC = 'https://static.wikitide.net/fischwiki';
+
 export const SEASON_STYLES: Record<string, ConditionStyle> = {
   Spring: {
     icon: `${WIKI}/9/9c/Spring.png/20px-Spring.png`,
@@ -55,6 +57,33 @@ export const SEASON_STYLES: Record<string, ConditionStyle> = {
   Winter: {
     icon: `${WIKI}/a/a7/Winter.png/20px-Winter.png`,
     color: '#90f0ff',
+  },
+};
+
+/** Full-size wiki PNGs for the season widget (no SVG on wiki). */
+export const SEASON_WIDGET_STYLES: Record<
+  string,
+  { inactive: string; active: string; color: string }
+> = {
+  Spring: {
+    inactive: `${WIKI_STATIC}/9/9c/Spring.png`,
+    active: `${WIKI_STATIC}/e/e2/Spring_Current.png`,
+    color: '#84f182',
+  },
+  Summer: {
+    inactive: `${WIKI_STATIC}/8/85/Summer.png`,
+    active: `${WIKI_STATIC}/5/50/Summer_Current.png`,
+    color: '#ffe015',
+  },
+  Autumn: {
+    inactive: `${WIKI_STATIC}/e/e6/Autumn.png`,
+    active: `${WIKI_STATIC}/8/81/Autumn_Current.png`,
+    color: '#ff8d59',
+  },
+  Winter: {
+    inactive: `${WIKI_STATIC}/a/a7/Winter.png`,
+    active: `${WIKI_STATIC}/d/d2/Winter_Current.png`,
+    color: '#96c8ff',
   },
 };
 

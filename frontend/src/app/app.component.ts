@@ -1,6 +1,7 @@
 import { Component, OnInit, effect, inject } from '@angular/core';
 import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 import { ActivatedRoute } from '@angular/router';
+import { SeasonWidgetComponent } from './components/season-widget/season-widget.component';
 import { CatalogService } from './services/catalog.service';
 import { ProgressIdService } from './services/progress-id.service';
 import { ProgressService } from './services/progress.service';
@@ -8,7 +9,7 @@ import { ProgressService } from './services/progress.service';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, RouterLink, RouterLinkActive],
+  imports: [RouterOutlet, RouterLink, RouterLinkActive, SeasonWidgetComponent],
   template: `
     <div class="app-shell">
       <header class="app-header">
@@ -22,6 +23,7 @@ import { ProgressService } from './services/progress.service';
       <main class="app-main">
         <router-outlet />
       </main>
+      <app-season-widget />
     </div>
   `,
   styleUrl: './app.component.scss',
