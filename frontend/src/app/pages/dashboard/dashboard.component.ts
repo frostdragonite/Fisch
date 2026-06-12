@@ -5,6 +5,7 @@ import { CatalogService } from '../../services/catalog.service';
 import { LocaleService } from '../../services/locale.service';
 import { ProgressIdService } from '../../services/progress-id.service';
 import { ProgressService } from '../../services/progress.service';
+import { APP_VERSION } from '../../../environments/version.generated';
 
 @Component({
   selector: 'app-dashboard',
@@ -45,6 +46,10 @@ import { ProgressService } from '../../services/progress.service';
           </button>
         </div>
 
+        <p class="muted meta">
+          {{ locale.t('dashboard.version', { version: appVersion }) }}
+        </p>
+
         @if (scrapedAt()) {
           <p class="muted meta">{{ locale.t('dashboard.wikiUpdated') }} {{ scrapedAt() }}</p>
         }
@@ -67,6 +72,7 @@ export class DashboardComponent {
   private readonly progressId = inject(ProgressIdService);
 
   readonly copied = signal(false);
+  readonly appVersion = APP_VERSION;
 
   readonly rodsTotal = computed(
     () => this.catalog.rodsCatalog()?.meta.total_required ?? 0

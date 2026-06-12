@@ -16,6 +16,7 @@ export const TRANSLATIONS = {
     'dashboard.copyLink': 'คัดลอก Share Link',
     'dashboard.copied': 'คัดลอกแล้ว!',
     'dashboard.wikiUpdated': 'ข้อมูล Wiki อัปเดตล่าสุด:',
+    'dashboard.version': 'เวอร์ชันแอพ {version}',
     'dashboard.saving': 'กำลังบันทึก...',
 
     'fish.subtitle':
@@ -83,6 +84,7 @@ export const TRANSLATIONS = {
     'dashboard.copyLink': 'Copy Share Link',
     'dashboard.copied': 'Copied!',
     'dashboard.wikiUpdated': 'Wiki data last updated:',
+    'dashboard.version': 'App version {version}',
     'dashboard.saving': 'Saving...',
 
     'fish.subtitle':
