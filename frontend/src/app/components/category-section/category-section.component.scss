@@ -74,8 +74,9 @@ th {
   color: var(--text-muted);
 }
 
-td:first-child {
-  width: 2rem;
+.check-cell {
+  width: 2.75rem;
+  vertical-align: middle;
 }
 
 .thumb-cell {
@@ -88,8 +89,12 @@ td:first-child {
   max-width: 480px;
 }
 
-.checked-row {
-  opacity: 0.75;
+.checked-row a {
+  color: var(--text-muted);
+}
+
+.checked-row .detail {
+  opacity: 0.85;
 }
 
 a {

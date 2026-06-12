@@ -6,6 +6,7 @@ import {
   output,
   signal,
 } from '@angular/core';
+import { ChecklistCheckboxComponent } from '../checklist-checkbox/checklist-checkbox.component';
 import { ConfirmDialogComponent } from '../confirm-dialog/confirm-dialog.component';
 import { ItemThumbnailComponent } from '../item-thumbnail/item-thumbnail.component';
 
@@ -21,7 +22,7 @@ export interface ChecklistRow {
 @Component({
   selector: 'app-category-section',
   standalone: true,
-  imports: [ItemThumbnailComponent, ConfirmDialogComponent],
+  imports: [ChecklistCheckboxComponent, ItemThumbnailComponent, ConfirmDialogComponent],
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <section class="category-section card">
@@ -62,11 +63,11 @@ export interface ChecklistRow {
             <tbody>
               @for (row of rows(); track row.id) {
                 <tr [class.checked-row]="row.checked">
-                  <td>
-                    <input
-                      type="checkbox"
+                  <td class="check-cell">
+                    <app-checklist-checkbox
                       [checked]="row.checked"
-                      (change)="toggle.emit({ id: row.id, checked: $any($event.target).checked })"
+                      [ariaLabel]="'ติ๊ก ' + row.name"
+                      (checkedChange)="toggle.emit({ id: row.id, checked: $event })"
                     />
                   </td>
                   <td class="thumb-cell">
