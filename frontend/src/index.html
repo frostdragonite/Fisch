@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fisch Masterline Checklist</title>
+    <base href="/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script>
+      (function () {
+        var redirect = sessionStorage.getItem('ghPagesRedirect');
+        if (redirect) {
+          sessionStorage.removeItem('ghPagesRedirect');
+          history.replaceState(null, '', redirect);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <app-root></app-root>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+.filter-bar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+select,
+input {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 8px;
+  padding: 0.45rem 0.6rem;
+}
+
+.search-field {
+  grid-column: 1 / -1;
+}

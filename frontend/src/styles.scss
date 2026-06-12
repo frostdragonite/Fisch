@@ -1,0 +1,63 @@
+:root {
+  --bg: #0f1117;
+  --surface: #171a22;
+  --surface-2: #1f2430;
+  --border: #2d3548;
+  --text: #e8ecf4;
+  --text-muted: #9aa6bf;
+  --accent: #6eb5ff;
+  --success: #5fd49a;
+  --danger: #ff7b7b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+}
+
+.muted {
+  color: var(--text-muted);
+}
+
+.btn {
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  border-color: var(--accent);
+}
+
+.btn-primary {
+  background: #1a3a5c;
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.btn-sm {
+  padding: 0.35rem 0.65rem;
+  font-size: 0.82rem;
+}

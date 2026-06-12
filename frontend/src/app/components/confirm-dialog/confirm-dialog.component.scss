@@ -1,0 +1,41 @@
+.backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 1000;
+}
+
+.dialog-wrap {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  z-index: 1001;
+  pointer-events: none;
+}
+
+.dialog {
+  width: min(100%, 400px);
+  padding: 1.25rem 1.5rem;
+  pointer-events: auto;
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.45);
+}
+
+.dialog-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+}
+
+.dialog-message {
+  margin: 0 0 1.25rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.dialog-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+}
