@@ -76,6 +76,20 @@ interface ConditionChip {
           <span class="fish-detail__meta-value">{{ detail().source }}</span>
         </div>
       }
+      @if (detail().gps) {
+        <div class="fish-detail__meta">
+          <span class="fish-detail__meta-label">{{ locale.t('fishDetail.gps') }}</span>
+          @if (gpsCoords(); as coords) {
+            <span class="fish-detail__meta-value fish-detail__gps">
+              <span class="fish-detail__gps-x">{{ coords.x }}</span>,
+              <span class="fish-detail__gps-y">{{ coords.y }}</span>,
+              <span class="fish-detail__gps-z">{{ coords.z }}</span>
+            </span>
+          } @else {
+            <span class="fish-detail__meta-value">{{ detail().gps }}</span>
+          }
+        </div>
+      }
       @if (baitItems().length) {
         <div class="fish-detail__meta">
           <span class="fish-detail__meta-label">{{ locale.t('fishDetail.bait') }}</span>
@@ -114,6 +128,18 @@ export class FishDetailComponent {
       this.chipsForField(data.time, TIME_STYLES, 'time'),
       this.chipsForField(data.season, SEASON_STYLES, 'season'),
     ];
+  });
+
+  readonly gpsCoords = computed((): { x: string; y: string; z: string } | null => {
+    const raw = this.detail().gps?.trim();
+    if (!raw) {
+      return null;
+    }
+    const parts = raw.split(',').map((part) => part.trim());
+    if (parts.length !== 3 || parts.some((part) => !part)) {
+      return null;
+    }
+    return { x: parts[0], y: parts[1], z: parts[2] };
   });
 
   readonly baitItems = computed((): BaitItem[] => {

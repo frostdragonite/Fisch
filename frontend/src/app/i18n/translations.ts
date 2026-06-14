@@ -51,6 +51,7 @@ export const TRANSLATIONS = {
 
     'fishDetail.bait': 'Bait:',
     'fishDetail.source': 'Source:',
+    'fishDetail.gps': 'GPS:',
     'common.openWiki': 'เปิด Wiki: {name}',
 
     'error.progressLoad':
@@ -119,6 +120,7 @@ export const TRANSLATIONS = {
 
     'fishDetail.bait': 'Bait:',
     'fishDetail.source': 'Source:',
+    'fishDetail.gps': 'GPS:',
     'common.openWiki': 'Open wiki: {name}',
 
     'error.progressLoad':

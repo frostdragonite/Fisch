@@ -22,6 +22,7 @@ export interface FishDetailData {
   bait: string | null;
   bait_items?: BaitItem[];
   source?: string | null;
+  gps?: string | null;
 }
 
 export interface FishItem {
@@ -34,6 +35,7 @@ export interface FishItem {
   bait: string | null;
   bait_items?: BaitItem[];
   source?: string | null;
+  gps?: string | null;
   wiki_url: string;
   image_url?: string | null;
   rarity?: string | null;

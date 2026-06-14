@@ -143,6 +143,7 @@ export class FishComponent {
           bait: fish.bait,
           bait_items: fish.bait_items,
           source: fish.source,
+          gps: fish.gps,
         },
         wiki_url: fish.wiki_url,
         image_url: fish.image_url,
