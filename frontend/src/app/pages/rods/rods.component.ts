@@ -84,7 +84,7 @@ export class RodsComponent {
   );
 
   readonly checkedCount = computed(() =>
-    this.progress.countChecked(this.progress.rods())
+    this.progress.countChecked(this.progress.rods(), this.catalog.rodIds())
   );
 
   readonly visibleSections = computed(() => {

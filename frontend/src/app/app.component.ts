@@ -55,6 +55,18 @@ export class AppComponent implements OnInit {
         void this.progress.load(id);
       }
     });
+
+    effect(() => {
+      const fishCatalog = this.catalog.fishCatalog();
+      const rodsCatalog = this.catalog.rodsCatalog();
+      if (!fishCatalog || !rodsCatalog) {
+        return;
+      }
+
+      this.progress.fish();
+      this.progress.rods();
+      this.progress.pruneToValidIds(this.catalog.fishIds(), this.catalog.rodIds());
+    });
   }
 
   ngOnInit(): void {

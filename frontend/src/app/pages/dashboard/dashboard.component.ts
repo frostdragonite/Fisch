@@ -81,10 +81,10 @@ export class DashboardComponent {
     () => this.catalog.fishCatalog()?.meta.total_required ?? 0
   );
   readonly rodsChecked = computed(() =>
-    this.progress.countChecked(this.progress.rods())
+    this.progress.countChecked(this.progress.rods(), this.catalog.rodIds())
   );
   readonly fishChecked = computed(() =>
-    this.progress.countChecked(this.progress.fish())
+    this.progress.countChecked(this.progress.fish(), this.catalog.fishIds())
   );
   readonly scrapedAt = computed(() => {
     this.locale.locale();

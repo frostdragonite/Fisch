@@ -155,7 +155,59 @@ export class ProgressService {
     }
   }
 
-  countChecked(map: Record<string, boolean>): number {
-    return Object.keys(map).length;
+  countChecked(
+    map: Record<string, boolean>,
+    validIds?: ReadonlySet<string>
+  ): number {
+    if (!validIds) {
+      return Object.keys(map).length;
+    }
+
+    let count = 0;
+    for (const id of validIds) {
+      if (map[id]) {
+        count++;
+      }
+    }
+    return count;
+  }
+
+  pruneToValidIds(
+    validFishIds: ReadonlySet<string>,
+    validRodIds: ReadonlySet<string>
+  ): void {
+    let changed = false;
+
+    this.fish.update((current) => {
+      const next: Record<string, boolean> = {};
+      for (const [id, checked] of Object.entries(current)) {
+        if (!validFishIds.has(id)) {
+          changed = true;
+          continue;
+        }
+        if (checked) {
+          next[id] = true;
+        }
+      }
+      return changed ? next : current;
+    });
+
+    this.rods.update((current) => {
+      const next: Record<string, boolean> = {};
+      for (const [id, checked] of Object.entries(current)) {
+        if (!validRodIds.has(id)) {
+          changed = true;
+          continue;
+        }
+        if (checked) {
+          next[id] = true;
+        }
+      }
+      return changed ? next : current;
+    });
+
+    if (changed) {
+      this.scheduleSave();
+    }
   }
 }

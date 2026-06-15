@@ -27,6 +27,6 @@ export class ProgressBarComponent {
     if (!total) {
       return 0;
     }
-    return Math.round((this.checked() / total) * 100);
+    return Math.min(100, Math.round((this.checked() / total) * 100));
   }
 }

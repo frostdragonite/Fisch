@@ -83,7 +83,7 @@ export class FishComponent {
   );
 
   readonly checkedCount = computed(() =>
-    this.progress.countChecked(this.progress.fish())
+    this.progress.countChecked(this.progress.fish(), this.catalog.fishIds())
   );
 
   readonly visibleSections = computed(() => {
