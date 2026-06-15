@@ -46,6 +46,30 @@ import { APP_VERSION } from '../../../environments/version.generated';
           </button>
         </div>
 
+        <div class="save-panel card">
+          <h2 class="save-panel__title">{{ locale.t('dashboard.saveTitle') }}</h2>
+          <p class="muted save-panel__hint">{{ locale.t('dashboard.saveHint') }}</p>
+          @if (progressId.progressId(); as id) {
+            <div class="save-panel__current">
+              <span class="muted">{{ locale.t('dashboard.currentSave') }}</span>
+              <code>{{ id }}</code>
+            </div>
+          }
+          <div class="save-panel__load">
+            <input
+              type="text"
+              class="save-panel__input"
+              [placeholder]="locale.t('dashboard.loadPlaceholder')"
+              [value]="loadInput()"
+              (input)="loadInput.set($any($event.target).value)"
+              (keydown.enter)="loadSave()"
+            />
+            <button type="button" class="btn" (click)="loadSave()">
+              {{ locale.t('dashboard.loadSave') }}
+            </button>
+          </div>
+        </div>
+
         <p class="muted meta">
           {{ locale.t('dashboard.version', { version: appVersion }) }}
         </p>
@@ -69,9 +93,10 @@ export class DashboardComponent {
   readonly locale = inject(LocaleService);
   readonly catalog = inject(CatalogService);
   readonly progress = inject(ProgressService);
-  private readonly progressId = inject(ProgressIdService);
+  readonly progressId = inject(ProgressIdService);
 
   readonly copied = signal(false);
+  readonly loadInput = signal('');
   readonly appVersion = APP_VERSION;
 
   readonly rodsTotal = computed(
@@ -100,5 +125,14 @@ export class DashboardComponent {
     await navigator.clipboard.writeText(url);
     this.copied.set(true);
     setTimeout(() => this.copied.set(false), 2000);
+  }
+
+  loadSave(): void {
+    const id = this.loadInput().trim();
+    if (!id) {
+      return;
+    }
+    this.progressId.switchTo(id);
+    this.loadInput.set('');
   }
 }

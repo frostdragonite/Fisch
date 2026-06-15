@@ -27,3 +27,46 @@
 .error {
   color: var(--danger);
 }
+
+.save-panel {
+  margin-top: 1.5rem;
+}
+
+.save-panel__title {
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+}
+
+.save-panel__hint {
+  margin: 0 0 1rem;
+  font-size: 0.85rem;
+}
+
+.save-panel__current {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 1rem;
+  font-size: 0.85rem;
+
+  code {
+    word-break: break-all;
+    font-size: 0.8rem;
+  }
+}
+
+.save-panel__load {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.save-panel__input {
+  flex: 1 1 12rem;
+  min-width: 0;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border, #ccc);
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.9rem;
+}
