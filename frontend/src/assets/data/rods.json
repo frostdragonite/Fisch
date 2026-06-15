@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-12T13:39:42.467461+00:00",
+  "scraped_at": "2026-06-15T02:12:35.334897+00:00",
   "wiki_version_note": "233 total rods scraped",
   "categories": [
     {
@@ -1543,21 +1543,6 @@
       ]
     },
     {
-      "name": "The Shady Bazaar",
-      "rods": [
-        {
-          "id": "noiseform",
-          "name": "Noiseform",
-          "journal_category": "The Shady Bazaar",
-          "obtainment": "Mysterious ShadowQuest",
-          "stage": 12,
-          "wiki_url": "https://fischipedia.org/wiki/Noiseform",
-          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/54/Noiseform.png/64px-Noiseform.png",
-          "color": "rgb(0 255 61)"
-        }
-      ]
-    },
-    {
       "name": "Limited",
       "rods": [
         {
@@ -1859,6 +1844,16 @@
           "wiki_url": "https://fischipedia.org/wiki/Noctone",
           "image_url": "https://static.wikitide.net/fischwiki/thumb/e/e9/Noctone.png/64px-Noctone.png",
           "color": "rgb(230 166 54)"
+        },
+        {
+          "id": "noiseform",
+          "name": "Noiseform",
+          "journal_category": "Limited",
+          "obtainment": "Mysterious ShadowQuest",
+          "stage": 12,
+          "wiki_url": "https://fischipedia.org/wiki/Noiseform",
+          "image_url": "https://static.wikitide.net/fischwiki/thumb/5/54/Noiseform.png/64px-Noiseform.png",
+          "color": "rgb(0 255 61)"
         },
         {
           "id": "original-no-life-rod",
